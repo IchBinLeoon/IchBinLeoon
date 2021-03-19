@@ -84,7 +84,7 @@
 
 - [5-toubun no Hanayome ∬](https://myanimelist.net/anime.php?id=39783) ep. 11
 
-- [Jujutsu Kaisen](https://myanimelist.net/manga.php?id=113138) chap. 61
+- [Jujutsu Kaisen](https://myanimelist.net/manga.php?id=113138) chap. 63
 
 - [Detective Conan Movie 10: Requiem of the Detectives](https://myanimelist.net/anime.php?id=1506) ep. 1
 
