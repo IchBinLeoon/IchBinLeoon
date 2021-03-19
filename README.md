@@ -77,6 +77,37 @@
   </a>
 </p>
 <!-- MyAnimeList Activity Start -->
+
+- [5-toubun no Hanayome ∬](https://myanimelist.net/anime.php?id=39783) ep. 11
+
+- [Detective Conan Movie 10: Requiem of the Detectives](https://myanimelist.net/anime.php?id=1506) ep. 1
+
+- [Magic Kaito](https://myanimelist.net/anime.php?id=8310) ep. 12
+
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 442
+
+- [Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2](https://myanimelist.net/anime.php?id=42203) ep. 11
+
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 434
+
+- [Magic Kaito](https://myanimelist.net/anime.php?id=8310) ep. 3
+
+- [Wonder Egg Priority](https://myanimelist.net/anime.php?id=43299) ep. 10
+
+- [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime.php?id=39551) ep. 10
+
+- [Urasekai Picnic](https://myanimelist.net/anime.php?id=41392) ep. 11
+
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 428
+
+- [Magic Kaito](https://myanimelist.net/anime.php?id=8310) ep. 1
+
+- [Magic Kaito 1412](https://myanimelist.net/anime.php?id=25517) ep. 24
+
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 426
+
+- [Urasekai Picnic](https://myanimelist.net/manga.php?id=110766) chap. 36
+
 <!-- MyAnimeList Activity End -->
 </details>
 
