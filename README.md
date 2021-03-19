@@ -78,6 +78,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Dr. Stone: Stone Wars](https://myanimelist.net/anime.php?id=40852) ep. 10
+
 - [5-toubun no Hanayome ∬](https://myanimelist.net/anime.php?id=39783) ep. 11
 
 - [Detective Conan Movie 10: Requiem of the Detectives](https://myanimelist.net/anime.php?id=1506) ep. 1
@@ -105,8 +107,6 @@
 - [Magic Kaito 1412](https://myanimelist.net/anime.php?id=25517) ep. 24
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 426
-
-- [Urasekai Picnic](https://myanimelist.net/manga.php?id=110766) chap. 36
 
 <!-- MyAnimeList Activity End -->
 </details>
