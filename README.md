@@ -84,6 +84,8 @@
 
 - [5-toubun no Hanayome ∬](https://myanimelist.net/anime.php?id=39783) ep. 11
 
+- [Jujutsu Kaisen](https://myanimelist.net/manga.php?id=113138) chap. 61
+
 - [Detective Conan Movie 10: Requiem of the Detectives](https://myanimelist.net/anime.php?id=1506) ep. 1
 
 - [Magic Kaito](https://myanimelist.net/anime.php?id=8310) ep. 12
@@ -105,8 +107,6 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 428
 
 - [Magic Kaito](https://myanimelist.net/anime.php?id=8310) ep. 1
-
-- [Magic Kaito 1412](https://myanimelist.net/anime.php?id=25517) ep. 24
 
 <!-- MyAnimeList Activity End -->
 </details>
