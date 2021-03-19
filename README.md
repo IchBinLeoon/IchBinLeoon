@@ -78,6 +78,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Jujutsu Kaisen (TV)](https://myanimelist.net/anime.php?id=40748) ep. 23
+
 - [Dr. Stone: Stone Wars](https://myanimelist.net/anime.php?id=40852) ep. 10
 
 - [5-toubun no Hanayome ∬](https://myanimelist.net/anime.php?id=39783) ep. 11
@@ -105,8 +107,6 @@
 - [Magic Kaito](https://myanimelist.net/anime.php?id=8310) ep. 1
 
 - [Magic Kaito 1412](https://myanimelist.net/anime.php?id=25517) ep. 24
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 426
 
 <!-- MyAnimeList Activity End -->
 </details>
