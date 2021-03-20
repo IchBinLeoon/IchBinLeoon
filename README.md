@@ -78,6 +78,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 445
+
+- [Detective Conan OVA 01: Conan vs. Kid vs. Yaiba](https://myanimelist.net/anime.php?id=1369) ep. 1
+
 - [Jujutsu Kaisen (TV)](https://myanimelist.net/anime.php?id=40748) ep. 23
 
 - [Dr. Stone: Stone Wars](https://myanimelist.net/anime.php?id=40852) ep. 10
@@ -103,10 +107,6 @@
 - [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime.php?id=39551) ep. 10
 
 - [Urasekai Picnic](https://myanimelist.net/anime.php?id=41392) ep. 11
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 428
-
-- [Magic Kaito](https://myanimelist.net/anime.php?id=8310) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
