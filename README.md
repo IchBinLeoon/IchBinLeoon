@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Mahoutsukai no Yome](https://myanimelist.net/anime.php?id=35062) ep. 18
+
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 445
 
 - [Detective Conan OVA 01: Conan vs. Kid vs. Yaiba](https://myanimelist.net/anime.php?id=1369) ep. 1
@@ -106,8 +108,6 @@
 - [Wonder Egg Priority](https://myanimelist.net/anime.php?id=43299) ep. 10
 
 - [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime.php?id=39551) ep. 10
-
-- [Urasekai Picnic](https://myanimelist.net/anime.php?id=41392) ep. 11
 
 <!-- MyAnimeList Activity End -->
 </details>
