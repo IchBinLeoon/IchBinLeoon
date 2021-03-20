@@ -8,6 +8,7 @@
 
 [![Python](https://img.shields.io/static/v1?style=flat-square&logo=Python&logoColor=FFFFFF&message=Python&color=3776AB&label=)](https://www.python.org/)
 [![Java](https://img.shields.io/static/v1?style=flat-square&logo=Java&logoColor=FFFFFF&message=Java&color=ED8B00&label=)](https://java.com/)
+[![JavaScript](https://img.shields.io/static/v1?style=flat-square&logo=JavaScript&logoColor=000000&message=JavaScript&color=F7DF1E&label=)](https://www.w3schools.com/js/)
 [![HTML5](https://img.shields.io/static/v1?style=flat-square&logo=HTML5&logoColor=FFFFFF&message=HTML5&color=E34F26&label=)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/static/v1?style=flat-square&logo=CSS3&logoColor=FFFFFF&message=CSS3&color=1572B6&label=)](https://www.w3schools.com/css/)
 [![RaspberryPi](https://img.shields.io/static/v1?style=flat-square&logo=Raspberry+Pi&logoColor=FFFFFF&message=Raspberry&nbsp;Pi&color=C51A4A&label=)](https://www.raspberrypi.org/)
