@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan OVA 04: Conan and Kid and Crystal Mother](https://myanimelist.net/anime.php?id=2514) ep. 1
+
 - [Detective Conan OVA 03: Conan and Heiji and the Vanished Boy](https://myanimelist.net/anime.php?id=2513) ep. 1
 
 - [Mahoutsukai no Yome](https://myanimelist.net/anime.php?id=35062) ep. 24
@@ -106,8 +108,6 @@
 - [Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2](https://myanimelist.net/anime.php?id=42203) ep. 11
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 434
-
-- [Magic Kaito](https://myanimelist.net/anime.php?id=8310) ep. 3
 
 <!-- MyAnimeList Activity End -->
 </details>
