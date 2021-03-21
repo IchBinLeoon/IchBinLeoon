@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Bokutachi wa Benkyou ga Dekinai!](https://myanimelist.net/anime.php?id=40004) ep. 8
+
 - [Mahoutsukai no Yome: Hoshi Matsu Hito](https://myanimelist.net/anime.php?id=32902) ep. 3
 
 - [Detective Conan OVA 04: Conan and Kid and Crystal Mother](https://myanimelist.net/anime.php?id=2514) ep. 1
@@ -106,8 +108,6 @@
 - [Magic Kaito](https://myanimelist.net/anime.php?id=8310) ep. 12
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 442
-
-- [Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2](https://myanimelist.net/anime.php?id=42203) ep. 11
 
 <!-- MyAnimeList Activity End -->
 </details>
