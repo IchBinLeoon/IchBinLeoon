@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Mahoutsukai no Yome](https://myanimelist.net/anime.php?id=35062) ep. 24
+
 - [Detective Conan OVA 02: 16 Suspects](https://myanimelist.net/anime.php?id=2512) ep. 1
 
 - [Mahoutsukai no Yome](https://myanimelist.net/anime.php?id=35062) ep. 18
@@ -106,8 +108,6 @@
 - [Magic Kaito](https://myanimelist.net/anime.php?id=8310) ep. 3
 
 - [Wonder Egg Priority](https://myanimelist.net/anime.php?id=43299) ep. 10
-
-- [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime.php?id=39551) ep. 10
 
 <!-- MyAnimeList Activity End -->
 </details>
