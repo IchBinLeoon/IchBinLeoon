@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan OVA 03: Conan and Heiji and the Vanished Boy](https://myanimelist.net/anime.php?id=2513) ep. 1
+
 - [Mahoutsukai no Yome](https://myanimelist.net/anime.php?id=35062) ep. 24
 
 - [Detective Conan OVA 02: 16 Suspects](https://myanimelist.net/anime.php?id=2512) ep. 1
@@ -106,8 +108,6 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 434
 
 - [Magic Kaito](https://myanimelist.net/anime.php?id=8310) ep. 3
-
-- [Wonder Egg Priority](https://myanimelist.net/anime.php?id=43299) ep. 10
 
 <!-- MyAnimeList Activity End -->
 </details>
