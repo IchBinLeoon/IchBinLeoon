@@ -93,8 +93,6 @@
 
 - [5-toubun no Hanayome ∬](https://myanimelist.net/anime.php?id=39783) ep. 11
 
-- [Jujutsu Kaisen](https://myanimelist.net/manga.php?id=113138) chap. 63
-
 - [Detective Conan Movie 10: Requiem of the Detectives](https://myanimelist.net/anime.php?id=1506) ep. 1
 
 - [Magic Kaito](https://myanimelist.net/anime.php?id=8310) ep. 12
@@ -108,6 +106,8 @@
 - [Magic Kaito](https://myanimelist.net/anime.php?id=8310) ep. 3
 
 - [Wonder Egg Priority](https://myanimelist.net/anime.php?id=43299) ep. 10
+
+- [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime.php?id=39551) ep. 10
 
 <!-- MyAnimeList Activity End -->
 </details>
