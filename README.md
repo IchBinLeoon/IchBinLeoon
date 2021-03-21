@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan OVA 05: The Target is Kogoro! The Detective Boys' Secret Investigation](https://myanimelist.net/anime.php?id=2515) ep. 1
+
 - [Bokutachi wa Benkyou ga Dekinai!](https://myanimelist.net/anime.php?id=40004) ep. 8
 
 - [Mahoutsukai no Yome: Hoshi Matsu Hito](https://myanimelist.net/anime.php?id=32902) ep. 3
@@ -106,8 +108,6 @@
 - [Detective Conan Movie 10: Requiem of the Detectives](https://myanimelist.net/anime.php?id=1506) ep. 1
 
 - [Magic Kaito](https://myanimelist.net/anime.php?id=8310) ep. 12
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 442
 
 <!-- MyAnimeList Activity End -->
 </details>
