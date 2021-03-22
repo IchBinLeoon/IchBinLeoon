@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Shingeki no Kyojin: The Final Season](https://myanimelist.net/anime.php?id=40028) ep. 15
+
 - [Detective Conan OVA 05: The Target is Kogoro! The Detective Boys' Secret Investigation](https://myanimelist.net/anime.php?id=2515) ep. 1
 
 - [Bokutachi wa Benkyou ga Dekinai!](https://myanimelist.net/anime.php?id=40004) ep. 8
@@ -106,8 +108,6 @@
 - [5-toubun no Hanayome ∬](https://myanimelist.net/anime.php?id=39783) ep. 11
 
 - [Detective Conan Movie 10: Requiem of the Detectives](https://myanimelist.net/anime.php?id=1506) ep. 1
-
-- [Magic Kaito](https://myanimelist.net/anime.php?id=8310) ep. 12
 
 <!-- MyAnimeList Activity End -->
 </details>
