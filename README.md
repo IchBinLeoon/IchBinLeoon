@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Death March kara Hajimaru Isekai Kyousoukyoku](https://myanimelist.net/anime.php?id=34497) ep. 12
+
 - [Kaichou wa Maid-sama!: Omake dayo!](https://myanimelist.net/anime.php?id=9366) ep. 1
 
 - [Kaichou wa Maid-sama!](https://myanimelist.net/anime.php?id=7054) ep. 26
@@ -106,8 +108,6 @@
 - [Detective Conan OVA 01: Conan vs. Kid vs. Yaiba](https://myanimelist.net/anime.php?id=1369) ep. 1
 
 - [Jujutsu Kaisen (TV)](https://myanimelist.net/anime.php?id=40748) ep. 23
-
-- [Dr. Stone: Stone Wars](https://myanimelist.net/anime.php?id=40852) ep. 10
 
 <!-- MyAnimeList Activity End -->
 </details>
