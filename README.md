@@ -85,6 +85,8 @@
 
 - [Dagashi Kashi](https://myanimelist.net/anime.php?id=31636) ep. 1
 
+- [Urasekai Picnic](https://myanimelist.net/manga.php?id=110766) chap. 37
+
 - [B-gata H-kei](https://myanimelist.net/anime.php?id=7817) ep. 2
 
 - [B-gata H-kei](https://myanimelist.net/anime.php?id=7817) ep. 1
@@ -106,8 +108,6 @@
 - [Mahoutsukai no Yome: Hoshi Matsu Hito](https://myanimelist.net/anime.php?id=32902) ep. 3
 
 - [Detective Conan OVA 04: Conan and Kid and Crystal Mother](https://myanimelist.net/anime.php?id=2514) ep. 1
-
-- [Detective Conan OVA 03: Conan and Heiji and the Vanished Boy](https://myanimelist.net/anime.php?id=2513) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
