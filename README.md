@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Urasekai Picnic](https://myanimelist.net/anime.php?id=41392) ep. 12
+
 - [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime.php?id=39551) ep. 11
 
 - [Dagashi Kashi](https://myanimelist.net/anime.php?id=31636) ep. 1
@@ -106,8 +108,6 @@
 - [Detective Conan OVA 04: Conan and Kid and Crystal Mother](https://myanimelist.net/anime.php?id=2514) ep. 1
 
 - [Detective Conan OVA 03: Conan and Heiji and the Vanished Boy](https://myanimelist.net/anime.php?id=2513) ep. 1
-
-- [Mahoutsukai no Yome](https://myanimelist.net/anime.php?id=35062) ep. 24
 
 <!-- MyAnimeList Activity End -->
 </details>
