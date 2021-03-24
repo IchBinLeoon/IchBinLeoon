@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [B-gata H-kei](https://myanimelist.net/anime.php?id=7817) ep. 3
+
 - [Dagashi Kashi](https://myanimelist.net/anime.php?id=31636) ep. 12
 
 - [Urasekai Picnic](https://myanimelist.net/anime.php?id=41392) ep. 12
@@ -106,8 +108,6 @@
 - [Detective Conan OVA 05: The Target is Kogoro! The Detective Boys' Secret Investigation](https://myanimelist.net/anime.php?id=2515) ep. 1
 
 - [Bokutachi wa Benkyou ga Dekinai!](https://myanimelist.net/anime.php?id=40004) ep. 8
-
-- [Mahoutsukai no Yome: Hoshi Matsu Hito](https://myanimelist.net/anime.php?id=32902) ep. 3
 
 <!-- MyAnimeList Activity End -->
 </details>
