@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime.php?id=39551) ep. 11
+
 - [Dagashi Kashi](https://myanimelist.net/anime.php?id=31636) ep. 1
 
 - [B-gata H-kei](https://myanimelist.net/anime.php?id=7817) ep. 2
@@ -106,8 +108,6 @@
 - [Detective Conan OVA 03: Conan and Heiji and the Vanished Boy](https://myanimelist.net/anime.php?id=2513) ep. 1
 
 - [Mahoutsukai no Yome](https://myanimelist.net/anime.php?id=35062) ep. 24
-
-- [Detective Conan OVA 02: 16 Suspects](https://myanimelist.net/anime.php?id=2512) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
