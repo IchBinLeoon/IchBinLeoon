@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Dagashi Kashi](https://myanimelist.net/anime.php?id=31636) ep. 1
+
 - [B-gata H-kei](https://myanimelist.net/anime.php?id=7817) ep. 2
 
 - [B-gata H-kei](https://myanimelist.net/anime.php?id=7817) ep. 1
@@ -106,8 +108,6 @@
 - [Mahoutsukai no Yome](https://myanimelist.net/anime.php?id=35062) ep. 24
 
 - [Detective Conan OVA 02: 16 Suspects](https://myanimelist.net/anime.php?id=2512) ep. 1
-
-- [Mahoutsukai no Yome](https://myanimelist.net/anime.php?id=35062) ep. 18
 
 <!-- MyAnimeList Activity End -->
 </details>
