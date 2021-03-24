@@ -79,6 +79,12 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [B-gata H-kei](https://myanimelist.net/anime.php?id=7817) ep. 2
+
+- [B-gata H-kei](https://myanimelist.net/anime.php?id=7817) ep. 1
+
+- [Yamada-kun to 7-nin no Majo (TV)](https://myanimelist.net/anime.php?id=28677) ep. 12
+
 - [Death March kara Hajimaru Isekai Kyousoukyoku](https://myanimelist.net/anime.php?id=34497) ep. 12
 
 - [Kaichou wa Maid-sama!: Omake dayo!](https://myanimelist.net/anime.php?id=9366) ep. 1
@@ -102,12 +108,6 @@
 - [Detective Conan OVA 02: 16 Suspects](https://myanimelist.net/anime.php?id=2512) ep. 1
 
 - [Mahoutsukai no Yome](https://myanimelist.net/anime.php?id=35062) ep. 18
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 445
-
-- [Detective Conan OVA 01: Conan vs. Kid vs. Yaiba](https://myanimelist.net/anime.php?id=1369) ep. 1
-
-- [Jujutsu Kaisen (TV)](https://myanimelist.net/anime.php?id=40748) ep. 23
 
 <!-- MyAnimeList Activity End -->
 </details>
