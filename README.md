@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Dagashi Kashi](https://myanimelist.net/anime.php?id=31636) ep. 12
+
 - [Urasekai Picnic](https://myanimelist.net/anime.php?id=41392) ep. 12
 
 - [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime.php?id=39551) ep. 11
@@ -106,8 +108,6 @@
 - [Bokutachi wa Benkyou ga Dekinai!](https://myanimelist.net/anime.php?id=40004) ep. 8
 
 - [Mahoutsukai no Yome: Hoshi Matsu Hito](https://myanimelist.net/anime.php?id=32902) ep. 3
-
-- [Detective Conan OVA 04: Conan and Kid and Crystal Mother](https://myanimelist.net/anime.php?id=2514) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
