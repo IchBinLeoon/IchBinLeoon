@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [5-toubun no Hanayome ∬](https://myanimelist.net/anime.php?id=39783) ep. 12
+
 - [Dr. Stone: Stone Wars](https://myanimelist.net/anime.php?id=40852) ep. 11
 
 - [Dr. Stone: Stone Wars](https://myanimelist.net/anime.php?id=40852) ep. 11
@@ -106,8 +108,6 @@
 - [Yamada-kun to 7-nin no Majo (TV)](https://myanimelist.net/anime.php?id=28677) ep. 12
 
 - [Death March kara Hajimaru Isekai Kyousoukyoku](https://myanimelist.net/anime.php?id=34497) ep. 12
-
-- [Kaichou wa Maid-sama!: Omake dayo!](https://myanimelist.net/anime.php?id=9366) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
