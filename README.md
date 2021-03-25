@@ -79,6 +79,14 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Dr. Stone: Stone Wars](https://myanimelist.net/anime.php?id=40852) ep. 11
+
+- [Dr. Stone: Stone Wars](https://myanimelist.net/anime.php?id=40852) ep. 11
+
+- [Dr. Stone: Stone Wars](https://myanimelist.net/anime.php?id=40852) ep. 10
+
+- [Dr. Stone: Stone Wars](https://myanimelist.net/anime.php?id=40852) ep. 11
+
 - [B-gata H-kei](https://myanimelist.net/anime.php?id=7817) ep. 3
 
 - [Dagashi Kashi](https://myanimelist.net/anime.php?id=31636) ep. 12
@@ -100,14 +108,6 @@
 - [Death March kara Hajimaru Isekai Kyousoukyoku](https://myanimelist.net/anime.php?id=34497) ep. 12
 
 - [Kaichou wa Maid-sama!: Omake dayo!](https://myanimelist.net/anime.php?id=9366) ep. 1
-
-- [Kaichou wa Maid-sama!](https://myanimelist.net/anime.php?id=7054) ep. 26
-
-- [Shingeki no Kyojin: The Final Season](https://myanimelist.net/anime.php?id=40028) ep. 15
-
-- [Detective Conan OVA 05: The Target is Kogoro! The Detective Boys' Secret Investigation](https://myanimelist.net/anime.php?id=2515) ep. 1
-
-- [Bokutachi wa Benkyou ga Dekinai!](https://myanimelist.net/anime.php?id=40004) ep. 8
 
 <!-- MyAnimeList Activity End -->
 </details>
