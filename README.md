@@ -79,6 +79,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Ore dake Haireru Kakushi Dungeon](https://myanimelist.net/anime.php?id=41899) ep. 5
+
+- [Ore dake Haireru Kakushi Dungeon](https://myanimelist.net/anime.php?id=41899) ep. 5
+
 - [Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2](https://myanimelist.net/anime.php?id=42203) ep. 12
 
 - [5-toubun no Hanayome ∬](https://myanimelist.net/anime.php?id=39783) ep. 12
@@ -104,10 +108,6 @@
 - [Urasekai Picnic](https://myanimelist.net/manga.php?id=110766) chap. 37
 
 - [B-gata H-kei](https://myanimelist.net/anime.php?id=7817) ep. 2
-
-- [B-gata H-kei](https://myanimelist.net/anime.php?id=7817) ep. 1
-
-- [Yamada-kun to 7-nin no Majo (TV)](https://myanimelist.net/anime.php?id=28677) ep. 12
 
 <!-- MyAnimeList Activity End -->
 </details>
