@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Horimiya](https://myanimelist.net/anime.php?id=42897) ep. 11
+
 - [Yakusoku no Neverland 2nd Season](https://myanimelist.net/anime.php?id=39617) ep. 11
 
 - [Yakusoku no Neverland 2nd Season](https://myanimelist.net/anime.php?id=39617) ep. 10
@@ -106,8 +108,6 @@
 - [Dr. Stone: Stone Wars](https://myanimelist.net/anime.php?id=40852) ep. 11
 
 - [Dr. Stone: Stone Wars](https://myanimelist.net/anime.php?id=40852) ep. 10
-
-- [Dr. Stone: Stone Wars](https://myanimelist.net/anime.php?id=40852) ep. 11
 
 <!-- MyAnimeList Activity End -->
 </details>
