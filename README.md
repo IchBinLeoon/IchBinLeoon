@@ -79,6 +79,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Mushoku Tensei: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=39535) ep. 11
+
+- [Mushoku Tensei: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=39535) ep. 10
+
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 1
 
 - [Jujutsu Kaisen (TV)](https://myanimelist.net/anime.php?id=40748) ep. 24
@@ -104,10 +108,6 @@
 - [B-gata H-kei](https://myanimelist.net/anime.php?id=7817) ep. 3
 
 - [Dagashi Kashi](https://myanimelist.net/anime.php?id=31636) ep. 12
-
-- [Urasekai Picnic](https://myanimelist.net/anime.php?id=41392) ep. 12
-
-- [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime.php?id=39551) ep. 11
 
 <!-- MyAnimeList Activity End -->
 </details>
