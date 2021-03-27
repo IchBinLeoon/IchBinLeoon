@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Net-juu no Susume](https://myanimelist.net/anime.php?id=36038) ep. 9
+
 - [Ore dake Haireru Kakushi Dungeon](https://myanimelist.net/anime.php?id=41899) ep. 5
 
 - [Ore dake Haireru Kakushi Dungeon](https://myanimelist.net/anime.php?id=41899) ep. 5
@@ -106,8 +108,6 @@
 - [Dagashi Kashi](https://myanimelist.net/anime.php?id=31636) ep. 1
 
 - [Urasekai Picnic](https://myanimelist.net/manga.php?id=110766) chap. 37
-
-- [B-gata H-kei](https://myanimelist.net/anime.php?id=7817) ep. 2
 
 <!-- MyAnimeList Activity End -->
 </details>
