@@ -79,6 +79,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Yakusoku no Neverland 2nd Season](https://myanimelist.net/anime.php?id=39617) ep. 11
+
+- [Yakusoku no Neverland 2nd Season](https://myanimelist.net/anime.php?id=39617) ep. 10
+
 - [Mushoku Tensei: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=39535) ep. 11
 
 - [Mushoku Tensei: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=39535) ep. 10
@@ -104,10 +108,6 @@
 - [Dr. Stone: Stone Wars](https://myanimelist.net/anime.php?id=40852) ep. 10
 
 - [Dr. Stone: Stone Wars](https://myanimelist.net/anime.php?id=40852) ep. 11
-
-- [B-gata H-kei](https://myanimelist.net/anime.php?id=7817) ep. 3
-
-- [Dagashi Kashi](https://myanimelist.net/anime.php?id=31636) ep. 12
 
 <!-- MyAnimeList Activity End -->
 </details>
