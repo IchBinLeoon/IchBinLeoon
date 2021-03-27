@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 1
+
 - [Jujutsu Kaisen (TV)](https://myanimelist.net/anime.php?id=40748) ep. 24
 
 - [Net-juu no Susume](https://myanimelist.net/anime.php?id=36038) ep. 9
@@ -106,8 +108,6 @@
 - [Urasekai Picnic](https://myanimelist.net/anime.php?id=41392) ep. 12
 
 - [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime.php?id=39551) ep. 11
-
-- [Dagashi Kashi](https://myanimelist.net/anime.php?id=31636) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
