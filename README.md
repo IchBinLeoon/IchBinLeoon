@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Jujutsu Kaisen (TV)](https://myanimelist.net/anime.php?id=40748) ep. 24
+
 - [Net-juu no Susume](https://myanimelist.net/anime.php?id=36038) ep. 9
 
 - [Ore dake Haireru Kakushi Dungeon](https://myanimelist.net/anime.php?id=41899) ep. 5
@@ -106,8 +108,6 @@
 - [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime.php?id=39551) ep. 11
 
 - [Dagashi Kashi](https://myanimelist.net/anime.php?id=31636) ep. 1
-
-- [Urasekai Picnic](https://myanimelist.net/manga.php?id=110766) chap. 37
 
 <!-- MyAnimeList Activity End -->
 </details>
