@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Sekikashita Kusanagi](https://myanimelist.net/anime.php?id=43349) ep. 1
+
 - [Net-juu no Susume Special](https://myanimelist.net/anime.php?id=36043) ep. 1
 
 - [Net-juu no Susume](https://myanimelist.net/anime.php?id=36038) ep. 10
@@ -103,8 +105,6 @@
 - [Mushoku Tensei: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=39535) ep. 10
 
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 1
-
-- [Jujutsu Kaisen (TV)](https://myanimelist.net/anime.php?id=40748) ep. 24
 
 <!-- MyAnimeList Activity End -->
 </details>
