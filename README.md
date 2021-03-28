@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Wonder Egg Priority](https://myanimelist.net/anime.php?id=43299) ep. 11
+
 - [Shingeki no Kyojin: The Final Season](https://myanimelist.net/anime.php?id=40028) ep. 16
 
 - [Nakitai Watashi wa Neko wo Kaburu](https://myanimelist.net/anime.php?id=41168) ep. 1
@@ -104,8 +106,6 @@
 - [Jujutsu Kaisen (TV)](https://myanimelist.net/anime.php?id=40748) ep. 24
 
 - [Net-juu no Susume](https://myanimelist.net/anime.php?id=36038) ep. 9
-
-- [Ore dake Haireru Kakushi Dungeon](https://myanimelist.net/anime.php?id=41899) ep. 5
 
 - [Ore dake Haireru Kakushi Dungeon](https://myanimelist.net/anime.php?id=41899) ep. 5
 
