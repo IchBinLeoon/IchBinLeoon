@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Nakitai Watashi wa Neko wo Kaburu](https://myanimelist.net/anime.php?id=41168) ep. 1
+
 - [Horimiya](https://myanimelist.net/anime.php?id=42897) ep. 12
 
 - [Kaifuku Jutsushi no Yarinaoshi](https://myanimelist.net/anime.php?id=40750) ep. 11
@@ -106,8 +108,6 @@
 - [Ore dake Haireru Kakushi Dungeon](https://myanimelist.net/anime.php?id=41899) ep. 5
 
 - [Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2](https://myanimelist.net/anime.php?id=42203) ep. 12
-
-- [5-toubun no Hanayome ∬](https://myanimelist.net/anime.php?id=39783) ep. 12
 
 <!-- MyAnimeList Activity End -->
 </details>
