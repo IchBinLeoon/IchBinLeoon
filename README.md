@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Shingeki no Kyojin: The Final Season](https://myanimelist.net/anime.php?id=40028) ep. 16
+
 - [Nakitai Watashi wa Neko wo Kaburu](https://myanimelist.net/anime.php?id=41168) ep. 1
 
 - [Horimiya](https://myanimelist.net/anime.php?id=42897) ep. 12
@@ -106,8 +108,6 @@
 - [Ore dake Haireru Kakushi Dungeon](https://myanimelist.net/anime.php?id=41899) ep. 5
 
 - [Ore dake Haireru Kakushi Dungeon](https://myanimelist.net/anime.php?id=41899) ep. 5
-
-- [Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2](https://myanimelist.net/anime.php?id=42203) ep. 12
 
 <!-- MyAnimeList Activity End -->
 </details>
