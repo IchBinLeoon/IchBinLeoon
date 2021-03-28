@@ -76,6 +76,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Net-juu no Susume Special](https://myanimelist.net/anime.php?id=36043) ep. 1
+
+- [Net-juu no Susume](https://myanimelist.net/anime.php?id=36038) ep. 10
+
 - [Wonder Egg Priority](https://myanimelist.net/anime.php?id=43299) ep. 11
 
 - [Shingeki no Kyojin: The Final Season](https://myanimelist.net/anime.php?id=40028) ep. 16
@@ -101,10 +105,6 @@
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 1
 
 - [Jujutsu Kaisen (TV)](https://myanimelist.net/anime.php?id=40748) ep. 24
-
-- [Net-juu no Susume](https://myanimelist.net/anime.php?id=36038) ep. 9
-
-- [Ore dake Haireru Kakushi Dungeon](https://myanimelist.net/anime.php?id=41899) ep. 5
 
 <!-- MyAnimeList Activity End -->
 </details>
