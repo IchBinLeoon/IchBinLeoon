@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Kaifuku Jutsushi no Yarinaoshi](https://myanimelist.net/anime.php?id=40750) ep. 11
+
 - [Hellsing](https://myanimelist.net/anime.php?id=270) ep. 1
 
 - [Horimiya](https://myanimelist.net/anime.php?id=42897) ep. 11
@@ -104,8 +106,6 @@
 - [Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2](https://myanimelist.net/anime.php?id=42203) ep. 12
 
 - [5-toubun no Hanayome ∬](https://myanimelist.net/anime.php?id=39783) ep. 12
-
-- [Dr. Stone: Stone Wars](https://myanimelist.net/anime.php?id=40852) ep. 11
 
 - [Dr. Stone: Stone Wars](https://myanimelist.net/anime.php?id=40852) ep. 11
 
