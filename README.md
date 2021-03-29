@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Gate: Jieitai Kanochi nite, Kaku Tatakaeri](https://myanimelist.net/anime.php?id=28907) ep. 1
+
 - [Yuukoku no Moriarty](https://myanimelist.net/anime.php?id=40911) ep. 5
 
 - [Sekikashita Kusanagi](https://myanimelist.net/anime.php?id=43349) ep. 1
@@ -103,8 +105,6 @@
 - [Yakusoku no Neverland 2nd Season](https://myanimelist.net/anime.php?id=39617) ep. 10
 
 - [Mushoku Tensei: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=39535) ep. 11
-
-- [Mushoku Tensei: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=39535) ep. 10
 
 <!-- MyAnimeList Activity End -->
 </details>
