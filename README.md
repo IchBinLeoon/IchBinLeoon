@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Yuukoku no Moriarty](https://myanimelist.net/anime.php?id=40911) ep. 5
+
 - [Sekikashita Kusanagi](https://myanimelist.net/anime.php?id=43349) ep. 1
 
 - [Net-juu no Susume Special](https://myanimelist.net/anime.php?id=36043) ep. 1
@@ -103,8 +105,6 @@
 - [Mushoku Tensei: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=39535) ep. 11
 
 - [Mushoku Tensei: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=39535) ep. 10
-
-- [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
