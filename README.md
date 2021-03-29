@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Higurashi no Naku Koro ni Gou](https://myanimelist.net/anime.php?id=41006) ep. 24
+
 - [Higurashi no Naku Koro ni Gou](https://myanimelist.net/anime.php?id=41006) ep. 23
 
 - [Higurashi no Naku Koro ni Gou](https://myanimelist.net/anime.php?id=41006) ep. 22
@@ -103,8 +105,6 @@
 - [Horimiya](https://myanimelist.net/anime.php?id=42897) ep. 12
 
 - [Kaifuku Jutsushi no Yarinaoshi](https://myanimelist.net/anime.php?id=40750) ep. 11
-
-- [Hellsing](https://myanimelist.net/anime.php?id=270) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
