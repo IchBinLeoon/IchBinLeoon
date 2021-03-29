@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Higurashi no Naku Koro ni Gou](https://myanimelist.net/anime.php?id=41006) ep. 22
+
 - [Higurashi no Naku Koro ni Gou](https://myanimelist.net/anime.php?id=41006) ep. 21
 
 - [Higurashi no Naku Koro ni Gou](https://myanimelist.net/anime.php?id=41006) ep. 20
@@ -103,8 +105,6 @@
 - [Hellsing](https://myanimelist.net/anime.php?id=270) ep. 1
 
 - [Horimiya](https://myanimelist.net/anime.php?id=42897) ep. 11
-
-- [Yakusoku no Neverland 2nd Season](https://myanimelist.net/anime.php?id=39617) ep. 11
 
 <!-- MyAnimeList Activity End -->
 </details>
