@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Higurashi no Naku Koro ni Gou](https://myanimelist.net/anime.php?id=41006) ep. 20
+
 - [Gate: Jieitai Kanochi nite, Kaku Tatakaeri](https://myanimelist.net/anime.php?id=28907) ep. 1
 
 - [Yuukoku no Moriarty](https://myanimelist.net/anime.php?id=40911) ep. 5
@@ -103,8 +105,6 @@
 - [Yakusoku no Neverland 2nd Season](https://myanimelist.net/anime.php?id=39617) ep. 11
 
 - [Yakusoku no Neverland 2nd Season](https://myanimelist.net/anime.php?id=39617) ep. 10
-
-- [Mushoku Tensei: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=39535) ep. 11
 
 <!-- MyAnimeList Activity End -->
 </details>
