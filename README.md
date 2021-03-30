@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Yuukoku no Moriarty](https://myanimelist.net/anime.php?id=40911) ep. 6
+
 - [Wonder Egg Priority](https://myanimelist.net/anime.php?id=43299) ep. 12
 
 - [Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season](https://myanimelist.net/anime.php?id=31637) ep. 12
@@ -103,8 +105,6 @@
 - [Yuukoku no Moriarty](https://myanimelist.net/anime.php?id=40911) ep. 5
 
 - [Sekikashita Kusanagi](https://myanimelist.net/anime.php?id=43349) ep. 1
-
-- [Net-juu no Susume Special](https://myanimelist.net/anime.php?id=36043) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
