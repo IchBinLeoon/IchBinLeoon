@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season](https://myanimelist.net/anime.php?id=31637) ep. 12
+
 - [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime.php?id=39551) ep. 12
 
 - [Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season](https://myanimelist.net/anime.php?id=31637) ep. 8
@@ -103,8 +105,6 @@
 - [Net-juu no Susume Special](https://myanimelist.net/anime.php?id=36043) ep. 1
 
 - [Net-juu no Susume](https://myanimelist.net/anime.php?id=36038) ep. 10
-
-- [Wonder Egg Priority](https://myanimelist.net/anime.php?id=43299) ep. 11
 
 <!-- MyAnimeList Activity End -->
 </details>
