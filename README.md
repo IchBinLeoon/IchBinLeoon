@@ -76,6 +76,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season](https://myanimelist.net/anime.php?id=31637) ep. 1
+
+- [Gate: Jieitai Kanochi nite, Kaku Tatakaeri](https://myanimelist.net/anime.php?id=28907) ep. 12
+
 - [Higurashi no Naku Koro ni Gou](https://myanimelist.net/anime.php?id=41006) ep. 24
 
 - [Higurashi no Naku Koro ni Gou](https://myanimelist.net/anime.php?id=41006) ep. 23
@@ -101,10 +105,6 @@
 - [Shingeki no Kyojin: The Final Season](https://myanimelist.net/anime.php?id=40028) ep. 16
 
 - [Nakitai Watashi wa Neko wo Kaburu](https://myanimelist.net/anime.php?id=41168) ep. 1
-
-- [Horimiya](https://myanimelist.net/anime.php?id=42897) ep. 12
-
-- [Kaifuku Jutsushi no Yarinaoshi](https://myanimelist.net/anime.php?id=40750) ep. 11
 
 <!-- MyAnimeList Activity End -->
 </details>
