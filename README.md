@@ -76,6 +76,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Bokutachi wa Benkyou ga Dekinai!](https://myanimelist.net/anime.php?id=40004) ep. 10
+
+- [Bokutachi wa Benkyou ga Dekinai!](https://myanimelist.net/anime.php?id=40004) ep. 9
+
 - [Jouran: The Princess of Snow and Blood](https://myanimelist.net/anime.php?id=47250) ep. 1
 
 - [Yuukoku no Moriarty](https://myanimelist.net/anime.php?id=40911) ep. 9
@@ -101,10 +105,6 @@
 - [Higurashi no Naku Koro ni Gou](https://myanimelist.net/anime.php?id=41006) ep. 22
 
 - [Higurashi no Naku Koro ni Gou](https://myanimelist.net/anime.php?id=41006) ep. 21
-
-- [Higurashi no Naku Koro ni Gou](https://myanimelist.net/anime.php?id=41006) ep. 20
-
-- [Gate: Jieitai Kanochi nite, Kaku Tatakaeri](https://myanimelist.net/anime.php?id=28907) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
