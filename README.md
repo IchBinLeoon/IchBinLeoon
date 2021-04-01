@@ -76,6 +76,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Arifureta Shokugyou de Sekai Saikyou](https://myanimelist.net/anime.php?id=36882) ep. 2
+
+- [Arifureta Shokugyou de Sekai Saikyou](https://myanimelist.net/anime.php?id=36882) ep. 1
+
 - [Tenki no Ko](https://myanimelist.net/anime.php?id=38826) ep. 1
 
 - [Nihon Chinbotsu 2020](https://myanimelist.net/anime.php?id=40515) ep. 10
@@ -101,10 +105,6 @@
 - [Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season](https://myanimelist.net/anime.php?id=31637) ep. 1
 
 - [Gate: Jieitai Kanochi nite, Kaku Tatakaeri](https://myanimelist.net/anime.php?id=28907) ep. 12
-
-- [Higurashi no Naku Koro ni Gou](https://myanimelist.net/anime.php?id=41006) ep. 24
-
-- [Higurashi no Naku Koro ni Gou](https://myanimelist.net/anime.php?id=41006) ep. 23
 
 <!-- MyAnimeList Activity End -->
 </details>
