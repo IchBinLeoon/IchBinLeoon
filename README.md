@@ -1,6 +1,6 @@
 ## Hello there! <img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/gifs/wave.gif" width="25px">
 
-#### I am Leon, a school student 👨🏻‍🎓 and developer 👨🏻‍💻 from Germany <img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/svgs/germany.svg" width="13"> who likes anime.
+#### I am Leon, a school student 👨🏻‍🎓 and developer 👨🏻‍💻 from Germany <img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/svgs/germany.svg" width="13"> who likes anime <img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/imgs/emilia.png" width="13">.
 
 ---
 
