@@ -7,6 +7,7 @@
 ### Languages, Technologies & Tools I've used 🚀💻
 
 [![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=Python&logoColor=FFFFFF&message=Python&color=3776AB&label=)](https://www.python.org/)
+[![Go](https://img.shields.io/static/v1?style=for-the-badge&logo=Go&logoColor=FFFFFF&message=Go&color=00ADD8&label=)](https://golang.org/)
 [![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=Java&logoColor=FFFFFF&message=Java&color=ED8B00&label=)](https://java.com/)
 [![HTML5](https://img.shields.io/static/v1?style=for-the-badge&logo=HTML5&logoColor=FFFFFF&message=HTML5&color=E34F26&label=)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/static/v1?style=for-the-badge&logo=CSS3&logoColor=FFFFFF&message=CSS3&color=1572B6&label=)](https://www.w3schools.com/css/)
