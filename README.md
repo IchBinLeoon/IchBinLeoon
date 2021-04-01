@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Tenki no Ko](https://myanimelist.net/anime.php?id=38826) ep. 1
+
 - [Nihon Chinbotsu 2020](https://myanimelist.net/anime.php?id=40515) ep. 10
 
 - [Bokutachi wa Benkyou ga Dekinai!](https://myanimelist.net/anime.php?id=40004) ep. 10
@@ -103,8 +105,6 @@
 - [Higurashi no Naku Koro ni Gou](https://myanimelist.net/anime.php?id=41006) ep. 24
 
 - [Higurashi no Naku Koro ni Gou](https://myanimelist.net/anime.php?id=41006) ep. 23
-
-- [Higurashi no Naku Koro ni Gou](https://myanimelist.net/anime.php?id=41006) ep. 22
 
 <!-- MyAnimeList Activity End -->
 </details>
