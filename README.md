@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Kujira no Kora wa Sajou ni Utau](https://myanimelist.net/anime.php?id=34712) ep. 1
+
 - [Arifureta Shokugyou de Sekai Saikyou](https://myanimelist.net/anime.php?id=36882) ep. 2
 
 - [Arifureta Shokugyou de Sekai Saikyou](https://myanimelist.net/anime.php?id=36882) ep. 1
@@ -103,8 +105,6 @@
 - [Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season](https://myanimelist.net/anime.php?id=31637) ep. 8
 
 - [Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season](https://myanimelist.net/anime.php?id=31637) ep. 1
-
-- [Gate: Jieitai Kanochi nite, Kaku Tatakaeri](https://myanimelist.net/anime.php?id=28907) ep. 12
 
 <!-- MyAnimeList Activity End -->
 </details>
