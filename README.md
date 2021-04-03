@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Kaifuku Jutsushi no Yarinaoshi](https://myanimelist.net/anime.php?id=40750) ep. 12
+
 - [Kujira no Kora wa Sajou ni Utau](https://myanimelist.net/anime.php?id=34712) ep. 1
 
 - [Arifureta Shokugyou de Sekai Saikyou](https://myanimelist.net/anime.php?id=36882) ep. 2
@@ -103,8 +105,6 @@
 - [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime.php?id=39551) ep. 12
 
 - [Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season](https://myanimelist.net/anime.php?id=31637) ep. 8
-
-- [Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season](https://myanimelist.net/anime.php?id=31637) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
