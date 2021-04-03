@@ -76,6 +76,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Yuru Camp△ Season 2](https://myanimelist.net/anime.php?id=38474) ep. 8
+
+- [Yuru Camp△ Season 2](https://myanimelist.net/anime.php?id=38474) ep. 7
+
 - [Kaifuku Jutsushi no Yarinaoshi](https://myanimelist.net/anime.php?id=40750) ep. 12
 
 - [Kujira no Kora wa Sajou ni Utau](https://myanimelist.net/anime.php?id=34712) ep. 1
@@ -101,10 +105,6 @@
 - [Wonder Egg Priority](https://myanimelist.net/anime.php?id=43299) ep. 12
 
 - [Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season](https://myanimelist.net/anime.php?id=31637) ep. 12
-
-- [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime.php?id=39551) ep. 12
-
-- [Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season](https://myanimelist.net/anime.php?id=31637) ep. 8
 
 <!-- MyAnimeList Activity End -->
 </details>
