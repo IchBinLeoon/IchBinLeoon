@@ -76,7 +76,11 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Horimiya](https://myanimelist.net/anime.php?id=42897) ep. 13
+
 - [Yuru Camp△ Season 2](https://myanimelist.net/anime.php?id=38474) ep. 13
+
+- [Yuru Camp△](https://myanimelist.net/manga.php?id=94376) chap. 52
 
 - [Jujutsu Kaisen](https://myanimelist.net/manga.php?id=113138) chap. 79
 
@@ -101,10 +105,6 @@
 - [Bokutachi wa Benkyou ga Dekinai!](https://myanimelist.net/anime.php?id=40004) ep. 10
 
 - [Bokutachi wa Benkyou ga Dekinai!](https://myanimelist.net/anime.php?id=40004) ep. 9
-
-- [Jouran: The Princess of Snow and Blood](https://myanimelist.net/anime.php?id=47250) ep. 1
-
-- [Yuukoku no Moriarty](https://myanimelist.net/anime.php?id=40911) ep. 9
 
 <!-- MyAnimeList Activity End -->
 </details>
