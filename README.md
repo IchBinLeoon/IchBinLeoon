@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Yuru Camp△ Season 2](https://myanimelist.net/anime.php?id=38474) ep. 13
+
 - [Jujutsu Kaisen](https://myanimelist.net/manga.php?id=113138) chap. 79
 
 - [Jujutsu Kaisen](https://myanimelist.net/manga.php?id=113138) chap. 65
@@ -103,8 +105,6 @@
 - [Jouran: The Princess of Snow and Blood](https://myanimelist.net/anime.php?id=47250) ep. 1
 
 - [Yuukoku no Moriarty](https://myanimelist.net/anime.php?id=40911) ep. 9
-
-- [Yuukoku no Moriarty](https://myanimelist.net/anime.php?id=40911) ep. 6
 
 <!-- MyAnimeList Activity End -->
 </details>
