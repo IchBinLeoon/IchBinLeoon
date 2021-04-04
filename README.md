@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Jujutsu Kaisen](https://myanimelist.net/manga.php?id=113138) chap. 65
+
 - [Yuru Camp△ Season 2](https://myanimelist.net/anime.php?id=38474) ep. 8
 
 - [Yuru Camp△ Season 2](https://myanimelist.net/anime.php?id=38474) ep. 7
@@ -103,8 +105,6 @@
 - [Yuukoku no Moriarty](https://myanimelist.net/anime.php?id=40911) ep. 6
 
 - [Wonder Egg Priority](https://myanimelist.net/anime.php?id=43299) ep. 12
-
-- [Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season](https://myanimelist.net/anime.php?id=31637) ep. 12
 
 <!-- MyAnimeList Activity End -->
 </details>
