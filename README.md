@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 461
+
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 455
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 454
@@ -103,8 +105,6 @@
 - [Yuru Camp△ Season 2](https://myanimelist.net/anime.php?id=38474) ep. 7
 
 - [Kaifuku Jutsushi no Yarinaoshi](https://myanimelist.net/anime.php?id=40750) ep. 12
-
-- [Kujira no Kora wa Sajou ni Utau](https://myanimelist.net/anime.php?id=34712) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
