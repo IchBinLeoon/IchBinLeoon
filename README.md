@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 448
+
 - [Yuukoku no Moriarty 2nd Season](https://myanimelist.net/anime.php?id=43325) ep. 1
 
 - [Yuukoku no Moriarty](https://myanimelist.net/anime.php?id=40911) ep. 11
@@ -103,8 +105,6 @@
 - [Arifureta Shokugyou de Sekai Saikyou](https://myanimelist.net/anime.php?id=36882) ep. 1
 
 - [Tenki no Ko](https://myanimelist.net/anime.php?id=38826) ep. 1
-
-- [Nihon Chinbotsu 2020](https://myanimelist.net/anime.php?id=40515) ep. 10
 
 <!-- MyAnimeList Activity End -->
 </details>
