@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 453
+
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 448
 
 - [Yuukoku no Moriarty 2nd Season](https://myanimelist.net/anime.php?id=43325) ep. 1
@@ -103,8 +105,6 @@
 - [Arifureta Shokugyou de Sekai Saikyou](https://myanimelist.net/anime.php?id=36882) ep. 2
 
 - [Arifureta Shokugyou de Sekai Saikyou](https://myanimelist.net/anime.php?id=36882) ep. 1
-
-- [Tenki no Ko](https://myanimelist.net/anime.php?id=38826) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
