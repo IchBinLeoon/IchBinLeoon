@@ -76,6 +76,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 455
+
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 454
+
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 453
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 448
@@ -101,10 +105,6 @@
 - [Kaifuku Jutsushi no Yarinaoshi](https://myanimelist.net/anime.php?id=40750) ep. 12
 
 - [Kujira no Kora wa Sajou ni Utau](https://myanimelist.net/anime.php?id=34712) ep. 1
-
-- [Arifureta Shokugyou de Sekai Saikyou](https://myanimelist.net/anime.php?id=36882) ep. 2
-
-- [Arifureta Shokugyou de Sekai Saikyou](https://myanimelist.net/anime.php?id=36882) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
