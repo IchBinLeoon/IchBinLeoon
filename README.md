@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Sentouin, Hakenshimasu!](https://myanimelist.net/anime.php?id=41456) ep. 1
+
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 461
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 455
@@ -103,8 +105,6 @@
 - [Yuru Camp△ Season 2](https://myanimelist.net/anime.php?id=38474) ep. 8
 
 - [Yuru Camp△ Season 2](https://myanimelist.net/anime.php?id=38474) ep. 7
-
-- [Kaifuku Jutsushi no Yarinaoshi](https://myanimelist.net/anime.php?id=40750) ep. 12
 
 <!-- MyAnimeList Activity End -->
 </details>
