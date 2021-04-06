@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 2
+
 - [Sentouin, Hakenshimasu!](https://myanimelist.net/anime.php?id=41456) ep. 1
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 461
@@ -103,8 +105,6 @@
 - [Jujutsu Kaisen](https://myanimelist.net/manga.php?id=113138) chap. 65
 
 - [Yuru Camp△ Season 2](https://myanimelist.net/anime.php?id=38474) ep. 8
-
-- [Yuru Camp△ Season 2](https://myanimelist.net/anime.php?id=38474) ep. 7
 
 <!-- MyAnimeList Activity End -->
 </details>
