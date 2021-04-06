@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Yakunara Mug Cup mo](https://myanimelist.net/anime.php?id=42568) ep. 1
+
 - [Tensura Nikki: Tensei shitara Slime Datta Ken](https://myanimelist.net/anime.php?id=41488) ep. 1
 
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 2
@@ -103,8 +105,6 @@
 - [Yuru Camp△](https://myanimelist.net/manga.php?id=94376) chap. 52
 
 - [Jujutsu Kaisen](https://myanimelist.net/manga.php?id=113138) chap. 79
-
-- [Jujutsu Kaisen](https://myanimelist.net/manga.php?id=113138) chap. 65
 
 <!-- MyAnimeList Activity End -->
 </details>
