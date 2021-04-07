@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Stella no Mahou](https://myanimelist.net/anime.php?id=32555) ep. 9
+
 - [Yakunara Mug Cup mo](https://myanimelist.net/anime.php?id=42568) ep. 1
 
 - [Tensura Nikki: Tensei shitara Slime Datta Ken](https://myanimelist.net/anime.php?id=41488) ep. 1
@@ -103,8 +105,6 @@
 - [Yuru Camp△ Season 2](https://myanimelist.net/anime.php?id=38474) ep. 13
 
 - [Yuru Camp△](https://myanimelist.net/manga.php?id=94376) chap. 52
-
-- [Jujutsu Kaisen](https://myanimelist.net/manga.php?id=113138) chap. 79
 
 <!-- MyAnimeList Activity End -->
 </details>
