@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 1
+
 - [Stella no Mahou](https://myanimelist.net/anime.php?id=32555) ep. 9
 
 - [Shingeki no Kyojin](https://myanimelist.net/manga.php?id=23390) chap. 139
@@ -103,8 +105,6 @@
 - [Yuukoku no Moriarty](https://myanimelist.net/anime.php?id=40911) ep. 11
 
 - [Horimiya](https://myanimelist.net/anime.php?id=42897) ep. 13
-
-- [Yuru Camp△ Season 2](https://myanimelist.net/anime.php?id=38474) ep. 13
 
 <!-- MyAnimeList Activity End -->
 </details>
