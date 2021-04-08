@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Zombieland Saga: Revenge](https://myanimelist.net/anime.php?id=40174) ep. 1
+
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 1
 
 - [Stella no Mahou](https://myanimelist.net/anime.php?id=32555) ep. 9
@@ -103,8 +105,6 @@
 - [Yuukoku no Moriarty 2nd Season](https://myanimelist.net/anime.php?id=43325) ep. 1
 
 - [Yuukoku no Moriarty](https://myanimelist.net/anime.php?id=40911) ep. 11
-
-- [Horimiya](https://myanimelist.net/anime.php?id=42897) ep. 13
 
 <!-- MyAnimeList Activity End -->
 </details>
