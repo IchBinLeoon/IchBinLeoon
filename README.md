@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Gokushufudou](https://myanimelist.net/anime.php?id=43692) ep. 1
+
 - [Stella no Mahou](https://myanimelist.net/anime.php?id=32555) ep. 12
 
 - [Zombieland Saga: Revenge](https://myanimelist.net/anime.php?id=40174) ep. 1
@@ -103,8 +105,6 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 453
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 448
-
-- [Yuukoku no Moriarty 2nd Season](https://myanimelist.net/anime.php?id=43325) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
