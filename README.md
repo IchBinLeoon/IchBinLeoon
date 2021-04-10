@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 1
+
 - [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 1
 
 - [Gokushufudou](https://myanimelist.net/anime.php?id=43692) ep. 1
@@ -103,8 +105,6 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 455
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 454
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 453
 
 <!-- MyAnimeList Activity End -->
 </details>
