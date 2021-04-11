@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Sentouin, Hakenshimasu!](https://myanimelist.net/anime.php?id=41456) ep. 2
+
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 3
 
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 1
@@ -103,8 +105,6 @@
 - [Sentouin, Hakenshimasu!](https://myanimelist.net/anime.php?id=41456) ep. 1
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 461
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 455
 
 <!-- MyAnimeList Activity End -->
 </details>
