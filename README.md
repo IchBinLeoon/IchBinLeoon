@@ -92,8 +92,6 @@
 
 - [Stella no Mahou](https://myanimelist.net/anime.php?id=32555) ep. 9
 
-- [Shingeki no Kyojin](https://myanimelist.net/manga.php?id=23390) chap. 139
-
 - [Yakunara Mug Cup mo](https://myanimelist.net/anime.php?id=42568) ep. 1
 
 - [Tensura Nikki: Tensei shitara Slime Datta Ken](https://myanimelist.net/anime.php?id=41488) ep. 1
@@ -105,6 +103,8 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 461
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 455
+
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 454
 
 <!-- MyAnimeList Activity End -->
 </details>
