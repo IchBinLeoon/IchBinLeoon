@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan OVA 06: Follow the Vanished Diamond! Conan & Heiji vs. Kid!](https://myanimelist.net/anime.php?id=1368) ep. 1
+
 - [Sentouin, Hakenshimasu!](https://myanimelist.net/anime.php?id=41456) ep. 2
 
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 3
@@ -103,8 +105,6 @@
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 2
 
 - [Sentouin, Hakenshimasu!](https://myanimelist.net/anime.php?id=41456) ep. 1
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 461
 
 <!-- MyAnimeList Activity End -->
 </details>
