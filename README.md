@@ -1,10 +1,10 @@
-## Hello there! <img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/gifs/wave.gif" width="25px">
+## <samp>Hello there! <img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/gifs/wave.gif" width="25px"></samp>
 
 #### I am Leon, a school student 👨🏻‍🎓 and developer 👨🏻‍💻 from Germany <img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/svgs/germany.svg" width="13"> who likes anime <img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/imgs/emilia.png" width="13">.
 
 ---
 
-### Languages, Technologies & Tools I've used 🚀💻
+### <samp>Languages, Technologies & Tools I've used 🚀💻</samp>
 
 [![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=Python&logoColor=FFFFFF&message=Python&color=3776AB&label=)](https://www.python.org/)
 [![Go](https://img.shields.io/static/v1?style=for-the-badge&logo=Go&logoColor=FFFFFF&message=Go&color=00ADD8&label=)](https://golang.org/)
@@ -22,23 +22,23 @@
 [![Windows](https://img.shields.io/static/v1?style=for-the-badge&logo=Windows&message=Windows&logoColor=FFFFFF&color=0078D6&label=)](https://www.microsoft.com/windows/)
 [![macOS](https://img.shields.io/static/v1?style=for-the-badge&logo=Apple&message=macOS&logoColor=FFFFFF&color=999999&label=)](https://www.apple.com/macos/)
 
-### Connect with Me 🤝🏻
+### <samp>Connect with Me 🤝🏻</samp>
 
 <p>
   <a href="https://discordapp.com/users/223871059068321793">
-    <img align="left" alt="Discord" width="30px" src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/svgs/discord.svg">
+    <img align="left" alt="Discord" title="IchBinLeoon#9999" width="30px" src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/svgs/discord.svg">
   </a>
   <a href="https://twitter.com/IchBinLeoon">
-    <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/svgs/twitter.svg">
+    <img align="left" alt="Twitter" title="IchBinLeoon" width="30px" src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/svgs/twitter.svg">
   </a>
   <a href="https://myanimelist.net/profile/IchBinLeoon">
-    <img align="left" alt="MyAnimeList" width="30px" src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/svgs/myanimelist.svg">
+    <img align="left" alt="MyAnimeList" title="IchBinLeoon" width="30px" src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/svgs/myanimelist.svg">
   </a>
   <a href="https://anilist.co/user/IchBinLeoon/">
-    <img align="left" alt="AniList" width="30px" src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/svgs/anilist.svg">
+    <img align="left" alt="AniList" title="IchBinLeoon" width="30px" src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/svgs/anilist.svg">
   </a>
   <a href="https://www.reddit.com/user/IchBinLeoon">
-    <img align="left" alt="Reddit" width="30px" src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/svgs/reddit.svg">
+    <img align="left" alt="Reddit" title="IchBinLeoon" width="30px" src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/svgs/reddit.svg">
   </a>
 </p>
 <br>
