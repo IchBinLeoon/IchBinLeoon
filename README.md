@@ -76,6 +76,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara](https://myanimelist.net/anime.php?id=44276) ep. 1
+
 - [Fumetsu no Anata e](https://myanimelist.net/anime.php?id=41025) ep. 1
 
 - [Detective Conan OVA 06: Follow the Vanished Diamond! Conan & Heiji vs. Kid!](https://myanimelist.net/anime.php?id=1368) ep. 1
@@ -103,8 +105,6 @@
 - [Yakunara Mug Cup mo](https://myanimelist.net/anime.php?id=42568) ep. 1
 
 - [Tensura Nikki: Tensei shitara Slime Datta Ken](https://myanimelist.net/anime.php?id=41488) ep. 1
-
-- [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 2
 
 <!-- MyAnimeList Activity End -->
 </details>
