@@ -81,6 +81,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 2
+
 - [Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara](https://myanimelist.net/anime.php?id=44276) ep. 1
 
 - [Fumetsu no Anata e](https://myanimelist.net/anime.php?id=41025) ep. 1
@@ -108,8 +110,6 @@
 - [Stella no Mahou](https://myanimelist.net/anime.php?id=32555) ep. 9
 
 - [Yakunara Mug Cup mo](https://myanimelist.net/anime.php?id=42568) ep. 1
-
-- [Tensura Nikki: Tensei shitara Slime Datta Ken](https://myanimelist.net/anime.php?id=41488) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
