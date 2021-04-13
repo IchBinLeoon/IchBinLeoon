@@ -1,10 +1,12 @@
 ## <samp>Hello there! <img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/gifs/wave.gif" width="25px"></samp>
 
-#### I am Leon, a school student 👨🏻‍🎓 and developer 👨🏻‍💻 from Germany <img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/svgs/germany.svg" width="13"> who likes anime <img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/imgs/emilia.png" width="13">.
+#### I am Leon, a school student 👨🏻‍🎓 and developer 👨🏻‍💻 from Germany <img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/svgs/germany.svg" width="13px"> who likes anime.
 
 ---
 
-### <samp>Languages, Technologies & Tools I've used 🚀💻</samp>
+<img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/gifs/nadeshiko.gif" align="right" width="350px">
+
+### Languages, Technologies & Tools I've used 🚀💻
 
 [![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=Python&logoColor=FFFFFF&message=Python&color=3776AB&label=)](https://www.python.org/)
 [![Go](https://img.shields.io/static/v1?style=for-the-badge&logo=Go&logoColor=FFFFFF&message=Go&color=00ADD8&label=)](https://golang.org/)
@@ -22,7 +24,7 @@
 [![Windows](https://img.shields.io/static/v1?style=for-the-badge&logo=Windows&message=Windows&logoColor=FFFFFF&color=0078D6&label=)](https://www.microsoft.com/windows/)
 [![macOS](https://img.shields.io/static/v1?style=for-the-badge&logo=Apple&message=macOS&logoColor=FFFFFF&color=999999&label=)](https://www.apple.com/macos/)
 
-### <samp>Connect with Me 🤝🏻</samp>
+### Connect with Me 🤝🏻📫
 
 <p>
   <a href="https://discordapp.com/users/223871059068321793">
@@ -40,18 +42,21 @@
   <a href="https://www.reddit.com/user/IchBinLeoon">
     <img align="left" alt="Reddit" title="IchBinLeoon" width="30px" src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/svgs/reddit.svg">
   </a>
+  <a href="https://steamcommunity.com/id/IchBinLeoon/">
+    <img align="left" alt="Steam" title="IchBinLeoon" width="30px" src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/svgs/steam.svg">
+  </a>
 </p>
 <br>
 
 ---
 
 <details close>
-<summary>GitHub Analytics 📈</summary>
+<summary>GitHub Statistics 📊</summary>
 <br>
 <p>
   <a href="https://github.com/IchBinLeoon" width="100%">
-    <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.ichbinleoon.vercel.app/api?username=IchBinLeoon&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&theme=dark">
-    <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.ichbinleoon.vercel.app/api/top-langs/?username=IchBinLeoon&layout=compact&hide_border=true&theme=dark">
+    <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.ichbinleoon.vercel.app/api?username=IchBinLeoon&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&theme=dark">
+    <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.ichbinleoon.vercel.app/api/top-langs/?username=IchBinLeoon&layout=compact&hide_border=true&theme=dark&langs_count=10">
   </a>
 </p>
 </details>
@@ -61,13 +66,13 @@
 <br>
 <p>
   <a href="https://open.spotify.com/user/v7ttuai8eqcoqdseoztwk31os">
-    <img alt="Spotify" src="https://spotify-readme.ichbinleoon.vercel.app/api/spotify">
+    <img alt="Spotify" height="200px" src="https://spotify-readme.ichbinleoon.vercel.app/api/spotify">
   </a>
 </p>
 </details>
 
 <details close>
-<summary>MyAnimeList History 📊</summary>
+<summary>MyAnimeList History 📈</summary>
 <br>
 <p>
   <a href="https://myanimelist.net/profile/IchBinLeoon">
