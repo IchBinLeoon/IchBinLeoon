@@ -4,9 +4,9 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/gifs/nadeshiko.gif" align="right" width="350px">
+<img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/gifs/nadeshiko.gif" align="right" width="380px">
 
-### Languages, Technologies & Tools I've used 🚀💻
+### <samp>Languages, Technologies & Tools I've used 🚀💻</samp>
 
 [![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=Python&logoColor=FFFFFF&message=Python&color=3776AB&label=)](https://www.python.org/)
 [![Go](https://img.shields.io/static/v1?style=for-the-badge&logo=Go&logoColor=FFFFFF&message=Go&color=00ADD8&label=)](https://golang.org/)
@@ -24,7 +24,7 @@
 [![Windows](https://img.shields.io/static/v1?style=for-the-badge&logo=Windows&message=Windows&logoColor=FFFFFF&color=0078D6&label=)](https://www.microsoft.com/windows/)
 [![macOS](https://img.shields.io/static/v1?style=for-the-badge&logo=Apple&message=macOS&logoColor=FFFFFF&color=999999&label=)](https://www.apple.com/macos/)
 
-### Connect with Me 🤝🏻📫
+### <samp>Connect with Me 🤝🏻📫</samp>
 
 <p>
   <a href="https://discordapp.com/users/223871059068321793">
