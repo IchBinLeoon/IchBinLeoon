@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/gifs/nadeshiko.gif" align="right" width="380px">
+<img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/gifs/nadeshiko.gif" align="right" width="375px">
 
 ### <samp>Languages, Technologies & Tools I've used 🚀💻</samp>
 
@@ -16,10 +16,10 @@
 [![RaspberryPi](https://img.shields.io/static/v1?style=for-the-badge&logo=Raspberry+Pi&logoColor=FFFFFF&message=Raspberry&nbsp;Pi&color=C51A4A&label=)](https://www.raspberrypi.org/)
 [![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=Docker&logoColor=FFFFFF&message=Docker&color=2496ED&label=)](https://www.docker.com/)
 [![VSCode](https://img.shields.io/static/v1?style=for-the-badge&logo=Visual+Studio+Code&logoColor=FFFFFF&message=VS&nbsp;Code&color=007ACC&label=)](https://code.visualstudio.com/)
-[![JetBrains](https://img.shields.io/static/v1?style=for-the-badge&logo=JetBrains&logoColor=FFFFFF&message=JetBrains&nbsp;IDEs&color=000000&label=)](https://www.jetbrains.com/)
-[![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&message=PostgreSQL&color=336791&label=)](https://www.postgresql.org/)
 [![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=Git&message=Git&logoColor=FFFFFF&color=F05032&label=)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&logo=GitHub&message=GitHub&logoColor=FFFFFF&color=181717&label=)](https://github.com/)
+[![JetBrains](https://img.shields.io/static/v1?style=for-the-badge&logo=JetBrains&logoColor=FFFFFF&message=JetBrains&nbsp;IDEs&color=000000&label=)](https://www.jetbrains.com/)
+[![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&message=PostgreSQL&color=336791&label=)](https://www.postgresql.org/)
 [![Linux](https://img.shields.io/static/v1?style=for-the-badge&logo=Linux&message=Linux&logoColor=000000&color=FCC624&label=)](https://www.linux.org/pages/download/)
 [![Windows](https://img.shields.io/static/v1?style=for-the-badge&logo=Windows&message=Windows&logoColor=FFFFFF&color=0078D6&label=)](https://www.microsoft.com/windows/)
 [![macOS](https://img.shields.io/static/v1?style=for-the-badge&logo=Apple&message=macOS&logoColor=FFFFFF&color=999999&label=)](https://www.apple.com/macos/)
