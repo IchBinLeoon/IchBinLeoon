@@ -81,6 +81,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 462
+
 - [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 2
 
 - [Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara](https://myanimelist.net/anime.php?id=44276) ep. 1
@@ -108,8 +110,6 @@
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 1
 
 - [Stella no Mahou](https://myanimelist.net/anime.php?id=32555) ep. 9
-
-- [Yakunara Mug Cup mo](https://myanimelist.net/anime.php?id=42568) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
