@@ -81,6 +81,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara](https://myanimelist.net/anime.php?id=44276) ep. 2
+
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 478
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 462
@@ -108,8 +110,6 @@
 - [Stella no Mahou](https://myanimelist.net/anime.php?id=32555) ep. 12
 
 - [Zombieland Saga: Revenge](https://myanimelist.net/anime.php?id=40174) ep. 1
-
-- [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
