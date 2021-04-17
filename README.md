@@ -81,6 +81,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 525
+
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 507
 
 - [Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara](https://myanimelist.net/anime.php?id=44276) ep. 2
@@ -108,8 +110,6 @@
 - [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 1
 
 - [Gokushufudou](https://myanimelist.net/anime.php?id=43692) ep. 1
-
-- [Stella no Mahou](https://myanimelist.net/anime.php?id=32555) ep. 12
 
 <!-- MyAnimeList Activity End -->
 </details>
