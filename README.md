@@ -81,6 +81,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 507
+
 - [Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara](https://myanimelist.net/anime.php?id=44276) ep. 2
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 478
@@ -108,8 +110,6 @@
 - [Gokushufudou](https://myanimelist.net/anime.php?id=43692) ep. 1
 
 - [Stella no Mahou](https://myanimelist.net/anime.php?id=32555) ep. 12
-
-- [Zombieland Saga: Revenge](https://myanimelist.net/anime.php?id=40174) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
