@@ -81,6 +81,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Zombieland Saga: Revenge](https://myanimelist.net/anime.php?id=40174) ep. 2
+
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 2
 
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 4
@@ -108,8 +110,6 @@
 - [Sentouin, Hakenshimasu!](https://myanimelist.net/anime.php?id=41456) ep. 2
 
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 3
-
-- [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
