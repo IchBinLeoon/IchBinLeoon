@@ -81,6 +81,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 4
+
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 556
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 525
@@ -108,8 +110,6 @@
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 1
 
 - [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 1
-
-- [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
