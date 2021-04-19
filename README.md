@@ -81,6 +81,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 3
+
 - [Zombieland Saga: Revenge](https://myanimelist.net/anime.php?id=40174) ep. 2
 
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 2
@@ -108,8 +110,6 @@
 - [Detective Conan OVA 06: Follow the Vanished Diamond! Conan & Heiji vs. Kid!](https://myanimelist.net/anime.php?id=1368) ep. 1
 
 - [Sentouin, Hakenshimasu!](https://myanimelist.net/anime.php?id=41456) ep. 2
-
-- [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 3
 
 <!-- MyAnimeList Activity End -->
 </details>
