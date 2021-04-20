@@ -81,6 +81,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 577
+
 - [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 3
 
 - [Zombieland Saga: Revenge](https://myanimelist.net/anime.php?id=40174) ep. 2
@@ -108,8 +110,6 @@
 - [Fumetsu no Anata e](https://myanimelist.net/anime.php?id=41025) ep. 1
 
 - [Detective Conan OVA 06: Follow the Vanished Diamond! Conan & Heiji vs. Kid!](https://myanimelist.net/anime.php?id=1368) ep. 1
-
-- [Sentouin, Hakenshimasu!](https://myanimelist.net/anime.php?id=41456) ep. 2
 
 <!-- MyAnimeList Activity End -->
 </details>
