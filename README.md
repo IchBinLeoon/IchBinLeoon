@@ -81,6 +81,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Gokushufudou](https://myanimelist.net/anime.php?id=43692) ep. 3
+
 - [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 2
 
 - [Detective Conan Movie 12: Full Score of Fear](https://myanimelist.net/anime.php?id=4447) ep. 1
@@ -108,8 +110,6 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 478
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 462
-
-- [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 2
 
 <!-- MyAnimeList Activity End -->
 </details>
