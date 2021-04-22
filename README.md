@@ -81,6 +81,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Gokushufudou](https://myanimelist.net/anime.php?id=43692) ep. 5
+
 - [Gokushufudou](https://myanimelist.net/anime.php?id=43692) ep. 3
 
 - [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 2
@@ -108,8 +110,6 @@
 - [Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara](https://myanimelist.net/anime.php?id=44276) ep. 2
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 478
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 462
 
 <!-- MyAnimeList Activity End -->
 </details>
