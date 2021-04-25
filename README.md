@@ -1,12 +1,12 @@
-## <samp>Hello there! <img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/gifs/wave.gif" width="25px"></samp>
+## Hello there! <img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/gifs/wave.gif" width="25px">
 
 #### I am Leon, a school student 👨🏻‍🎓 and developer 👨🏻‍💻 from Germany <img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/svgs/germany.svg" width="13px"> who likes anime.
 
 ---
 
-<img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/gifs/nadeshiko.gif" align="right" width="370px">
+<img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/gifs/nadeshiko.gif" align="right" width="380px">
 
-### <samp>Languages, Technologies & Tools I've used 🚀💻</samp>
+### Languages, Technologies & Tools I've used 🚀💻
 
 [![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=Python&logoColor=FFFFFF&message=Python&color=3776AB&label=)](https://www.python.org/)
 [![Go](https://img.shields.io/static/v1?style=for-the-badge&logo=Go&logoColor=FFFFFF&message=Go&color=00ADD8&label=)](https://golang.org/)
@@ -22,7 +22,7 @@
 [![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&message=PostgreSQL&color=336791&label=)](https://www.postgresql.org/)
 [![Manjaro](https://img.shields.io/static/v1?style=for-the-badge&logo=Manjaro&logoColor=FFFFFF&message=Manjaro&nbsp;Linux&color=35BF5C&label=)](https://manjaro.org/)
 
-### <samp>Connect with Me 🤝🏻📫</samp>
+### Connect with Me 🤝🏻📫
 
 <p>
   <a href="https://discordapp.com/users/223871059068321793">
