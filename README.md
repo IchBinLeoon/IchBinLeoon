@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/gifs/nadeshiko.gif" align="right" width="375px">
+<img src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/gifs/nadeshiko.gif" align="right" width="370px">
 
 ### <samp>Languages, Technologies & Tools I've used 🚀💻</samp>
 
@@ -20,6 +20,7 @@
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&logo=GitHub&message=GitHub&logoColor=FFFFFF&color=181717&label=)](https://github.com/)
 [![JetBrains](https://img.shields.io/static/v1?style=for-the-badge&logo=JetBrains&logoColor=FFFFFF&message=JetBrains&nbsp;IDEs&color=000000&label=)](https://www.jetbrains.com/)
 [![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&message=PostgreSQL&color=336791&label=)](https://www.postgresql.org/)
+[![Manjaro](https://img.shields.io/static/v1?style=for-the-badge&logo=Manjaro&logoColor=FFFFFF&message=Manjaro&nbsp;Linux&color=35BF5C&label=)](https://manjaro.org/)
 
 ### <samp>Connect with Me 🤝🏻📫</samp>
 
