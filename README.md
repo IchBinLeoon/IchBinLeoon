@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan Movie 14: The Lost Ship in the Sky](https://myanimelist.net/anime.php?id=6467) ep. 1
+
 - [Detective Conan Movie 13: The Raven Chaser](https://myanimelist.net/anime.php?id=5460) ep. 1
 
 - [Gokushufudou](https://myanimelist.net/anime.php?id=43692) ep. 5
@@ -106,8 +108,6 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 525
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 507
-
-- [Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara](https://myanimelist.net/anime.php?id=44276) ep. 2
 
 <!-- MyAnimeList Activity End -->
 </details>
