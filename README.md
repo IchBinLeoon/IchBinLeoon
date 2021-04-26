@@ -79,7 +79,7 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
-- [Jouran: The Princess of Snow and Blood](https://myanimelist.net/anime.php?id=47250) ep. 1
+- [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 5
 
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 3
 
