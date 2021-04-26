@@ -79,6 +79,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Jouran: The Princess of Snow and Blood](https://myanimelist.net/anime.php?id=47250) ep. 1
+
+- [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 3
+
 - [Detective Conan Movie 14: The Lost Ship in the Sky](https://myanimelist.net/anime.php?id=6467) ep. 1
 
 - [Detective Conan Movie 13: The Raven Chaser](https://myanimelist.net/anime.php?id=5460) ep. 1
@@ -104,10 +108,6 @@
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 4
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 556
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 525
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 507
 
 <!-- MyAnimeList Activity End -->
 </details>
