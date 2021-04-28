@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Vivy: Fluorite Eye's Song](https://myanimelist.net/anime.php?id=46095) ep. 1
+
 - [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 4
 
 - [Zombieland Saga: Revenge](https://myanimelist.net/anime.php?id=40174) ep. 3
@@ -106,8 +108,6 @@
 - [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 3
 
 - [Zombieland Saga: Revenge](https://myanimelist.net/anime.php?id=40174) ep. 2
-
-- [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 2
 
 <!-- MyAnimeList Activity End -->
 </details>
