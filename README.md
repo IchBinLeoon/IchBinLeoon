@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Date A Bullet: Dead or Bullet](https://myanimelist.net/anime.php?id=40416) ep. 1
+
 - [Vivy: Fluorite Eye's Song](https://myanimelist.net/anime.php?id=46095) ep. 1
 
 - [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 4
@@ -106,8 +108,6 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 577
 
 - [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 3
-
-- [Zombieland Saga: Revenge](https://myanimelist.net/anime.php?id=40174) ep. 2
 
 <!-- MyAnimeList Activity End -->
 </details>
