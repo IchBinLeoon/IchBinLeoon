@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Zombieland Saga: Revenge](https://myanimelist.net/anime.php?id=40174) ep. 4
+
 - [Date A Bullet: Dead or Bullet](https://myanimelist.net/anime.php?id=40416) ep. 1
 
 - [Vivy: Fluorite Eye's Song](https://myanimelist.net/anime.php?id=46095) ep. 1
@@ -106,8 +108,6 @@
 - [Detective Conan Movie 11: Jolly Roger in the Deep Azure](https://myanimelist.net/anime.php?id=2171) ep. 1
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 577
-
-- [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 3
 
 <!-- MyAnimeList Activity End -->
 </details>
