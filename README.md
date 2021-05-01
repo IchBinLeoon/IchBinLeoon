@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Date A Bullet: Nightmare or Queen](https://myanimelist.net/anime.php?id=42423) ep. 1
+
 - [Zombieland Saga: Revenge](https://myanimelist.net/anime.php?id=40174) ep. 4
 
 - [Date A Bullet: Dead or Bullet](https://myanimelist.net/anime.php?id=40416) ep. 1
@@ -106,8 +108,6 @@
 - [Detective Conan Movie 12: Full Score of Fear](https://myanimelist.net/anime.php?id=4447) ep. 1
 
 - [Detective Conan Movie 11: Jolly Roger in the Deep Azure](https://myanimelist.net/anime.php?id=2171) ep. 1
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 577
 
 <!-- MyAnimeList Activity End -->
 </details>
