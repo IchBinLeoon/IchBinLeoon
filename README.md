@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 4
+
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 4
 
 - [Date A Bullet: Nightmare or Queen](https://myanimelist.net/anime.php?id=42423) ep. 1
@@ -106,8 +108,6 @@
 - [Gokushufudou](https://myanimelist.net/anime.php?id=43692) ep. 3
 
 - [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 2
-
-- [Detective Conan Movie 12: Full Score of Fear](https://myanimelist.net/anime.php?id=4447) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
