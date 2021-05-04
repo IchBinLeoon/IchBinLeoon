@@ -79,6 +79,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Overlord III](https://myanimelist.net/anime.php?id=37675) ep. 2
+
+- [Overlord III](https://myanimelist.net/anime.php?id=37675) ep. 1
+
 - [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 4
 
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 4
@@ -104,10 +108,6 @@
 - [Detective Conan Movie 13: The Raven Chaser](https://myanimelist.net/anime.php?id=5460) ep. 1
 
 - [Gokushufudou](https://myanimelist.net/anime.php?id=43692) ep. 5
-
-- [Gokushufudou](https://myanimelist.net/anime.php?id=43692) ep. 3
-
-- [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 2
 
 <!-- MyAnimeList Activity End -->
 </details>
