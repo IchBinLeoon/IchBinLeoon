@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan OVA 07: A Challenge from Agasa! Agasa vs. Conan and the Detective Boys](https://myanimelist.net/anime.php?id=2597) ep. 1
+
 - [Overlord III](https://myanimelist.net/anime.php?id=37675) ep. 3
 
 - [Overlord III](https://myanimelist.net/anime.php?id=37675) ep. 2
@@ -106,8 +108,6 @@
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 3
 
 - [Detective Conan Movie 14: The Lost Ship in the Sky](https://myanimelist.net/anime.php?id=6467) ep. 1
-
-- [Detective Conan Movie 13: The Raven Chaser](https://myanimelist.net/anime.php?id=5460) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
