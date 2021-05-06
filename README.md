@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 5
+
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 5
 
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 4
@@ -106,8 +108,6 @@
 - [Date A Bullet: Dead or Bullet](https://myanimelist.net/anime.php?id=40416) ep. 1
 
 - [Vivy: Fluorite Eye's Song](https://myanimelist.net/anime.php?id=46095) ep. 1
-
-- [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 4
 
 <!-- MyAnimeList Activity End -->
 </details>
