@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 5
+
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 5
 
 - [Zombieland Saga: Revenge](https://myanimelist.net/anime.php?id=40174) ep. 5
@@ -106,8 +108,6 @@
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 4
 
 - [Date A Bullet: Nightmare or Queen](https://myanimelist.net/anime.php?id=42423) ep. 1
-
-- [Zombieland Saga: Revenge](https://myanimelist.net/anime.php?id=40174) ep. 4
 
 <!-- MyAnimeList Activity End -->
 </details>
