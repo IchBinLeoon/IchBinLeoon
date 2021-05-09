@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 5
+
 - [Zombieland Saga: Revenge](https://myanimelist.net/anime.php?id=40174) ep. 5
 
 - [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 5
@@ -106,8 +108,6 @@
 - [Date A Bullet: Nightmare or Queen](https://myanimelist.net/anime.php?id=42423) ep. 1
 
 - [Zombieland Saga: Revenge](https://myanimelist.net/anime.php?id=40174) ep. 4
-
-- [Date A Bullet: Dead or Bullet](https://myanimelist.net/anime.php?id=40416) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
