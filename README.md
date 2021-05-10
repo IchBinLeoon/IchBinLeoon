@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Overlord III](https://myanimelist.net/anime.php?id=37675) ep. 13
+
 - [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 5
 
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 5
@@ -106,8 +108,6 @@
 - [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 4
 
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 4
-
-- [Date A Bullet: Nightmare or Queen](https://myanimelist.net/anime.php?id=42423) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
