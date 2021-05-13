@@ -79,6 +79,12 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 3
+
+- [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 2
+
+- [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 1
+
 - [Overlord III](https://myanimelist.net/anime.php?id=37675) ep. 13
 
 - [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 5
@@ -102,12 +108,6 @@
 - [Overlord III](https://myanimelist.net/anime.php?id=37675) ep. 3
 
 - [Overlord III](https://myanimelist.net/anime.php?id=37675) ep. 2
-
-- [Overlord III](https://myanimelist.net/anime.php?id=37675) ep. 1
-
-- [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 4
-
-- [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 4
 
 <!-- MyAnimeList Activity End -->
 </details>
