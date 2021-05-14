@@ -79,6 +79,12 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Hataraku Saibou!!](https://myanimelist.net/anime.php?id=39586) ep. 8
+
+- [Hataraku Saibou!!](https://myanimelist.net/anime.php?id=39586) ep. 7
+
+- [Hataraku Saibou!!](https://myanimelist.net/anime.php?id=39586) ep. 6
+
 - [Hataraku Saibou!!](https://myanimelist.net/anime.php?id=39586) ep. 5
 
 - [91 Days: Toki no Asase/Subete no Kinou/Ashita, Mata Ashita](https://myanimelist.net/anime.php?id=34777) ep. 1
@@ -102,12 +108,6 @@
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 5
 
 - [Zombieland Saga: Revenge](https://myanimelist.net/anime.php?id=40174) ep. 5
-
-- [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 5
-
-- [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 5
-
-- [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 4
 
 <!-- MyAnimeList Activity End -->
 </details>
