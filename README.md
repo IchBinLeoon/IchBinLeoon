@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Hataraku Saibou!!](https://myanimelist.net/anime.php?id=39586) ep. 5
+
 - [91 Days: Toki no Asase/Subete no Kinou/Ashita, Mata Ashita](https://myanimelist.net/anime.php?id=34777) ep. 1
 
 - [Yuru Camp△](https://myanimelist.net/manga.php?id=94376) chap. 53
@@ -106,8 +108,6 @@
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 5
 
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 4
-
-- [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 3
 
 <!-- MyAnimeList Activity End -->
 </details>
