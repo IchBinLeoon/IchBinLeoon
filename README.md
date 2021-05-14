@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan OVA 08: High School Girl Detective Sonoko Suzuki's Case Files](https://myanimelist.net/anime.php?id=6198) ep. 1
+
 - [Hataraku Saibou!!](https://myanimelist.net/anime.php?id=39586) ep. 8
 
 - [Hataraku Saibou!!](https://myanimelist.net/anime.php?id=39586) ep. 7
@@ -106,8 +108,6 @@
 - [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 5
 
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 5
-
-- [Zombieland Saga: Revenge](https://myanimelist.net/anime.php?id=40174) ep. 5
 
 <!-- MyAnimeList Activity End -->
 </details>
