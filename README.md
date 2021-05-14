@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Yuru Camp△](https://myanimelist.net/manga.php?id=94376) chap. 53
+
 - [Urasekai Picnic](https://myanimelist.net/manga.php?id=110766) chap. 38
 
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 5
@@ -106,8 +108,6 @@
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 3
 
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 2
-
-- [Detective Conan OVA 07: A Challenge from Agasa! Agasa vs. Conan and the Detective Boys](https://myanimelist.net/anime.php?id=2597) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
