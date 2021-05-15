@@ -85,6 +85,8 @@
 
 - [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 6
 
+- [Shadows House](https://myanimelist.net/manga.php?id=115730) chap. 28
+
 - [Detective Conan OVA 09: The Stranger in 10 Years...](https://myanimelist.net/anime.php?id=6438) ep. 1
 
 - [Detective Conan OVA 08: High School Girl Detective Sonoko Suzuki's Case Files](https://myanimelist.net/anime.php?id=6198) ep. 1
@@ -106,8 +108,6 @@
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 5
 
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 3
-
-- [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 2
 
 <!-- MyAnimeList Activity End -->
 </details>
