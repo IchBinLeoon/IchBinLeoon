@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 6
+
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 6
 
 - [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 6
@@ -106,8 +108,6 @@
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 3
 
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 2
-
-- [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
