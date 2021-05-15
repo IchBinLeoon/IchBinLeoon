@@ -85,6 +85,8 @@
 
 - [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 6
 
+- [Jujutsu Kaisen 0: Tokyo Toritsu Jujutsu Koutou Senmon Gakkou](https://myanimelist.net/manga.php?id=115710) chap. 1
+
 - [Chainsaw Man](https://myanimelist.net/manga.php?id=116778) chap. 1
 
 - [Shadows House](https://myanimelist.net/manga.php?id=115730) chap. 28
@@ -106,8 +108,6 @@
 - [Yuru Camp△](https://myanimelist.net/manga.php?id=94376) chap. 53
 
 - [Urasekai Picnic](https://myanimelist.net/manga.php?id=110766) chap. 38
-
-- [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 5
 
 <!-- MyAnimeList Activity End -->
 </details>
