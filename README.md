@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 6
+
 - [Detective Conan OVA 09: The Stranger in 10 Years...](https://myanimelist.net/anime.php?id=6438) ep. 1
 
 - [Detective Conan OVA 08: High School Girl Detective Sonoko Suzuki's Case Files](https://myanimelist.net/anime.php?id=6198) ep. 1
@@ -106,8 +108,6 @@
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 1
 
 - [Overlord III](https://myanimelist.net/anime.php?id=37675) ep. 13
-
-- [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 5
 
 <!-- MyAnimeList Activity End -->
 </details>
