@@ -85,6 +85,8 @@
 
 - [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 6
 
+- [Chainsaw Man](https://myanimelist.net/manga.php?id=116778) chap. 1
+
 - [Shadows House](https://myanimelist.net/manga.php?id=115730) chap. 28
 
 - [Detective Conan OVA 09: The Stranger in 10 Years...](https://myanimelist.net/anime.php?id=6438) ep. 1
@@ -106,8 +108,6 @@
 - [Urasekai Picnic](https://myanimelist.net/manga.php?id=110766) chap. 38
 
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 5
-
-- [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 3
 
 <!-- MyAnimeList Activity End -->
 </details>
