@@ -79,6 +79,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Bleach](https://myanimelist.net/anime.php?id=269) ep. 359
+
+- [Bleach](https://myanimelist.net/anime.php?id=269) ep. 358
+
 - [Bleach](https://myanimelist.net/anime.php?id=269) ep. 357
 
 - [Bleach](https://myanimelist.net/anime.php?id=269) ep. 356
@@ -104,10 +108,6 @@
 - [Hataraku Saibou!!](https://myanimelist.net/anime.php?id=39586) ep. 6
 
 - [Hataraku Saibou!!](https://myanimelist.net/anime.php?id=39586) ep. 5
-
-- [91 Days: Toki no Asase/Subete no Kinou/Ashita, Mata Ashita](https://myanimelist.net/anime.php?id=34777) ep. 1
-
-- [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 5
 
 <!-- MyAnimeList Activity End -->
 </details>
