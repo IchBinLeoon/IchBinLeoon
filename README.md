@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Ore dake Haireru Kakushi Dungeon](https://myanimelist.net/anime.php?id=41899) ep. 12
+
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 6
 
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 6
@@ -106,8 +108,6 @@
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 2
 
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 1
-
-- [Overlord III](https://myanimelist.net/anime.php?id=37675) ep. 13
 
 <!-- MyAnimeList Activity End -->
 </details>
