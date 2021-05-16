@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Bleach](https://myanimelist.net/anime.php?id=269) ep. 362
+
 - [Bleach](https://myanimelist.net/anime.php?id=269) ep. 361
 
 - [Bleach](https://myanimelist.net/anime.php?id=269) ep. 360
@@ -106,8 +108,6 @@
 - [Detective Conan OVA 08: High School Girl Detective Sonoko Suzuki's Case Files](https://myanimelist.net/anime.php?id=6198) ep. 1
 
 - [Hataraku Saibou!!](https://myanimelist.net/anime.php?id=39586) ep. 8
-
-- [Hataraku Saibou!!](https://myanimelist.net/anime.php?id=39586) ep. 7
 
 <!-- MyAnimeList Activity End -->
 </details>
