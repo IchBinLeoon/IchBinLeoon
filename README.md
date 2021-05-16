@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Bleach](https://myanimelist.net/anime.php?id=269) ep. 357
+
 - [Bleach](https://myanimelist.net/anime.php?id=269) ep. 356
 
 - [Bokutachi wa Benkyou ga Dekinai!](https://myanimelist.net/anime.php?id=40004) ep. 11
@@ -106,8 +108,6 @@
 - [91 Days: Toki no Asase/Subete no Kinou/Ashita, Mata Ashita](https://myanimelist.net/anime.php?id=34777) ep. 1
 
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 5
-
-- [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 3
 
 <!-- MyAnimeList Activity End -->
 </details>
