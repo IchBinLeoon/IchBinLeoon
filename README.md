@@ -79,6 +79,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Bleach](https://myanimelist.net/anime.php?id=269) ep. 356
+
+- [Bokutachi wa Benkyou ga Dekinai!](https://myanimelist.net/anime.php?id=40004) ep. 11
+
 - [Ore dake Haireru Kakushi Dungeon](https://myanimelist.net/anime.php?id=41899) ep. 12
 
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 6
@@ -104,10 +108,6 @@
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 5
 
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 3
-
-- [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 2
-
-- [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
