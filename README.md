@@ -85,12 +85,6 @@
 
 - [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 6
 
-- [Jujutsu Kaisen 0: Tokyo Toritsu Jujutsu Koutou Senmon Gakkou](https://myanimelist.net/manga.php?id=115710) chap. 1
-
-- [Chainsaw Man](https://myanimelist.net/manga.php?id=116778) chap. 1
-
-- [Shadows House](https://myanimelist.net/manga.php?id=115730) chap. 28
-
 - [Detective Conan OVA 09: The Stranger in 10 Years...](https://myanimelist.net/anime.php?id=6438) ep. 1
 
 - [Detective Conan OVA 08: High School Girl Detective Sonoko Suzuki's Case Files](https://myanimelist.net/anime.php?id=6198) ep. 1
@@ -105,9 +99,15 @@
 
 - [91 Days: Toki no Asase/Subete no Kinou/Ashita, Mata Ashita](https://myanimelist.net/anime.php?id=34777) ep. 1
 
-- [Yuru Camp△](https://myanimelist.net/manga.php?id=94376) chap. 53
+- [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 5
 
-- [Urasekai Picnic](https://myanimelist.net/manga.php?id=110766) chap. 38
+- [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 3
+
+- [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 2
+
+- [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 1
+
+- [Overlord III](https://myanimelist.net/anime.php?id=37675) ep. 13
 
 <!-- MyAnimeList Activity End -->
 </details>
