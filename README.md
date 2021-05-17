@@ -79,6 +79,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 580
+
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 579
+
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 578
 
 - [Detective Conan OVA 10: Kid in Trap Island](https://myanimelist.net/anime.php?id=8609) ep. 1
@@ -104,10 +108,6 @@
 - [Bleach](https://myanimelist.net/anime.php?id=269) ep. 356
 
 - [Bokutachi wa Benkyou ga Dekinai!](https://myanimelist.net/anime.php?id=40004) ep. 11
-
-- [Ore dake Haireru Kakushi Dungeon](https://myanimelist.net/anime.php?id=41899) ep. 12
-
-- [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 6
 
 <!-- MyAnimeList Activity End -->
 </details>
