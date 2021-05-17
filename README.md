@@ -79,6 +79,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 588
+
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 587
+
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 586
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 585
@@ -104,10 +108,6 @@
 - [Bokutachi wa Benkyou ga Dekinai!](https://myanimelist.net/anime.php?id=40004) ep. 13
 
 - [Bleach](https://myanimelist.net/anime.php?id=269) ep. 366
-
-- [Bleach](https://myanimelist.net/anime.php?id=269) ep. 362
-
-- [Bleach](https://myanimelist.net/anime.php?id=269) ep. 361
 
 <!-- MyAnimeList Activity End -->
 </details>
