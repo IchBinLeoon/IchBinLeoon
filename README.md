@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 578
+
 - [Detective Conan OVA 10: Kid in Trap Island](https://myanimelist.net/anime.php?id=8609) ep. 1
 
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 6
@@ -106,8 +108,6 @@
 - [Ore dake Haireru Kakushi Dungeon](https://myanimelist.net/anime.php?id=41899) ep. 12
 
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 6
-
-- [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 6
 
 <!-- MyAnimeList Activity End -->
 </details>
