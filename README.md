@@ -79,6 +79,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 591
+
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 590
+
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 589
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 588
@@ -104,10 +108,6 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 578
 
 - [Detective Conan OVA 10: Kid in Trap Island](https://myanimelist.net/anime.php?id=8609) ep. 1
-
-- [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 6
-
-- [Bokutachi wa Benkyou ga Dekinai!](https://myanimelist.net/anime.php?id=40004) ep. 13
 
 <!-- MyAnimeList Activity End -->
 </details>
