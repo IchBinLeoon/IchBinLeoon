@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 597
+
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 596
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 595
@@ -106,8 +108,6 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 584
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 583
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 582
 
 <!-- MyAnimeList Activity End -->
 </details>
