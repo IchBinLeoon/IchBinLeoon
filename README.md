@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 584
+
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 583
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 582
@@ -106,8 +108,6 @@
 - [Bleach](https://myanimelist.net/anime.php?id=269) ep. 360
 
 - [Bleach](https://myanimelist.net/anime.php?id=269) ep. 359
-
-- [Bleach](https://myanimelist.net/anime.php?id=269) ep. 358
 
 <!-- MyAnimeList Activity End -->
 </details>
