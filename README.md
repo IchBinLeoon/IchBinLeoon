@@ -79,35 +79,35 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 598
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 616
 
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 597
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 615
 
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 596
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 614
 
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 595
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 613
 
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 594
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 612
 
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 593
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 611
 
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 592
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 610
 
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 591
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 609
 
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 590
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 608
 
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 589
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 607
 
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 588
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 606
 
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 587
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 605
 
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 586
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 604
 
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 585
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 603
 
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 584
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 602
 
 <!-- MyAnimeList Activity End -->
 </details>
