@@ -79,6 +79,12 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 621
+
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 620
+
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 619
+
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 618
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 617
@@ -102,12 +108,6 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 608
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 607
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 606
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 605
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 604
 
 <!-- MyAnimeList Activity End -->
 </details>
