@@ -79,6 +79,16 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Tonari no Kyuuketsuki-san](https://myanimelist.net/anime.php?id=37579) ep. 12
+
+- [Tonari no Kyuuketsuki-san](https://myanimelist.net/anime.php?id=37579) ep. 11
+
+- [Tonari no Kyuuketsuki-san](https://myanimelist.net/anime.php?id=37579) ep. 10
+
+- [Tonari no Kyuuketsuki-san](https://myanimelist.net/anime.php?id=37579) ep. 9
+
+- [Tonari no Kyuuketsuki-san](https://myanimelist.net/anime.php?id=37579) ep. 8
+
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 641
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 640
@@ -98,16 +108,6 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 633
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 632
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 631
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 630
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 629
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 628
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 627
 
 <!-- MyAnimeList Activity End -->
 </details>
