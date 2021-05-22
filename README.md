@@ -79,6 +79,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 643
+
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 642
+
 - [Tonari no Kyuuketsuki-san](https://myanimelist.net/anime.php?id=37579) ep. 12
 
 - [Tonari no Kyuuketsuki-san](https://myanimelist.net/anime.php?id=37579) ep. 11
@@ -104,10 +108,6 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 635
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 634
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 633
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 632
 
 <!-- MyAnimeList Activity End -->
 </details>
