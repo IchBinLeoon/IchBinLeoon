@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 7
+
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 7
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 643
@@ -106,8 +108,6 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 637
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 636
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 635
 
 <!-- MyAnimeList Activity End -->
 </details>
