@@ -20,7 +20,7 @@
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&logo=GitHub&message=GitHub&logoColor=FFFFFF&color=181717&label=)](https://github.com/)
 [![JetBrains](https://img.shields.io/static/v1?style=for-the-badge&logo=JetBrains&logoColor=FFFFFF&message=JetBrains&nbsp;IDEs&color=000000&label=)](https://www.jetbrains.com/)
 [![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&message=PostgreSQL&color=336791&label=)](https://www.postgresql.org/)
-[![Arch](https://img.shields.io/static/v1?style=for-the-badge&logo=Arch+Linux&logoColor=FFFFFF&message=Arch&nbsp;Linux&color=1793D1&label=)](https://manjaro.org/)
+[![Arch](https://img.shields.io/static/v1?style=for-the-badge&logo=Arch+Linux&logoColor=FFFFFF&message=Arch&nbsp;Linux&color=1793D1&label=)](https://archlinux.org/)
 
 ### Connect with Me 🤝🏻📫
 
