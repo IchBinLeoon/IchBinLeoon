@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Black Lagoon](https://myanimelist.net/anime.php?id=889) ep. 2
+
 - [Tensura Nikki: Tensei shitara Slime Datta Ken](https://myanimelist.net/anime.php?id=41488) ep. 2
 
 - [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 7
@@ -106,8 +108,6 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 639
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 638
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 637
 
 <!-- MyAnimeList Activity End -->
 </details>
