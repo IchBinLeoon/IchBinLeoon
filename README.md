@@ -79,6 +79,12 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 7
+
+- [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 8
+
+- [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 7
+
 - [Black Lagoon](https://myanimelist.net/anime.php?id=889) ep. 2
 
 - [Tensura Nikki: Tensei shitara Slime Datta Ken](https://myanimelist.net/anime.php?id=41488) ep. 2
@@ -102,12 +108,6 @@
 - [Tonari no Kyuuketsuki-san](https://myanimelist.net/anime.php?id=37579) ep. 8
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 641
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 640
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 639
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 638
 
 <!-- MyAnimeList Activity End -->
 </details>
