@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 8
+
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 8
 
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 7
@@ -106,8 +108,6 @@
 - [Tonari no Kyuuketsuki-san](https://myanimelist.net/anime.php?id=37579) ep. 10
 
 - [Tonari no Kyuuketsuki-san](https://myanimelist.net/anime.php?id=37579) ep. 9
-
-- [Tonari no Kyuuketsuki-san](https://myanimelist.net/anime.php?id=37579) ep. 8
 
 <!-- MyAnimeList Activity End -->
 </details>
