@@ -79,6 +79,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 8
+
+- [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 7
+
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 6
 
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 8
@@ -104,10 +108,6 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 643
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 642
-
-- [Tonari no Kyuuketsuki-san](https://myanimelist.net/anime.php?id=37579) ep. 12
-
-- [Tonari no Kyuuketsuki-san](https://myanimelist.net/anime.php?id=37579) ep. 11
 
 <!-- MyAnimeList Activity End -->
 </details>
