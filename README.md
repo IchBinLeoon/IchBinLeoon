@@ -79,6 +79,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren](https://myanimelist.net/anime.php?id=42603) ep. 2
+
+- [Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren](https://myanimelist.net/anime.php?id=42603) ep. 1
+
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 10
 
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 9
@@ -104,10 +108,6 @@
 - [Black Lagoon](https://myanimelist.net/anime.php?id=889) ep. 2
 
 - [Tensura Nikki: Tensei shitara Slime Datta Ken](https://myanimelist.net/anime.php?id=41488) ep. 2
-
-- [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 7
-
-- [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 7
 
 <!-- MyAnimeList Activity End -->
 </details>
