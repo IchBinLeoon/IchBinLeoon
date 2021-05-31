@@ -79,6 +79,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 10
+
+- [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 9
+
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 8
 
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 7
@@ -104,10 +108,6 @@
 - [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 7
 
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 7
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 643
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 642
 
 <!-- MyAnimeList Activity End -->
 </details>
