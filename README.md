@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 7
+
 - [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 6
 
 - [Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren](https://myanimelist.net/anime.php?id=42603) ep. 2
@@ -106,8 +108,6 @@
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 8
 
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 7
-
-- [Black Lagoon](https://myanimelist.net/anime.php?id=889) ep. 2
 
 <!-- MyAnimeList Activity End -->
 </details>
