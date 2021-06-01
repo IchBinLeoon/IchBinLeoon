@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.](https://myanimelist.net/anime.php?id=39324) ep. 1
+
 - [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 7
 
 - [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 6
@@ -106,8 +108,6 @@
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 7
 
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 8
-
-- [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 7
 
 <!-- MyAnimeList Activity End -->
 </details>
