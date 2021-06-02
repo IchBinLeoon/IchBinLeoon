@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [JoJo no Kimyou na Bouken (TV)](https://myanimelist.net/anime.php?id=14719) ep. 7
+
 - [Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.](https://myanimelist.net/anime.php?id=39324) ep. 1
 
 - [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 7
@@ -106,8 +108,6 @@
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 8
 
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 7
-
-- [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 8
 
 <!-- MyAnimeList Activity End -->
 </details>
