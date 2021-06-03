@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [JoJo no Kimyou na Bouken (TV)](https://myanimelist.net/anime.php?id=14719) ep. 20
+
 - [JoJo no Kimyou na Bouken (TV)](https://myanimelist.net/anime.php?id=14719) ep. 15
 
 - [JoJo no Kimyou na Bouken (TV)](https://myanimelist.net/anime.php?id=14719) ep. 7
@@ -106,8 +108,6 @@
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 8
 
 - [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 8
-
-- [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 8
 
 <!-- MyAnimeList Activity End -->
 </details>
