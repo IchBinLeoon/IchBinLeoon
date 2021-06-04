@@ -79,6 +79,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Black Lagoon: The Second Barrage](https://myanimelist.net/anime.php?id=1519) ep. 1
+
+- [Black Lagoon](https://myanimelist.net/anime.php?id=889) ep. 12
+
 - [JoJo no Kimyou na Bouken (TV)](https://myanimelist.net/anime.php?id=14719) ep. 20
 
 - [JoJo no Kimyou na Bouken (TV)](https://myanimelist.net/anime.php?id=14719) ep. 15
@@ -104,10 +108,6 @@
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 7
 
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 6
-
-- [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 8
-
-- [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 8
 
 <!-- MyAnimeList Activity End -->
 </details>
