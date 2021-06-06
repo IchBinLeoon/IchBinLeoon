@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 9
+
 - [Black Lagoon: The Second Barrage](https://myanimelist.net/anime.php?id=1519) ep. 1
 
 - [Black Lagoon](https://myanimelist.net/anime.php?id=889) ep. 12
@@ -106,8 +108,6 @@
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 8
 
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 7
-
-- [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 6
 
 <!-- MyAnimeList Activity End -->
 </details>
