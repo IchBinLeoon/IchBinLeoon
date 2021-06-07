@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 9
+
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 9
 
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 9
@@ -106,8 +108,6 @@
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 10
 
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 9
-
-- [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 8
 
 <!-- MyAnimeList Activity End -->
 </details>
