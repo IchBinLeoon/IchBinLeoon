@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 9
+
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 11
 
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 9
@@ -106,8 +108,6 @@
 - [Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren](https://myanimelist.net/anime.php?id=42603) ep. 2
 
 - [Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren](https://myanimelist.net/anime.php?id=42603) ep. 1
-
-- [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 10
 
 <!-- MyAnimeList Activity End -->
 </details>
