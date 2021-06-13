@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 12
+
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 10
 
 - [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 9
@@ -106,8 +108,6 @@
 - [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 7
 
 - [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/anime.php?id=40938) ep. 6
-
-- [Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren](https://myanimelist.net/anime.php?id=42603) ep. 2
 
 <!-- MyAnimeList Activity End -->
 </details>
