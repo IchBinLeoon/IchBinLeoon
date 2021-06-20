@@ -79,6 +79,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 11
+
+- [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 10
+
 - [Isekai Izakaya: Koto Aitheria no Izakaya Nobu](https://myanimelist.net/anime.php?id=34420) ep. 2
 
 - [Isekai Izakaya: Koto Aitheria no Izakaya Nobu](https://myanimelist.net/anime.php?id=34420) ep. 1
@@ -104,10 +108,6 @@
 - [JoJo no Kimyou na Bouken (TV)](https://myanimelist.net/anime.php?id=14719) ep. 20
 
 - [JoJo no Kimyou na Bouken (TV)](https://myanimelist.net/anime.php?id=14719) ep. 15
-
-- [JoJo no Kimyou na Bouken (TV)](https://myanimelist.net/anime.php?id=14719) ep. 7
-
-- [Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.](https://myanimelist.net/anime.php?id=39324) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
