@@ -81,6 +81,8 @@
 
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 11
 
+- [Shadows House](https://myanimelist.net/manga.php?id=115730) chap. 47
+
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 11
 
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 10
@@ -106,8 +108,6 @@
 - [Black Lagoon: The Second Barrage](https://myanimelist.net/anime.php?id=1519) ep. 1
 
 - [Black Lagoon](https://myanimelist.net/anime.php?id=889) ep. 12
-
-- [JoJo no Kimyou na Bouken (TV)](https://myanimelist.net/anime.php?id=14719) ep. 20
 
 <!-- MyAnimeList Activity End -->
 </details>
