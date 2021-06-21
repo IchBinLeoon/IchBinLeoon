@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 11
+
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 11
 
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 10
@@ -106,8 +108,6 @@
 - [Black Lagoon](https://myanimelist.net/anime.php?id=889) ep. 12
 
 - [JoJo no Kimyou na Bouken (TV)](https://myanimelist.net/anime.php?id=14719) ep. 20
-
-- [JoJo no Kimyou na Bouken (TV)](https://myanimelist.net/anime.php?id=14719) ep. 15
 
 <!-- MyAnimeList Activity End -->
 </details>
