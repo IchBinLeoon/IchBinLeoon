@@ -79,6 +79,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 10
+
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 11
 
 - [Shadows House](https://myanimelist.net/manga.php?id=115730) chap. 47
@@ -106,8 +108,6 @@
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 9
 
 - [Black Lagoon: The Second Barrage](https://myanimelist.net/anime.php?id=1519) ep. 1
-
-- [Black Lagoon](https://myanimelist.net/anime.php?id=889) ep. 12
 
 <!-- MyAnimeList Activity End -->
 </details>
