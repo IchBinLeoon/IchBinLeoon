@@ -79,8 +79,6 @@
 
 - [Yuru Camp△](https://myanimelist.net/manga.php?id=94376) chap. 53
 
-- [Yuru Camp△](https://myanimelist.net/manga.php?id=94376) chap. 530
-
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 709
 
 - [Detective Conan Movie 15: Quarter of Silence](https://myanimelist.net/anime.php?id=9963) ep. 1
@@ -106,6 +104,8 @@
 - [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 9
 
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 11
+
+- [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 9
 
 <!-- MyAnimeList Activity End -->
 </details>
