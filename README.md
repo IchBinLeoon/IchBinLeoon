@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Jujutsu Kaisen 0: Tokyo Toritsu Jujutsu Koutou Senmon Gakkou](https://myanimelist.net/manga.php?id=115710) chap. 4
+
 - [Yuru Camp△](https://myanimelist.net/manga.php?id=94376) chap. 53
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 709
@@ -104,8 +106,6 @@
 - [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 9
 
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 11
-
-- [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 9
 
 <!-- MyAnimeList Activity End -->
 </details>
