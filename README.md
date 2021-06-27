@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Yakusoku no Neverland](https://myanimelist.net/manga.php?id=100128) chap. 43
+
 - [Dr. Stone](https://myanimelist.net/manga.php?id=103897) chap. 88
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 709
@@ -104,8 +106,6 @@
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 12
 
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 10
-
-- [Ijiranaide, Nagatoro-san](https://myanimelist.net/anime.php?id=42361) ep. 9
 
 <!-- MyAnimeList Activity End -->
 </details>
