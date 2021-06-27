@@ -77,10 +77,6 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
-- [Jujutsu Kaisen 0: Tokyo Toritsu Jujutsu Koutou Senmon Gakkou](https://myanimelist.net/manga.php?id=115710) chap. 4
-
-- [Yuru Camp△](https://myanimelist.net/manga.php?id=94376) chap. 53
-
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 709
 
 - [Detective Conan Movie 15: Quarter of Silence](https://myanimelist.net/anime.php?id=9963) ep. 1
@@ -94,6 +90,10 @@
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 11
 
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 10
+
+- [Jujutsu Kaisen 0: Tokyo Toritsu Jujutsu Koutou Senmon Gakkou](https://myanimelist.net/manga.php?id=115710) chap. 4
+
+- [Yuru Camp△](https://myanimelist.net/manga.php?id=94376) chap. 53
 
 - [Isekai Izakaya: Koto Aitheria no Izakaya Nobu](https://myanimelist.net/anime.php?id=34420) ep. 2
 
