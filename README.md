@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan Movie 16: The Eleventh Striker](https://myanimelist.net/anime.php?id=12117) ep. 1
+
 - [Yakusoku no Neverland](https://myanimelist.net/manga.php?id=100128) chap. 43
 
 - [Dr. Stone](https://myanimelist.net/manga.php?id=103897) chap. 88
@@ -104,8 +106,6 @@
 - [Isekai Izakaya: Koto Aitheria no Izakaya Nobu](https://myanimelist.net/anime.php?id=34420) ep. 1
 
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime.php?id=41587) ep. 12
-
-- [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 10
 
 <!-- MyAnimeList Activity End -->
 </details>
