@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 753
+
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 726
 
 - [Detective Conan Movie 16: The Eleventh Striker](https://myanimelist.net/anime.php?id=12117) ep. 1
@@ -104,8 +106,6 @@
 - [Yuru Camp△](https://myanimelist.net/manga.php?id=94376) chap. 53
 
 - [Isekai Izakaya: Koto Aitheria no Izakaya Nobu](https://myanimelist.net/anime.php?id=34420) ep. 2
-
-- [Isekai Izakaya: Koto Aitheria no Izakaya Nobu](https://myanimelist.net/anime.php?id=34420) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
