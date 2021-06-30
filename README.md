@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 784
+
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 753
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 726
@@ -104,8 +106,6 @@
 - [Jujutsu Kaisen 0: Tokyo Toritsu Jujutsu Koutou Senmon Gakkou](https://myanimelist.net/manga.php?id=115710) chap. 4
 
 - [Yuru Camp△](https://myanimelist.net/manga.php?id=94376) chap. 53
-
-- [Isekai Izakaya: Koto Aitheria no Izakaya Nobu](https://myanimelist.net/anime.php?id=34420) ep. 2
 
 <!-- MyAnimeList Activity End -->
 </details>
