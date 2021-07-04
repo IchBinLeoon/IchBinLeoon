@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X](https://myanimelist.net/anime.php?id=42282) ep. 1
+
 - [Fate/stay night Movie: Heaven's Feel - III. Spring Song](https://myanimelist.net/anime.php?id=33050) ep. 1
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 807
@@ -104,8 +106,6 @@
 - [Shadows House](https://myanimelist.net/anime.php?id=43439) ep. 11
 
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 11
-
-- [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 10
 
 <!-- MyAnimeList Activity End -->
 </details>
