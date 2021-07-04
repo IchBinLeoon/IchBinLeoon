@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Tantei wa Mou, Shindeiru.](https://myanimelist.net/anime.php?id=46471) ep. 1
+
 - [Re-Main](https://myanimelist.net/anime.php?id=48406) ep. 1
 
 - [Mahouka Koukou no Yuutousei](https://myanimelist.net/anime.php?id=45572) ep. 1
@@ -104,8 +106,6 @@
 - [Yakusoku no Neverland](https://myanimelist.net/manga.php?id=100128) chap. 43
 
 - [Dr. Stone](https://myanimelist.net/manga.php?id=103897) chap. 88
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 709
 
 <!-- MyAnimeList Activity End -->
 </details>
