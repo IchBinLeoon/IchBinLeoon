@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 12
+
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 13
 
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 12
@@ -104,8 +106,6 @@
 - [Detective Conan Movie 15: Quarter of Silence](https://myanimelist.net/anime.php?id=9963) ep. 1
 
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 11
-
-- [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 10
 
 <!-- MyAnimeList Activity End -->
 </details>
