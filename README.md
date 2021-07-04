@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Mahouka Koukou no Yuutousei](https://myanimelist.net/anime.php?id=45572) ep. 1
+
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 12
 
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 13
@@ -104,8 +106,6 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 709
 
 - [Detective Conan Movie 15: Quarter of Silence](https://myanimelist.net/anime.php?id=9963) ep. 1
-
-- [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 11
 
 <!-- MyAnimeList Activity End -->
 </details>
