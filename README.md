@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Bokutachi no Remake](https://myanimelist.net/anime.php?id=40904) ep. 1
+
 - [Tantei wa Mou, Shindeiru.](https://myanimelist.net/anime.php?id=46471) ep. 1
 
 - [Re-Main](https://myanimelist.net/anime.php?id=48406) ep. 1
@@ -104,8 +106,6 @@
 - [Detective Conan Movie 16: The Eleventh Striker](https://myanimelist.net/anime.php?id=12117) ep. 1
 
 - [Yakusoku no Neverland](https://myanimelist.net/manga.php?id=100128) chap. 43
-
-- [Dr. Stone](https://myanimelist.net/manga.php?id=103897) chap. 88
 
 <!-- MyAnimeList Activity End -->
 </details>
