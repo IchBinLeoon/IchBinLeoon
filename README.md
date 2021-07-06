@@ -79,6 +79,10 @@
 
 - [Tensei shitara Slime Datta Ken 2nd Season Part 2](https://myanimelist.net/anime.php?id=41487) ep. 1
 
+- [High School DxD](https://myanimelist.net/manga.php?id=30859) chap. 2
+
+- [High School DxD](https://myanimelist.net/manga.php?id=30859) chap. 1
+
 - [Chainsaw Man](https://myanimelist.net/manga.php?id=116778) chap. 7
 
 - [Bokutachi no Remake](https://myanimelist.net/anime.php?id=40904) ep. 1
@@ -102,10 +106,6 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 807
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 784
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 753
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 726
 
 <!-- MyAnimeList Activity End -->
 </details>
