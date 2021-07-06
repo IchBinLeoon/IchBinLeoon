@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Tensei shitara Slime Datta Ken 2nd Season Part 2](https://myanimelist.net/anime.php?id=41487) ep. 1
+
 - [Chainsaw Man](https://myanimelist.net/manga.php?id=116778) chap. 7
 
 - [Bokutachi no Remake](https://myanimelist.net/anime.php?id=40904) ep. 1
@@ -104,8 +106,6 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 753
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 726
-
-- [Detective Conan Movie 16: The Eleventh Striker](https://myanimelist.net/anime.php?id=12117) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
