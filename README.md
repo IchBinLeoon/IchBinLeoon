@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 871
+
 - [Tensei shitara Slime Datta Ken 2nd Season Part 2](https://myanimelist.net/anime.php?id=41487) ep. 1
 
 - [High School DxD](https://myanimelist.net/manga.php?id=30859) chap. 2
@@ -104,8 +106,6 @@
 - [Fate/stay night Movie: Heaven's Feel - III. Spring Song](https://myanimelist.net/anime.php?id=33050) ep. 1
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 807
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 784
 
 <!-- MyAnimeList Activity End -->
 </details>
