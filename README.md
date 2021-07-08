@@ -77,6 +77,12 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Bakemonogatari](https://myanimelist.net/manga.php?id=113010) chap. 3
+
+- [Bakemonogatari](https://myanimelist.net/manga.php?id=113010) chap. 2
+
+- [Bakemonogatari](https://myanimelist.net/manga.php?id=113010) chap. 1
+
 - [High School DxD](https://myanimelist.net/manga.php?id=30859) chap. 4
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 871
@@ -100,12 +106,6 @@
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 12
 
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 13
-
-- [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 12
-
-- [Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X](https://myanimelist.net/anime.php?id=42282) ep. 1
-
-- [Fate/stay night Movie: Heaven's Feel - III. Spring Song](https://myanimelist.net/anime.php?id=33050) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
