@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [High School DxD](https://myanimelist.net/manga.php?id=30859) chap. 4
+
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 871
 
 - [Tensei shitara Slime Datta Ken 2nd Season Part 2](https://myanimelist.net/anime.php?id=41487) ep. 1
@@ -104,8 +106,6 @@
 - [Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X](https://myanimelist.net/anime.php?id=42282) ep. 1
 
 - [Fate/stay night Movie: Heaven's Feel - III. Spring Song](https://myanimelist.net/anime.php?id=33050) ep. 1
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 807
 
 <!-- MyAnimeList Activity End -->
 </details>
