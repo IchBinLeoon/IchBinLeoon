@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 877
+
 - [Bakemonogatari](https://myanimelist.net/manga.php?id=113010) chap. 3
 
 - [Bakemonogatari](https://myanimelist.net/manga.php?id=113010) chap. 2
@@ -104,8 +106,6 @@
 - [Mahouka Koukou no Yuutousei](https://myanimelist.net/anime.php?id=45572) ep. 1
 
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 12
-
-- [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 13
 
 <!-- MyAnimeList Activity End -->
 </details>
