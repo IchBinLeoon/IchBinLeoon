@@ -77,6 +77,10 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Kimetsu no Yaiba: Tokubetsu Yomikiri](https://myanimelist.net/manga.php?id=130388) chap. 1
+
+- [Kimetsu no Yaiba](https://myanimelist.net/manga.php?id=96792) chap. 70
+
 - [Kobayashi-san Chi no Maid Dragon S](https://myanimelist.net/anime.php?id=39247) ep. 1
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 877
@@ -102,10 +106,6 @@
 - [Bokutachi no Remake](https://myanimelist.net/anime.php?id=40904) ep. 1
 
 - [Tantei wa Mou, Shindeiru.](https://myanimelist.net/anime.php?id=46471) ep. 1
-
-- [Re-Main](https://myanimelist.net/anime.php?id=48406) ep. 1
-
-- [Mahouka Koukou no Yuutousei](https://myanimelist.net/anime.php?id=45572) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
