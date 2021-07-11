@@ -77,35 +77,35 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
-- [Kimetsu no Yaiba: Tokubetsu Yomikiri](https://myanimelist.net/manga.php?id=130388) chap. 1
-
-- [Kimetsu no Yaiba](https://myanimelist.net/manga.php?id=96792) chap. 70
-
 - [Kobayashi-san Chi no Maid Dragon S](https://myanimelist.net/anime.php?id=39247) ep. 1
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 877
-
-- [Bakemonogatari](https://myanimelist.net/manga.php?id=113010) chap. 3
-
-- [Bakemonogatari](https://myanimelist.net/manga.php?id=113010) chap. 2
-
-- [Bakemonogatari](https://myanimelist.net/manga.php?id=113010) chap. 1
-
-- [High School DxD](https://myanimelist.net/manga.php?id=30859) chap. 4
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 871
 
 - [Tensei shitara Slime Datta Ken 2nd Season Part 2](https://myanimelist.net/anime.php?id=41487) ep. 1
 
-- [High School DxD](https://myanimelist.net/manga.php?id=30859) chap. 2
-
-- [High School DxD](https://myanimelist.net/manga.php?id=30859) chap. 1
-
-- [Chainsaw Man](https://myanimelist.net/manga.php?id=116778) chap. 7
-
 - [Bokutachi no Remake](https://myanimelist.net/anime.php?id=40904) ep. 1
 
 - [Tantei wa Mou, Shindeiru.](https://myanimelist.net/anime.php?id=46471) ep. 1
+
+- [Re-Main](https://myanimelist.net/anime.php?id=48406) ep. 1
+
+- [Mahouka Koukou no Yuutousei](https://myanimelist.net/anime.php?id=45572) ep. 1
+
+- [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 12
+
+- [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 13
+
+- [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 12
+
+- [Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X](https://myanimelist.net/anime.php?id=42282) ep. 1
+
+- [Kimetsu no Yaiba: Tokubetsu Yomikiri](https://myanimelist.net/manga.php?id=130388) chap. 1
+
+- [Kimetsu no Yaiba](https://myanimelist.net/manga.php?id=96792) chap. 70
+
+- [Bakemonogatari](https://myanimelist.net/manga.php?id=113010) chap. 3
 
 <!-- MyAnimeList Activity End -->
 </details>
