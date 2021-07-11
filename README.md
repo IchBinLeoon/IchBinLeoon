@@ -77,6 +77,14 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 4
+
+- [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 3
+
+- [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 2
+
+- [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 1
+
 - [Tantei wa Mou, Shindeiru.](https://myanimelist.net/anime.php?id=46471) ep. 2
 
 - [Kobayashi-san Chi no Maid Dragon S](https://myanimelist.net/anime.php?id=39247) ep. 1
@@ -98,14 +106,6 @@
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 12
 
 - [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 13
-
-- [Mini Dragon](https://myanimelist.net/anime.php?id=48590) ep. 12
-
-- [Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X](https://myanimelist.net/anime.php?id=42282) ep. 1
-
-- [Kimetsu no Yaiba: Tokubetsu Yomikiri](https://myanimelist.net/manga.php?id=130388) chap. 1
-
-- [Kimetsu no Yaiba](https://myanimelist.net/manga.php?id=96792) chap. 70
 
 <!-- MyAnimeList Activity End -->
 </details>
