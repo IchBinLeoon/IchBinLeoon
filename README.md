@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Tantei wa Mou, Shindeiru.](https://myanimelist.net/anime.php?id=46471) ep. 2
+
 - [Kobayashi-san Chi no Maid Dragon S](https://myanimelist.net/anime.php?id=39247) ep. 1
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 877
@@ -104,8 +106,6 @@
 - [Kimetsu no Yaiba: Tokubetsu Yomikiri](https://myanimelist.net/manga.php?id=130388) chap. 1
 
 - [Kimetsu no Yaiba](https://myanimelist.net/manga.php?id=96792) chap. 70
-
-- [Bakemonogatari](https://myanimelist.net/manga.php?id=113010) chap. 3
 
 <!-- MyAnimeList Activity End -->
 </details>
