@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Tonikaku Kawaii](https://myanimelist.net/manga.php?id=112589) chap. 8
+
 - [Meitantei Conan: Zero no Tea Time](https://myanimelist.net/manga.php?id=114379) chap. 10
 
 - [New Game!](https://myanimelist.net/manga.php?id=62509) chap. 132
@@ -104,8 +106,6 @@
 - [Bokutachi no Remake](https://myanimelist.net/anime.php?id=40904) ep. 1
 
 - [Tantei wa Mou, Shindeiru.](https://myanimelist.net/anime.php?id=46471) ep. 1
-
-- [Re-Main](https://myanimelist.net/anime.php?id=48406) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
