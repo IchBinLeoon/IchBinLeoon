@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [New Game!](https://myanimelist.net/manga.php?id=62509) chap. 132
+
 - [Oshi no Ko](https://myanimelist.net/manga.php?id=126146) chap. 10
 
 - [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 4
@@ -104,8 +106,6 @@
 - [Re-Main](https://myanimelist.net/anime.php?id=48406) ep. 1
 
 - [Mahouka Koukou no Yuutousei](https://myanimelist.net/anime.php?id=45572) ep. 1
-
-- [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime.php?id=40586) ep. 12
 
 <!-- MyAnimeList Activity End -->
 </details>
