@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Meitantei Conan: Zero no Tea Time](https://myanimelist.net/manga.php?id=114379) chap. 10
+
 - [New Game!](https://myanimelist.net/manga.php?id=62509) chap. 132
 
 - [Oshi no Ko](https://myanimelist.net/manga.php?id=126146) chap. 10
@@ -104,8 +106,6 @@
 - [Tantei wa Mou, Shindeiru.](https://myanimelist.net/anime.php?id=46471) ep. 1
 
 - [Re-Main](https://myanimelist.net/anime.php?id=48406) ep. 1
-
-- [Mahouka Koukou no Yuutousei](https://myanimelist.net/anime.php?id=45572) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
