@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Shy](https://myanimelist.net/manga.php?id=121197) chap. 6
+
 - [Re-Main](https://myanimelist.net/anime.php?id=48406) ep. 2
 
 - [Tonikaku Kawaii](https://myanimelist.net/manga.php?id=112589) chap. 8
@@ -104,8 +106,6 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 871
 
 - [Tensei shitara Slime Datta Ken 2nd Season Part 2](https://myanimelist.net/anime.php?id=41487) ep. 1
-
-- [Bokutachi no Remake](https://myanimelist.net/anime.php?id=40904) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
