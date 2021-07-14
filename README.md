@@ -77,6 +77,12 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Biohazard: Vendetta](https://myanimelist.net/anime.php?id=31853) ep. 1
+
+- [Biohazard: Damnation](https://myanimelist.net/anime.php?id=9544) ep. 1
+
+- [Biohazard: Degeneration](https://myanimelist.net/anime.php?id=3446) ep. 1
+
 - [Dr. Stone Reboot: Byakuya](https://myanimelist.net/manga.php?id=122464) chap. 9
 
 - [Shy](https://myanimelist.net/manga.php?id=121197) chap. 6
@@ -100,12 +106,6 @@
 - [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 1
 
 - [Tantei wa Mou, Shindeiru.](https://myanimelist.net/anime.php?id=46471) ep. 2
-
-- [Kobayashi-san Chi no Maid Dragon S](https://myanimelist.net/anime.php?id=39247) ep. 1
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 877
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 871
 
 <!-- MyAnimeList Activity End -->
 </details>
