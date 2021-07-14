@@ -83,6 +83,8 @@
 
 - [Biohazard: Degeneration](https://myanimelist.net/anime.php?id=3446) ep. 1
 
+- [Jujutsu Kaisen](https://myanimelist.net/manga.php?id=113138) chap. 97
+
 - [Dr. Stone Reboot: Byakuya](https://myanimelist.net/manga.php?id=122464) chap. 9
 
 - [Shy](https://myanimelist.net/manga.php?id=121197) chap. 6
@@ -104,8 +106,6 @@
 - [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 2
 
 - [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 1
-
-- [Tantei wa Mou, Shindeiru.](https://myanimelist.net/anime.php?id=46471) ep. 2
 
 <!-- MyAnimeList Activity End -->
 </details>
