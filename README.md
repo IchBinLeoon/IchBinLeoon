@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 896
+
 - [Biohazard: Vendetta](https://myanimelist.net/anime.php?id=31853) ep. 1
 
 - [Biohazard: Damnation](https://myanimelist.net/anime.php?id=9544) ep. 1
@@ -104,8 +106,6 @@
 - [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 3
 
 - [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 2
-
-- [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
