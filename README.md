@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Kono Subarashii Sekai ni Shukufuku wo!](https://myanimelist.net/manga.php?id=80385) chap. 5
+
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 896
 
 - [Biohazard: Vendetta](https://myanimelist.net/anime.php?id=31853) ep. 1
@@ -104,8 +106,6 @@
 - [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 4
 
 - [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 3
-
-- [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 2
 
 <!-- MyAnimeList Activity End -->
 </details>
