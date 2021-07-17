@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Majo no Tabitabi](https://myanimelist.net/manga.php?id=116831) chap. 4
+
 - [Kono Subarashii Sekai ni Shukufuku wo!](https://myanimelist.net/manga.php?id=80385) chap. 5
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 896
@@ -104,8 +106,6 @@
 - [Oshi no Ko](https://myanimelist.net/manga.php?id=126146) chap. 10
 
 - [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 4
-
-- [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 3
 
 <!-- MyAnimeList Activity End -->
 </details>
