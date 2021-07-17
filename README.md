@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan Movie 17: Private Eye in the Distant Sea](https://myanimelist.net/anime.php?id=14735) ep. 1
+
 - [Majo no Tabitabi](https://myanimelist.net/manga.php?id=116831) chap. 4
 
 - [Kono Subarashii Sekai ni Shukufuku wo!](https://myanimelist.net/manga.php?id=80385) chap. 5
@@ -104,8 +106,6 @@
 - [New Game!](https://myanimelist.net/manga.php?id=62509) chap. 132
 
 - [Oshi no Ko](https://myanimelist.net/manga.php?id=126146) chap. 10
-
-- [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 4
 
 <!-- MyAnimeList Activity End -->
 </details>
