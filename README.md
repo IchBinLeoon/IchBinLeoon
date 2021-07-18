@@ -79,10 +79,6 @@
 
 - [Detective Conan Movie 17: Private Eye in the Distant Sea](https://myanimelist.net/anime.php?id=14735) ep. 1
 
-- [Majo no Tabitabi](https://myanimelist.net/manga.php?id=116831) chap. 4
-
-- [Kono Subarashii Sekai ni Shukufuku wo!](https://myanimelist.net/manga.php?id=80385) chap. 5
-
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 896
 
 - [Biohazard: Vendetta](https://myanimelist.net/anime.php?id=31853) ep. 1
@@ -91,21 +87,25 @@
 
 - [Biohazard: Degeneration](https://myanimelist.net/anime.php?id=3446) ep. 1
 
+- [Re-Main](https://myanimelist.net/anime.php?id=48406) ep. 2
+
+- [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 4
+
+- [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 3
+
+- [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 2
+
+- [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 1
+
+- [Tantei wa Mou, Shindeiru.](https://myanimelist.net/anime.php?id=46471) ep. 2
+
+- [Majo no Tabitabi](https://myanimelist.net/manga.php?id=116831) chap. 4
+
+- [Kono Subarashii Sekai ni Shukufuku wo!](https://myanimelist.net/manga.php?id=80385) chap. 5
+
 - [Jujutsu Kaisen](https://myanimelist.net/manga.php?id=113138) chap. 97
 
 - [Dr. Stone Reboot: Byakuya](https://myanimelist.net/manga.php?id=122464) chap. 9
-
-- [Shy](https://myanimelist.net/manga.php?id=121197) chap. 6
-
-- [Re-Main](https://myanimelist.net/anime.php?id=48406) ep. 2
-
-- [Tonikaku Kawaii](https://myanimelist.net/manga.php?id=112589) chap. 8
-
-- [Meitantei Conan: Zero no Tea Time](https://myanimelist.net/manga.php?id=114379) chap. 10
-
-- [New Game!](https://myanimelist.net/manga.php?id=62509) chap. 132
-
-- [Oshi no Ko](https://myanimelist.net/manga.php?id=126146) chap. 10
 
 <!-- MyAnimeList Activity End -->
 </details>
