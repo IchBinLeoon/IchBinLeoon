@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan Movie 18: The Sniper from Another Dimension](https://myanimelist.net/anime.php?id=21419) ep. 1
+
 - [Detective Conan Movie 17: Private Eye in the Distant Sea](https://myanimelist.net/anime.php?id=14735) ep. 1
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 896
@@ -104,8 +106,6 @@
 - [Kono Subarashii Sekai ni Shukufuku wo!](https://myanimelist.net/manga.php?id=80385) chap. 5
 
 - [Jujutsu Kaisen](https://myanimelist.net/manga.php?id=113138) chap. 97
-
-- [Dr. Stone Reboot: Byakuya](https://myanimelist.net/manga.php?id=122464) chap. 9
 
 <!-- MyAnimeList Activity End -->
 </details>
