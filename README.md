@@ -81,6 +81,8 @@
 
 - [Detective Conan Movie 18: The Sniper from Another Dimension](https://myanimelist.net/anime.php?id=21419) ep. 1
 
+- [Sword Art Online: Progressive](https://myanimelist.net/manga.php?id=52277) chap. 5
+
 - [Detective Conan Movie 17: Private Eye in the Distant Sea](https://myanimelist.net/anime.php?id=14735) ep. 1
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 896
@@ -104,8 +106,6 @@
 - [Tantei wa Mou, Shindeiru.](https://myanimelist.net/anime.php?id=46471) ep. 2
 
 - [Majo no Tabitabi](https://myanimelist.net/manga.php?id=116831) chap. 4
-
-- [Kono Subarashii Sekai ni Shukufuku wo!](https://myanimelist.net/manga.php?id=80385) chap. 5
 
 <!-- MyAnimeList Activity End -->
 </details>
