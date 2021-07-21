@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1012
+
 - [Ao no Exorcist](https://myanimelist.net/manga.php?id=13492) chap. 37
 
 - [Detective Conan Movie 19: The Hellfire Sunflowers](https://myanimelist.net/anime.php?id=28479) ep. 1
@@ -104,8 +106,6 @@
 - [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 2
 
 - [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 1
-
-- [Tantei wa Mou, Shindeiru.](https://myanimelist.net/anime.php?id=46471) ep. 2
 
 <!-- MyAnimeList Activity End -->
 </details>
