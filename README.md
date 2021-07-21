@@ -77,6 +77,8 @@
 </p>
 <!-- MyAnimeList Activity Start -->
 
+- [Ao no Exorcist](https://myanimelist.net/manga.php?id=13492) chap. 37
+
 - [Detective Conan Movie 19: The Hellfire Sunflowers](https://myanimelist.net/anime.php?id=28479) ep. 1
 
 - [Detective Conan Movie 18: The Sniper from Another Dimension](https://myanimelist.net/anime.php?id=21419) ep. 1
@@ -104,8 +106,6 @@
 - [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 1
 
 - [Tantei wa Mou, Shindeiru.](https://myanimelist.net/anime.php?id=46471) ep. 2
-
-- [Majo no Tabitabi](https://myanimelist.net/manga.php?id=116831) chap. 4
 
 <!-- MyAnimeList Activity End -->
 </details>
