@@ -79,6 +79,10 @@
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1012
 
+- [Detective Conan](https://myanimelist.net/manga.php?id=1061) chap. 1034
+
+- [Detective Conan](https://myanimelist.net/manga.php?id=1061) chap. 103
+
 - [Ao no Exorcist](https://myanimelist.net/manga.php?id=13492) chap. 37
 
 - [Detective Conan Movie 19: The Hellfire Sunflowers](https://myanimelist.net/anime.php?id=28479) ep. 1
@@ -102,10 +106,6 @@
 - [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 4
 
 - [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 3
-
-- [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 2
-
-- [Biohazard: Infinite Darkness](https://myanimelist.net/anime.php?id=42976) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
