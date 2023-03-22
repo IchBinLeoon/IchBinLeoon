@@ -66,6 +66,35 @@
 <details close>
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
+
+- [86](https://myanimelist.net/anime.php?id=41457) ep. 5
+
+- [86](https://myanimelist.net/anime.php?id=41457) ep. 4
+
+- [86](https://myanimelist.net/anime.php?id=41457) ep. 3
+
+- [86](https://myanimelist.net/anime.php?id=41457) ep. 2
+
+- [86](https://myanimelist.net/anime.php?id=41457) ep. 1
+
+- [Kimetsu no Yaiba: Jougen Shuuketsu, Soshite Katanakaji no Sato e](https://myanimelist.net/anime.php?id=54591) ep. 1
+
+- [Shingeki no Kyojin: The Final Season - Kanketsu-hen](https://myanimelist.net/anime.php?id=51535) ep. 1
+
+- [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu](https://myanimelist.net/anime.php?id=52461) ep. 8
+
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1075
+
+- [Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2](https://myanimelist.net/anime.php?id=41514) ep. 6
+
+- [Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2](https://myanimelist.net/anime.php?id=41514) ep. 5
+
+- [Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2](https://myanimelist.net/anime.php?id=41514) ep. 4
+
+- [Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2](https://myanimelist.net/anime.php?id=41514) ep. 3
+
+- [Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2](https://myanimelist.net/anime.php?id=41514) ep. 2
+
 <!-- MyAnimeList Activity End -->
 </details>
 
