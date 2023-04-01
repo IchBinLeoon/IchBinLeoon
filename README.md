@@ -67,6 +67,12 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Blue Lock](https://myanimelist.net/anime.php?id=49596) ep. 21
+
+- [Blue Lock](https://myanimelist.net/anime.php?id=49596) ep. 20
+
+- [Blue Lock](https://myanimelist.net/anime.php?id=49596) ep. 19
+
 - [Blue Lock](https://myanimelist.net/anime.php?id=49596) ep. 18
 
 - [Blue Lock](https://myanimelist.net/anime.php?id=49596) ep. 17
