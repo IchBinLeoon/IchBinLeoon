@@ -67,6 +67,10 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Blue Lock](https://myanimelist.net/anime.php?id=49596) ep. 22
+
+- [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu](https://myanimelist.net/anime.php?id=52461) ep. 9
+
 - [Blue Lock](https://myanimelist.net/anime.php?id=49596) ep. 21
 
 - [Blue Lock](https://myanimelist.net/anime.php?id=49596) ep. 20
