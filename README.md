@@ -87,10 +87,6 @@
 
 - [86](https://myanimelist.net/anime.php?id=41457) ep. 1
 
-- [Kimetsu no Yaiba: Jougen Shuuketsu, Soshite Katanakaji no Sato e](https://myanimelist.net/anime.php?id=54591) ep. 1
-
-- [Shingeki no Kyojin: The Final Season - Kanketsu-hen](https://myanimelist.net/anime.php?id=51535) ep. 1
-
 <!-- MyAnimeList Activity End -->
 </details>
 
