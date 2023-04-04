@@ -67,6 +67,10 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi](https://myanimelist.net/anime.php?id=48438) ep. 3
+
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1076
+
 - [Blue Lock](https://myanimelist.net/anime.php?id=49596) ep. 24
 
 - [Blue Lock](https://myanimelist.net/anime.php?id=49596) ep. 23
@@ -92,8 +96,6 @@
 - [86](https://myanimelist.net/anime.php?id=41457) ep. 3
 
 - [86](https://myanimelist.net/anime.php?id=41457) ep. 2
-
-- [86](https://myanimelist.net/anime.php?id=41457) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
