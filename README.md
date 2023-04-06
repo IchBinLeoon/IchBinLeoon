@@ -67,6 +67,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 1
+
 - [Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi](https://myanimelist.net/anime.php?id=48438) ep. 3
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1076
@@ -94,8 +96,6 @@
 - [86](https://myanimelist.net/anime.php?id=41457) ep. 4
 
 - [86](https://myanimelist.net/anime.php?id=41457) ep. 3
-
-- [86](https://myanimelist.net/anime.php?id=41457) ep. 2
 
 <!-- MyAnimeList Activity End -->
 </details>
