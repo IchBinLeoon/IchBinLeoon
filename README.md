@@ -67,6 +67,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 1
+
 - [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 1
 
 - [Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi](https://myanimelist.net/anime.php?id=48438) ep. 3
@@ -94,8 +96,6 @@
 - [86](https://myanimelist.net/anime.php?id=41457) ep. 5
 
 - [86](https://myanimelist.net/anime.php?id=41457) ep. 4
-
-- [86](https://myanimelist.net/anime.php?id=41457) ep. 3
 
 <!-- MyAnimeList Activity End -->
 </details>
