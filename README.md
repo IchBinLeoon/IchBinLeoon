@@ -67,6 +67,10 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Trigun Stampede](https://myanimelist.net/anime.php?id=52093) ep. 4
+
+- [Trigun Stampede](https://myanimelist.net/anime.php?id=52093) ep. 3
+
 - [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 1
 
 - [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 1
@@ -92,10 +96,6 @@
 - [Blue Lock](https://myanimelist.net/anime.php?id=49596) ep. 18
 
 - [Blue Lock](https://myanimelist.net/anime.php?id=49596) ep. 17
-
-- [86](https://myanimelist.net/anime.php?id=41457) ep. 5
-
-- [86](https://myanimelist.net/anime.php?id=41457) ep. 4
 
 <!-- MyAnimeList Activity End -->
 </details>
