@@ -67,6 +67,12 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Trigun Stampede](https://myanimelist.net/anime.php?id=52093) ep. 9
+
+- [Trigun Stampede](https://myanimelist.net/anime.php?id=52093) ep. 8
+
+- [Trigun Stampede](https://myanimelist.net/anime.php?id=52093) ep. 7
+
 - [Trigun Stampede](https://myanimelist.net/anime.php?id=52093) ep. 6
 
 - [Trigun Stampede](https://myanimelist.net/anime.php?id=52093) ep. 5
@@ -90,12 +96,6 @@
 - [Blue Lock](https://myanimelist.net/anime.php?id=49596) ep. 22
 
 - [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu](https://myanimelist.net/anime.php?id=52461) ep. 9
-
-- [Blue Lock](https://myanimelist.net/anime.php?id=49596) ep. 21
-
-- [Blue Lock](https://myanimelist.net/anime.php?id=49596) ep. 20
-
-- [Blue Lock](https://myanimelist.net/anime.php?id=49596) ep. 19
 
 <!-- MyAnimeList Activity End -->
 </details>
