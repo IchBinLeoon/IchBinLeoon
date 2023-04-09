@@ -67,6 +67,18 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Tomo-chan wa Onnanoko!](https://myanimelist.net/anime.php?id=52305) ep. 11
+
+- [Tomo-chan wa Onnanoko!](https://myanimelist.net/anime.php?id=52305) ep. 10
+
+- [Tomo-chan wa Onnanoko!](https://myanimelist.net/anime.php?id=52305) ep. 9
+
+- [Tomo-chan wa Onnanoko!](https://myanimelist.net/anime.php?id=52305) ep. 8
+
+- [Tomo-chan wa Onnanoko!](https://myanimelist.net/anime.php?id=52305) ep. 7
+
+- [Tomo-chan wa Onnanoko!](https://myanimelist.net/anime.php?id=52305) ep. 6
+
 - [Trigun Stampede](https://myanimelist.net/anime.php?id=52093) ep. 9
 
 - [Trigun Stampede](https://myanimelist.net/anime.php?id=52093) ep. 8
@@ -84,18 +96,6 @@
 - [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 1
 
 - [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 1
-
-- [Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi](https://myanimelist.net/anime.php?id=48438) ep. 3
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1076
-
-- [Blue Lock](https://myanimelist.net/anime.php?id=49596) ep. 24
-
-- [Blue Lock](https://myanimelist.net/anime.php?id=49596) ep. 23
-
-- [Blue Lock](https://myanimelist.net/anime.php?id=49596) ep. 22
-
-- [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu](https://myanimelist.net/anime.php?id=52461) ep. 9
 
 <!-- MyAnimeList Activity End -->
 </details>
