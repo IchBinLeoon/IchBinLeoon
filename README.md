@@ -67,6 +67,14 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 2
+
+- [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 1
+
+- [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 1
+
+- [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 2
+
 - [Tomo-chan wa Onnanoko!](https://myanimelist.net/anime.php?id=52305) ep. 11
 
 - [Tomo-chan wa Onnanoko!](https://myanimelist.net/anime.php?id=52305) ep. 10
@@ -88,14 +96,6 @@
 - [Trigun Stampede](https://myanimelist.net/anime.php?id=52093) ep. 6
 
 - [Trigun Stampede](https://myanimelist.net/anime.php?id=52093) ep. 5
-
-- [Trigun Stampede](https://myanimelist.net/anime.php?id=52093) ep. 4
-
-- [Trigun Stampede](https://myanimelist.net/anime.php?id=52093) ep. 3
-
-- [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 1
-
-- [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
