@@ -67,6 +67,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Trigun Stampede](https://myanimelist.net/anime.php?id=52093) ep. 11
+
 - [Suzume no Tojimari](https://myanimelist.net/anime.php?id=50594) ep. 1
 
 - [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 2
@@ -94,8 +96,6 @@
 - [Tomo-chan wa Onnanoko!](https://myanimelist.net/anime.php?id=52305) ep. 7
 
 - [Tomo-chan wa Onnanoko!](https://myanimelist.net/anime.php?id=52305) ep. 6
-
-- [Trigun Stampede](https://myanimelist.net/anime.php?id=52093) ep. 9
 
 <!-- MyAnimeList Activity End -->
 </details>
