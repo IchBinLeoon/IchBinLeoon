@@ -67,6 +67,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Trigun Stampede](https://myanimelist.net/anime.php?id=52093) ep. 12
+
 - [Tomo-chan wa Onnanoko!](https://myanimelist.net/anime.php?id=52305) ep. 13
 
 - [Trigun Stampede](https://myanimelist.net/anime.php?id=52093) ep. 11
@@ -94,8 +96,6 @@
 - [Tomo-chan wa Onnanoko!](https://myanimelist.net/anime.php?id=52305) ep. 9
 
 - [Tomo-chan wa Onnanoko!](https://myanimelist.net/anime.php?id=52305) ep. 8
-
-- [Tomo-chan wa Onnanoko!](https://myanimelist.net/anime.php?id=52305) ep. 7
 
 <!-- MyAnimeList Activity End -->
 </details>
