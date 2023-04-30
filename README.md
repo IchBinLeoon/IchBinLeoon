@@ -67,6 +67,10 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 4
+
+- [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 3
+
 - [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 3
 
 - [Trigun Stampede](https://myanimelist.net/anime.php?id=52093) ep. 12
@@ -92,10 +96,6 @@
 - [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 2
 
 - [Tomo-chan wa Onnanoko!](https://myanimelist.net/anime.php?id=52305) ep. 11
-
-- [Tomo-chan wa Onnanoko!](https://myanimelist.net/anime.php?id=52305) ep. 10
-
-- [Tomo-chan wa Onnanoko!](https://myanimelist.net/anime.php?id=52305) ep. 9
 
 <!-- MyAnimeList Activity End -->
 </details>
