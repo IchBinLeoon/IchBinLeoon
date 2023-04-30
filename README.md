@@ -67,6 +67,12 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu](https://myanimelist.net/anime.php?id=52461) ep. 12
+
+- [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu](https://myanimelist.net/anime.php?id=52461) ep. 11
+
+- [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu](https://myanimelist.net/anime.php?id=52461) ep. 10
+
 - [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 4
 
 - [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 3
@@ -90,12 +96,6 @@
 - [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 2
 
 - [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 1
-
-- [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 1
-
-- [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 2
-
-- [Tomo-chan wa Onnanoko!](https://myanimelist.net/anime.php?id=52305) ep. 11
 
 <!-- MyAnimeList Activity End -->
 </details>
