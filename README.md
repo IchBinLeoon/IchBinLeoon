@@ -67,6 +67,22 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 5
+
+- [Ijiranaide, Nagatoro-san 2nd Attack](https://myanimelist.net/anime.php?id=50197) ep. 8
+
+- [Ijiranaide, Nagatoro-san 2nd Attack](https://myanimelist.net/anime.php?id=50197) ep. 7
+
+- [Ijiranaide, Nagatoro-san 2nd Attack](https://myanimelist.net/anime.php?id=50197) ep. 6
+
+- [Ijiranaide, Nagatoro-san 2nd Attack](https://myanimelist.net/anime.php?id=50197) ep. 5
+
+- [Ijiranaide, Nagatoro-san 2nd Attack](https://myanimelist.net/anime.php?id=50197) ep. 4
+
+- [Ijiranaide, Nagatoro-san 2nd Attack](https://myanimelist.net/anime.php?id=50197) ep. 3
+
+- [Ijiranaide, Nagatoro-san 2nd Attack](https://myanimelist.net/anime.php?id=50197) ep. 2
+
 - [Isekai Ojisan](https://myanimelist.net/anime.php?id=49220) ep. 13
 
 - [Isekai Ojisan](https://myanimelist.net/anime.php?id=49220) ep. 12
@@ -80,22 +96,6 @@
 - [Isekai Ojisan](https://myanimelist.net/anime.php?id=49220) ep. 8
 
 - [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu](https://myanimelist.net/anime.php?id=52461) ep. 12
-
-- [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu](https://myanimelist.net/anime.php?id=52461) ep. 11
-
-- [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu](https://myanimelist.net/anime.php?id=52461) ep. 10
-
-- [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 4
-
-- [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 3
-
-- [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 3
-
-- [Trigun Stampede](https://myanimelist.net/anime.php?id=52093) ep. 12
-
-- [Tomo-chan wa Onnanoko!](https://myanimelist.net/anime.php?id=52305) ep. 13
-
-- [Trigun Stampede](https://myanimelist.net/anime.php?id=52093) ep. 11
 
 <!-- MyAnimeList Activity End -->
 </details>
