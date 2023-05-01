@@ -67,6 +67,18 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Isekai Ojisan](https://myanimelist.net/anime.php?id=49220) ep. 13
+
+- [Isekai Ojisan](https://myanimelist.net/anime.php?id=49220) ep. 12
+
+- [Isekai Ojisan](https://myanimelist.net/anime.php?id=49220) ep. 11
+
+- [Isekai Ojisan](https://myanimelist.net/anime.php?id=49220) ep. 10
+
+- [Isekai Ojisan](https://myanimelist.net/anime.php?id=49220) ep. 9
+
+- [Isekai Ojisan](https://myanimelist.net/anime.php?id=49220) ep. 8
+
 - [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu](https://myanimelist.net/anime.php?id=52461) ep. 12
 
 - [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu](https://myanimelist.net/anime.php?id=52461) ep. 11
@@ -84,18 +96,6 @@
 - [Tomo-chan wa Onnanoko!](https://myanimelist.net/anime.php?id=52305) ep. 13
 
 - [Trigun Stampede](https://myanimelist.net/anime.php?id=52093) ep. 11
-
-- [Suzume no Tojimari](https://myanimelist.net/anime.php?id=50594) ep. 1
-
-- [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 2
-
-- [Tomo-chan wa Onnanoko!](https://myanimelist.net/anime.php?id=52305) ep. 12
-
-- [Trigun Stampede](https://myanimelist.net/anime.php?id=52093) ep. 10
-
-- [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 2
-
-- [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
