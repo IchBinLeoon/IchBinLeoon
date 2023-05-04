@@ -67,6 +67,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 4
+
 - [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 5
 
 - [Ijiranaide, Nagatoro-san 2nd Attack](https://myanimelist.net/anime.php?id=50197) ep. 8
@@ -94,8 +96,6 @@
 - [Isekai Ojisan](https://myanimelist.net/anime.php?id=49220) ep. 9
 
 - [Isekai Ojisan](https://myanimelist.net/anime.php?id=49220) ep. 8
-
-- [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu](https://myanimelist.net/anime.php?id=52461) ep. 12
 
 <!-- MyAnimeList Activity End -->
 </details>
