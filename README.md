@@ -67,6 +67,16 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 5
+
+- [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 5
+
+- [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 4
+
+- [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 3
+
+- [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 2
+
 - [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 4
 
 - [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 5
@@ -86,16 +96,6 @@
 - [Ijiranaide, Nagatoro-san 2nd Attack](https://myanimelist.net/anime.php?id=50197) ep. 2
 
 - [Isekai Ojisan](https://myanimelist.net/anime.php?id=49220) ep. 13
-
-- [Isekai Ojisan](https://myanimelist.net/anime.php?id=49220) ep. 12
-
-- [Isekai Ojisan](https://myanimelist.net/anime.php?id=49220) ep. 11
-
-- [Isekai Ojisan](https://myanimelist.net/anime.php?id=49220) ep. 10
-
-- [Isekai Ojisan](https://myanimelist.net/anime.php?id=49220) ep. 9
-
-- [Isekai Ojisan](https://myanimelist.net/anime.php?id=49220) ep. 8
 
 <!-- MyAnimeList Activity End -->
 </details>
