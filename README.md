@@ -67,6 +67,10 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 3
+
+- [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 2
+
 - [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 1
 
 - [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 8
@@ -92,10 +96,6 @@
 - [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 4
 
 - [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 5
-
-- [Ijiranaide, Nagatoro-san 2nd Attack](https://myanimelist.net/anime.php?id=50197) ep. 8
-
-- [Ijiranaide, Nagatoro-san 2nd Attack](https://myanimelist.net/anime.php?id=50197) ep. 7
 
 <!-- MyAnimeList Activity End -->
 </details>
