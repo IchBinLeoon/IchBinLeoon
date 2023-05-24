@@ -67,6 +67,12 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 8
+
+- [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 7
+
+- [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 6
+
 - [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 5
 
 - [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 4
@@ -90,12 +96,6 @@
 - [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 5
 
 - [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 5
-
-- [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 4
-
-- [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 3
-
-- [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 2
 
 <!-- MyAnimeList Activity End -->
 </details>
