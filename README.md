@@ -67,6 +67,22 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 4
+
+- [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 3
+
+- [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 2
+
+- [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 1
+
+- [Ijiranaide, Nagatoro-san 2nd Attack](https://myanimelist.net/anime.php?id=50197) ep. 12
+
+- [Ijiranaide, Nagatoro-san 2nd Attack](https://myanimelist.net/anime.php?id=50197) ep. 11
+
+- [Ijiranaide, Nagatoro-san 2nd Attack](https://myanimelist.net/anime.php?id=50197) ep. 10
+
+- [Ijiranaide, Nagatoro-san 2nd Attack](https://myanimelist.net/anime.php?id=50197) ep. 9
+
 - [Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai](https://myanimelist.net/anime.php?id=52198) ep. 1
 
 - [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 8
@@ -80,22 +96,6 @@
 - [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 5
 
 - [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 4
-
-- [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 3
-
-- [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 2
-
-- [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 1
-
-- [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 8
-
-- [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 7
-
-- [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 6
-
-- [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 7
-
-- [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 6
 
 <!-- MyAnimeList Activity End -->
 </details>
