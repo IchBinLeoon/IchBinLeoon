@@ -67,6 +67,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai](https://myanimelist.net/anime.php?id=52198) ep. 1
+
 - [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 8
 
 - [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 8
@@ -94,8 +96,6 @@
 - [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 7
 
 - [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 6
-
-- [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 5
 
 <!-- MyAnimeList Activity End -->
 </details>
