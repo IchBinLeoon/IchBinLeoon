@@ -67,6 +67,18 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 1
+
+- [Isekai wa Smartphone to Tomo ni. 2](https://myanimelist.net/anime.php?id=51632) ep. 4
+
+- [Isekai wa Smartphone to Tomo ni. 2](https://myanimelist.net/anime.php?id=51632) ep. 3
+
+- [Isekai wa Smartphone to Tomo ni. 2](https://myanimelist.net/anime.php?id=51632) ep. 1
+
+- [Isekai wa Smartphone to Tomo ni. 2](https://myanimelist.net/anime.php?id=51632) ep. 5
+
+- [Isekai wa Smartphone to Tomo ni. 2](https://myanimelist.net/anime.php?id=51632) ep. 2
+
 - [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 6
 
 - [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 5
@@ -84,18 +96,6 @@
 - [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 5
 
 - [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 3
-
-- [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 4
-
-- [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 3
-
-- [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 2
-
-- [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 1
-
-- [Ijiranaide, Nagatoro-san 2nd Attack](https://myanimelist.net/anime.php?id=50197) ep. 12
-
-- [Ijiranaide, Nagatoro-san 2nd Attack](https://myanimelist.net/anime.php?id=50197) ep. 11
 
 <!-- MyAnimeList Activity End -->
 </details>
