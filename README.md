@@ -67,6 +67,16 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 1
+
+- [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 4
+
+- [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 6
+
+- [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 5
+
+- [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 3
+
 - [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 4
 
 - [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 3
@@ -86,16 +96,6 @@
 - [Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai](https://myanimelist.net/anime.php?id=52198) ep. 1
 
 - [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 8
-
-- [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 8
-
-- [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 7
-
-- [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 6
-
-- [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 5
-
-- [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 4
 
 <!-- MyAnimeList Activity End -->
 </details>
