@@ -67,6 +67,14 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 6
+
+- [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 5
+
+- [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 4
+
+- [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 3
+
 - [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 1
 
 - [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 4
@@ -88,14 +96,6 @@
 - [Ijiranaide, Nagatoro-san 2nd Attack](https://myanimelist.net/anime.php?id=50197) ep. 12
 
 - [Ijiranaide, Nagatoro-san 2nd Attack](https://myanimelist.net/anime.php?id=50197) ep. 11
-
-- [Ijiranaide, Nagatoro-san 2nd Attack](https://myanimelist.net/anime.php?id=50197) ep. 10
-
-- [Ijiranaide, Nagatoro-san 2nd Attack](https://myanimelist.net/anime.php?id=50197) ep. 9
-
-- [Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai](https://myanimelist.net/anime.php?id=52198) ep. 1
-
-- [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 8
 
 <!-- MyAnimeList Activity End -->
 </details>
