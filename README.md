@@ -67,6 +67,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://myanimelist.net/anime.php?id=52830) ep. 1
+
 - [Kanojo, Okarishimasu 2nd Season](https://myanimelist.net/anime.php?id=42963) ep. 9
 
 - [Kanojo, Okarishimasu 2nd Season](https://myanimelist.net/anime.php?id=42963) ep. 12
@@ -94,8 +96,6 @@
 - [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 5
 
 - [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 4
-
-- [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 3
 
 <!-- MyAnimeList Activity End -->
 </details>
