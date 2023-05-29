@@ -67,6 +67,16 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Kanojo, Okarishimasu 2nd Season](https://myanimelist.net/anime.php?id=42963) ep. 9
+
+- [Kanojo, Okarishimasu 2nd Season](https://myanimelist.net/anime.php?id=42963) ep. 12
+
+- [Kanojo, Okarishimasu 2nd Season](https://myanimelist.net/anime.php?id=42963) ep. 11
+
+- [Kanojo, Okarishimasu 2nd Season](https://myanimelist.net/anime.php?id=42963) ep. 10
+
+- [Kanojo, Okarishimasu 2nd Season](https://myanimelist.net/anime.php?id=42963) ep. 8
+
 - [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 13
 
 - [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 12
@@ -86,16 +96,6 @@
 - [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 4
 
 - [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 3
-
-- [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 7
-
-- [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 1
-
-- [Isekai wa Smartphone to Tomo ni. 2](https://myanimelist.net/anime.php?id=51632) ep. 4
-
-- [Isekai wa Smartphone to Tomo ni. 2](https://myanimelist.net/anime.php?id=51632) ep. 3
-
-- [Isekai wa Smartphone to Tomo ni. 2](https://myanimelist.net/anime.php?id=51632) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
