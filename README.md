@@ -67,6 +67,16 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 13
+
+- [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 12
+
+- [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 11
+
+- [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 9
+
+- [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 10
+
 - [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 8
 
 - [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 6
@@ -86,16 +96,6 @@
 - [Isekai wa Smartphone to Tomo ni. 2](https://myanimelist.net/anime.php?id=51632) ep. 3
 
 - [Isekai wa Smartphone to Tomo ni. 2](https://myanimelist.net/anime.php?id=51632) ep. 1
-
-- [Isekai wa Smartphone to Tomo ni. 2](https://myanimelist.net/anime.php?id=51632) ep. 5
-
-- [Isekai wa Smartphone to Tomo ni. 2](https://myanimelist.net/anime.php?id=51632) ep. 2
-
-- [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 6
-
-- [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 5
-
-- [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 4
 
 <!-- MyAnimeList Activity End -->
 </details>
