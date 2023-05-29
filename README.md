@@ -67,6 +67,18 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 8
+
+- [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 6
+
+- [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 5
+
+- [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 4
+
+- [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 3
+
+- [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 7
+
 - [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 1
 
 - [Isekai wa Smartphone to Tomo ni. 2](https://myanimelist.net/anime.php?id=51632) ep. 4
@@ -84,18 +96,6 @@
 - [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 5
 
 - [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 4
-
-- [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 3
-
-- [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 1
-
-- [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 4
-
-- [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 6
-
-- [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 5
-
-- [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 3
 
 <!-- MyAnimeList Activity End -->
 </details>
