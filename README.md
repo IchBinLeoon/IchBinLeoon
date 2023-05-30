@@ -67,6 +67,14 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://myanimelist.net/anime.php?id=52830) ep. 5
+
+- [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://myanimelist.net/anime.php?id=52830) ep. 4
+
+- [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://myanimelist.net/anime.php?id=52830) ep. 3
+
+- [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://myanimelist.net/anime.php?id=52830) ep. 2
+
 - [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 9
 
 - [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://myanimelist.net/anime.php?id=52830) ep. 1
@@ -88,14 +96,6 @@
 - [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 11
 
 - [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 9
-
-- [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 10
-
-- [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 8
-
-- [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 6
-
-- [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 5
 
 <!-- MyAnimeList Activity End -->
 </details>
