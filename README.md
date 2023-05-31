@@ -7,16 +7,15 @@
 ### Languages, Technologies & Tools I've used 🚀💻
 
 [![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=Python&logoColor=FFFFFF&message=Python&color=3776AB&label=)](https://www.python.org/)
-[![Go](https://img.shields.io/static/v1?style=for-the-badge&logo=Go&logoColor=FFFFFF&message=Go&color=00ADD8&label=)](https://golang.org/)
 [![Rust](https://img.shields.io/static/v1?style=for-the-badge&logo=Rust&logoColor=FFFFFF&message=Rust&color=F46623&label=)](https://www.rust-lang.org/)
+[![Go](https://img.shields.io/static/v1?style=for-the-badge&logo=Go&logoColor=FFFFFF&message=Go&color=00ADD8&label=)](https://golang.org/)
 [![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF&message=TypeScript&color=3178C6&label=)](https://www.typescriptlang.org/)
-[![HTML5](https://img.shields.io/static/v1?style=for-the-badge&logo=HTML5&logoColor=FFFFFF&message=HTML5&color=E34F26&label=)](https://html.spec.whatwg.org/multipage/)
-[![CSS3](https://img.shields.io/static/v1?style=for-the-badge&logo=CSS3&logoColor=FFFFFF&message=CSS3&color=1572B6&label=)](https://www.w3.org/Style/CSS/)
+[![Svelte](https://img.shields.io/static/v1?style=for-the-badge&logo=Svelte&logoColor=FFFFFF&message=Svelte&color=FF3E00&label=)](https://svelte.dev/)
 [![Vue](https://img.shields.io/static/v1?style=for-the-badge&logo=Vue.js&logoColor=FFFFFF&message=Vue&color=4FC08D&label=)](https://vuejs.org/)
 [![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=Docker&logoColor=FFFFFF&message=Docker&color=2496ED&label=)](https://www.docker.com/)
 [![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=Git&message=Git&logoColor=FFFFFF&color=F05032&label=)](https://git-scm.com/)
-[![Code](https://img.shields.io/static/v1?style=for-the-badge&logo=Visual+Studio+Code&logoColor=FFFFFF&message=Code&color=007ACC&label=)](https://code.visualstudio.com/)
 [![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&message=PostgreSQL&color=336791&label=)](https://www.postgresql.org/)
+[![JetBrains](https://img.shields.io/static/v1?style=for-the-badge&logo=JetBrains&logoColor=FFFFFF&message=JetBrains&color=000000&label=)](https://code.visualstudio.com/)
 [![Arch](https://img.shields.io/static/v1?style=for-the-badge&logo=Arch+Linux&logoColor=FFFFFF&message=Arch&nbsp;Linux&color=1793D1&label=)](https://archlinux.org/)
 
 ### Connect with Me 🤝🏻📫
