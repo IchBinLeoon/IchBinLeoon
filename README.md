@@ -15,7 +15,7 @@
 [![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=Docker&logoColor=FFFFFF&message=Docker&color=2496ED&label=)](https://www.docker.com/)
 [![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=Git&message=Git&logoColor=FFFFFF&color=F05032&label=)](https://git-scm.com/)
 [![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&message=PostgreSQL&color=336791&label=)](https://www.postgresql.org/)
-[![JetBrains](https://img.shields.io/static/v1?style=for-the-badge&logo=JetBrains&logoColor=FFFFFF&message=JetBrains&color=000000&label=)](https://code.visualstudio.com/)
+[![JetBrains](https://img.shields.io/static/v1?style=for-the-badge&logo=JetBrains&logoColor=FFFFFF&message=JetBrains&color=000000&label=)](https://www.jetbrains.com/)
 [![Arch](https://img.shields.io/static/v1?style=for-the-badge&logo=Arch+Linux&logoColor=FFFFFF&message=Arch&nbsp;Linux&color=1793D1&label=)](https://archlinux.org/)
 
 ### Connect with Me 🤝🏻📫
