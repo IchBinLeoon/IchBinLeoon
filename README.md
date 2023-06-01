@@ -66,6 +66,10 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 9
+
+- [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 9
+
 - [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://myanimelist.net/anime.php?id=52830) ep. 5
 
 - [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://myanimelist.net/anime.php?id=52830) ep. 4
@@ -91,10 +95,6 @@
 - [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 13
 
 - [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 12
-
-- [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 11
-
-- [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 9
 
 <!-- MyAnimeList Activity End -->
 </details>
