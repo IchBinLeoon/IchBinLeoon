@@ -66,6 +66,18 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Kaminaki Sekai no Kamisama Katsudou](https://myanimelist.net/anime.php?id=51693) ep. 5
+
+- [Kaminaki Sekai no Kamisama Katsudou](https://myanimelist.net/anime.php?id=51693) ep. 6
+
+- [Kaminaki Sekai no Kamisama Katsudou](https://myanimelist.net/anime.php?id=51693) ep. 1
+
+- [Kaminaki Sekai no Kamisama Katsudou](https://myanimelist.net/anime.php?id=51693) ep. 4
+
+- [Kaminaki Sekai no Kamisama Katsudou](https://myanimelist.net/anime.php?id=51693) ep. 3
+
+- [Kaminaki Sekai no Kamisama Katsudou](https://myanimelist.net/anime.php?id=51693) ep. 2
+
 - [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 9
 
 - [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 9
@@ -83,18 +95,6 @@
 - [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://myanimelist.net/anime.php?id=52830) ep. 1
 
 - [Kanojo, Okarishimasu 2nd Season](https://myanimelist.net/anime.php?id=42963) ep. 9
-
-- [Kanojo, Okarishimasu 2nd Season](https://myanimelist.net/anime.php?id=42963) ep. 12
-
-- [Kanojo, Okarishimasu 2nd Season](https://myanimelist.net/anime.php?id=42963) ep. 11
-
-- [Kanojo, Okarishimasu 2nd Season](https://myanimelist.net/anime.php?id=42963) ep. 10
-
-- [Kanojo, Okarishimasu 2nd Season](https://myanimelist.net/anime.php?id=42963) ep. 8
-
-- [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 13
-
-- [Uzaki-chan wa Asobitai! Double](https://myanimelist.net/anime.php?id=42962) ep. 12
 
 <!-- MyAnimeList Activity End -->
 </details>
