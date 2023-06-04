@@ -66,6 +66,16 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 7
+
+- [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 7
+
+- [Isekai wa Smartphone to Tomo ni. 2](https://myanimelist.net/anime.php?id=51632) ep. 6
+
+- [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 5
+
+- [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 2
+
 - [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 4
 
 - [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 12
@@ -85,16 +95,6 @@
 - [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 5
 
 - [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 3
-
-- [Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita](https://myanimelist.net/anime.php?id=51219) ep. 5
-
-- [Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita](https://myanimelist.net/anime.php?id=51219) ep. 4
-
-- [Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita](https://myanimelist.net/anime.php?id=51219) ep. 2
-
-- [Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita](https://myanimelist.net/anime.php?id=51219) ep. 1
-
-- [Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita](https://myanimelist.net/anime.php?id=51219) ep. 3
 
 <!-- MyAnimeList Activity End -->
 </details>
