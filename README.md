@@ -66,6 +66,26 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 4
+
+- [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 12
+
+- [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 11
+
+- [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 9
+
+- [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 10
+
+- [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 8
+
+- [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 7
+
+- [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 6
+
+- [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 5
+
+- [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 3
+
 - [Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita](https://myanimelist.net/anime.php?id=51219) ep. 5
 
 - [Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita](https://myanimelist.net/anime.php?id=51219) ep. 4
@@ -75,26 +95,6 @@
 - [Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita](https://myanimelist.net/anime.php?id=51219) ep. 1
 
 - [Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita](https://myanimelist.net/anime.php?id=51219) ep. 3
-
-- [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://myanimelist.net/anime.php?id=52608) ep. 4
-
-- [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://myanimelist.net/anime.php?id=52608) ep. 6
-
-- [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://myanimelist.net/anime.php?id=52608) ep. 5
-
-- [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://myanimelist.net/anime.php?id=52608) ep. 1
-
-- [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://myanimelist.net/anime.php?id=52608) ep. 3
-
-- [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://myanimelist.net/anime.php?id=52608) ep. 2
-
-- [Kaminaki Sekai no Kamisama Katsudou](https://myanimelist.net/anime.php?id=51693) ep. 5
-
-- [Kaminaki Sekai no Kamisama Katsudou](https://myanimelist.net/anime.php?id=51693) ep. 6
-
-- [Kaminaki Sekai no Kamisama Katsudou](https://myanimelist.net/anime.php?id=51693) ep. 1
-
-- [Kaminaki Sekai no Kamisama Katsudou](https://myanimelist.net/anime.php?id=51693) ep. 4
 
 <!-- MyAnimeList Activity End -->
 </details>
