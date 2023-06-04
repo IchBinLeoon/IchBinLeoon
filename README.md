@@ -66,6 +66,12 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 3
+
+- [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 1
+
+- [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 2
+
 - [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 7
 
 - [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 7
@@ -89,12 +95,6 @@
 - [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 8
 
 - [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 7
-
-- [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 6
-
-- [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 5
-
-- [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 3
 
 <!-- MyAnimeList Activity End -->
 </details>
