@@ -66,6 +66,12 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 6
+
+- [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 4
+
+- [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 5
+
 - [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 3
 
 - [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 1
@@ -89,12 +95,6 @@
 - [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 11
 
 - [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 9
-
-- [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 10
-
-- [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 8
-
-- [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 7
 
 <!-- MyAnimeList Activity End -->
 </details>
