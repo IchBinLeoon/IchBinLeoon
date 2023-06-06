@@ -66,35 +66,35 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Kawaii dake ja Nai Shikimori-san](https://myanimelist.net/anime.php?id=45613) ep. 7
+
+- [Kawaii dake ja Nai Shikimori-san](https://myanimelist.net/anime.php?id=45613) ep. 4
+
+- [Kawaii dake ja Nai Shikimori-san](https://myanimelist.net/anime.php?id=45613) ep. 11
+
+- [Kawaii dake ja Nai Shikimori-san](https://myanimelist.net/anime.php?id=45613) ep. 10
+
+- [Kawaii dake ja Nai Shikimori-san](https://myanimelist.net/anime.php?id=45613) ep. 8
+
+- [Kawaii dake ja Nai Shikimori-san](https://myanimelist.net/anime.php?id=45613) ep. 6
+
+- [Kawaii dake ja Nai Shikimori-san](https://myanimelist.net/anime.php?id=45613) ep. 5
+
+- [Kawaii dake ja Nai Shikimori-san](https://myanimelist.net/anime.php?id=45613) ep. 2
+
+- [Kawaii dake ja Nai Shikimori-san](https://myanimelist.net/anime.php?id=45613) ep. 3
+
+- [Kawaii dake ja Nai Shikimori-san](https://myanimelist.net/anime.php?id=45613) ep. 1
+
+- [Kawaii dake ja Nai Shikimori-san](https://myanimelist.net/anime.php?id=45613) ep. 12
+
+- [Kawaii dake ja Nai Shikimori-san](https://myanimelist.net/anime.php?id=45613) ep. 9
+
 - [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 6
 
 - [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 4
 
 - [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 5
-
-- [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 3
-
-- [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 1
-
-- [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 2
-
-- [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 7
-
-- [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 7
-
-- [Isekai wa Smartphone to Tomo ni. 2](https://myanimelist.net/anime.php?id=51632) ep. 6
-
-- [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 5
-
-- [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 2
-
-- [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 4
-
-- [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 12
-
-- [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 11
-
-- [Citrus](https://myanimelist.net/anime.php?id=34382) ep. 9
 
 <!-- MyAnimeList Activity End -->
 </details>
