@@ -66,6 +66,10 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://myanimelist.net/anime.php?id=52608) ep. 7
+
+- [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://myanimelist.net/anime.php?id=52830) ep. 6
+
 - [Kawaii dake ja Nai Shikimori-san](https://myanimelist.net/anime.php?id=45613) ep. 7
 
 - [Kawaii dake ja Nai Shikimori-san](https://myanimelist.net/anime.php?id=45613) ep. 4
@@ -91,10 +95,6 @@
 - [Kawaii dake ja Nai Shikimori-san](https://myanimelist.net/anime.php?id=45613) ep. 9
 
 - [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 6
-
-- [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 4
-
-- [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 5
 
 <!-- MyAnimeList Activity End -->
 </details>
