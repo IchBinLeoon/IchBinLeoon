@@ -66,6 +66,22 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [86 Part 2](https://myanimelist.net/anime.php?id=48569) ep. 2
+
+- [86 Part 2](https://myanimelist.net/anime.php?id=48569) ep. 1
+
+- [86](https://myanimelist.net/anime.php?id=41457) ep. 11
+
+- [86](https://myanimelist.net/anime.php?id=41457) ep. 7
+
+- [86](https://myanimelist.net/anime.php?id=41457) ep. 10
+
+- [86](https://myanimelist.net/anime.php?id=41457) ep. 9
+
+- [86](https://myanimelist.net/anime.php?id=41457) ep. 8
+
+- [86](https://myanimelist.net/anime.php?id=41457) ep. 6
+
 - [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 12
 
 - [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 8
@@ -79,22 +95,6 @@
 - [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 9
 
 - [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 6
-
-- [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 5
-
-- [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 2
-
-- [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 1
-
-- [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 4
-
-- [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 3
-
-- [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://myanimelist.net/anime.php?id=52608) ep. 7
-
-- [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://myanimelist.net/anime.php?id=52830) ep. 6
-
-- [Kawaii dake ja Nai Shikimori-san](https://myanimelist.net/anime.php?id=45613) ep. 7
 
 <!-- MyAnimeList Activity End -->
 </details>
