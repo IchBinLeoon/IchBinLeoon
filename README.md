@@ -66,6 +66,16 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 5
+
+- [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 2
+
+- [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 1
+
+- [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 4
+
+- [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 3
+
 - [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://myanimelist.net/anime.php?id=52608) ep. 7
 
 - [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://myanimelist.net/anime.php?id=52830) ep. 6
@@ -85,16 +95,6 @@
 - [Kawaii dake ja Nai Shikimori-san](https://myanimelist.net/anime.php?id=45613) ep. 5
 
 - [Kawaii dake ja Nai Shikimori-san](https://myanimelist.net/anime.php?id=45613) ep. 2
-
-- [Kawaii dake ja Nai Shikimori-san](https://myanimelist.net/anime.php?id=45613) ep. 3
-
-- [Kawaii dake ja Nai Shikimori-san](https://myanimelist.net/anime.php?id=45613) ep. 1
-
-- [Kawaii dake ja Nai Shikimori-san](https://myanimelist.net/anime.php?id=45613) ep. 12
-
-- [Kawaii dake ja Nai Shikimori-san](https://myanimelist.net/anime.php?id=45613) ep. 9
-
-- [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 6
 
 <!-- MyAnimeList Activity End -->
 </details>
