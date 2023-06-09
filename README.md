@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 10
+
 - [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 3
 
 - [86 Part 2](https://myanimelist.net/anime.php?id=48569) ep. 2
@@ -93,8 +95,6 @@
 - [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 11
 
 - [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 10
-
-- [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 9
 
 <!-- MyAnimeList Activity End -->
 </details>
