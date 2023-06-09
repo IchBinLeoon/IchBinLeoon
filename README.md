@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 3
+
 - [86 Part 2](https://myanimelist.net/anime.php?id=48569) ep. 2
 
 - [86 Part 2](https://myanimelist.net/anime.php?id=48569) ep. 1
@@ -93,8 +95,6 @@
 - [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 10
 
 - [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 9
-
-- [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 6
 
 <!-- MyAnimeList Activity End -->
 </details>
