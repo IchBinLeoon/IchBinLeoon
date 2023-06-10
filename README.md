@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 10
+
 - [86 Part 2](https://myanimelist.net/anime.php?id=48569) ep. 3
 
 - [86 Part 2](https://myanimelist.net/anime.php?id=48569) ep. 4
@@ -93,8 +95,6 @@
 - [86](https://myanimelist.net/anime.php?id=41457) ep. 8
 
 - [86](https://myanimelist.net/anime.php?id=41457) ep. 6
-
-- [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 12
 
 <!-- MyAnimeList Activity End -->
 </details>
