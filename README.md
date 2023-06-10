@@ -66,6 +66,12 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [86 Part 2](https://myanimelist.net/anime.php?id=48569) ep. 3
+
+- [86 Part 2](https://myanimelist.net/anime.php?id=48569) ep. 4
+
+- [86 Part 2](https://myanimelist.net/anime.php?id=48569) ep. 5
+
 - [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 10
 
 - [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 10
@@ -89,12 +95,6 @@
 - [86](https://myanimelist.net/anime.php?id=41457) ep. 6
 
 - [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 12
-
-- [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 8
-
-- [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 7
-
-- [Hyouken no Majutsushi ga Sekai wo Suberu](https://myanimelist.net/anime.php?id=51711) ep. 11
 
 <!-- MyAnimeList Activity End -->
 </details>
