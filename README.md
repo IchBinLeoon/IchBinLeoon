@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 10
+
 - [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 9
 
 - [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 8
@@ -93,8 +95,6 @@
 - [86 Part 2](https://myanimelist.net/anime.php?id=48569) ep. 1
 
 - [86](https://myanimelist.net/anime.php?id=41457) ep. 11
-
-- [86](https://myanimelist.net/anime.php?id=41457) ep. 7
 
 <!-- MyAnimeList Activity End -->
 </details>
