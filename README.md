@@ -66,6 +66,10 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 7
+
+- [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 6
+
 - [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 10
 
 - [86 Part 2](https://myanimelist.net/anime.php?id=48569) ep. 3
@@ -91,10 +95,6 @@
 - [86](https://myanimelist.net/anime.php?id=41457) ep. 10
 
 - [86](https://myanimelist.net/anime.php?id=41457) ep. 9
-
-- [86](https://myanimelist.net/anime.php?id=41457) ep. 8
-
-- [86](https://myanimelist.net/anime.php?id=41457) ep. 6
 
 <!-- MyAnimeList Activity End -->
 </details>
