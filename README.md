@@ -66,6 +66,10 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 8
+
+- [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 6
+
 - [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 11
 
 - [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 11
@@ -91,10 +95,6 @@
 - [86 Part 2](https://myanimelist.net/anime.php?id=48569) ep. 5
 
 - [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 10
-
-- [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 10
-
-- [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 3
 
 <!-- MyAnimeList Activity End -->
 </details>
