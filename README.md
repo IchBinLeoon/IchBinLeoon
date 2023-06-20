@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 11
+
 - [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 12
 
 - [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 8
@@ -93,8 +95,6 @@
 - [86 Part 2](https://myanimelist.net/anime.php?id=48569) ep. 3
 
 - [86 Part 2](https://myanimelist.net/anime.php?id=48569) ep. 4
-
-- [86 Part 2](https://myanimelist.net/anime.php?id=48569) ep. 5
 
 <!-- MyAnimeList Activity End -->
 </details>
