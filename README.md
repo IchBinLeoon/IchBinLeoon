@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 12
+
 - [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 8
 
 - [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 6
@@ -93,8 +95,6 @@
 - [86 Part 2](https://myanimelist.net/anime.php?id=48569) ep. 4
 
 - [86 Part 2](https://myanimelist.net/anime.php?id=48569) ep. 5
-
-- [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 10
 
 <!-- MyAnimeList Activity End -->
 </details>
