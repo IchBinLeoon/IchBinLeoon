@@ -66,6 +66,12 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 5
+
+- [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 4
+
+- [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 7
+
 - [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 11
 
 - [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 12
@@ -89,12 +95,6 @@
 - [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 7
 
 - [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 6
-
-- [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 10
-
-- [86 Part 2](https://myanimelist.net/anime.php?id=48569) ep. 3
-
-- [86 Part 2](https://myanimelist.net/anime.php?id=48569) ep. 4
 
 <!-- MyAnimeList Activity End -->
 </details>
