@@ -66,6 +66,12 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 9
+
+- [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 8
+
+- [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 7
+
 - [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 5
 
 - [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 4
@@ -89,12 +95,6 @@
 - [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 10
 
 - [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 9
-
-- [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 8
-
-- [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 7
-
-- [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 6
 
 <!-- MyAnimeList Activity End -->
 </details>
