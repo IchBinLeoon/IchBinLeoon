@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria](https://myanimelist.net/anime.php?id=42916) ep. 1
+
 - [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 9
 
 - [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 8
@@ -93,8 +95,6 @@
 - [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 11
 
 - [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 10
-
-- [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 9
 
 <!-- MyAnimeList Activity End -->
 </details>
