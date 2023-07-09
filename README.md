@@ -66,6 +66,12 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://myanimelist.net/anime.php?id=54112) ep. 1
+
+- [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 1
+
+- [Fate/strange Fake: Whispers of Dawn](https://myanimelist.net/anime.php?id=53127) ep. 1
+
 - [Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria](https://myanimelist.net/anime.php?id=42916) ep. 1
 
 - [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 9
@@ -89,10 +95,6 @@
 - [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 6
 
 - [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 11
-
-- [Dr. Stone: New World](https://myanimelist.net/anime.php?id=48549) ep. 11
-
-- [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 11
 
 <!-- MyAnimeList Activity End -->
 </details>
