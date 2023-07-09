@@ -66,6 +66,12 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Horimiya: Piece](https://myanimelist.net/anime.php?id=54856) ep. 2
+
+- [Horimiya: Piece](https://myanimelist.net/anime.php?id=54856) ep. 1
+
+- [Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou](https://myanimelist.net/anime.php?id=52619) ep. 1
+
 - [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://myanimelist.net/anime.php?id=54112) ep. 1
 
 - [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 1
@@ -89,12 +95,6 @@
 - [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 11
 
 - [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 12
-
-- [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 8
-
-- [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 6
-
-- [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 11
 
 <!-- MyAnimeList Activity End -->
 </details>
