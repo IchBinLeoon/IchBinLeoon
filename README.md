@@ -94,8 +94,6 @@
 
 - [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 11
 
-- [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 10
-
 <!-- MyAnimeList Activity End -->
 </details>
 
