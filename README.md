@@ -92,10 +92,6 @@
 
 - [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 7
 
-- [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime.php?id=51019) ep. 11
-
-- [Kuma Kuma Kuma Bear Punch!](https://myanimelist.net/anime.php?id=45486) ep. 12
-
 <!-- MyAnimeList Activity End -->
 </details>
 
