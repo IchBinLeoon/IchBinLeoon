@@ -78,20 +78,6 @@
 
 - [Fate/strange Fake: Whispers of Dawn](https://myanimelist.net/anime.php?id=53127) ep. 1
 
-- [Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria](https://myanimelist.net/anime.php?id=42916) ep. 1
-
-- [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 9
-
-- [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 8
-
-- [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 7
-
-- [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 5
-
-- [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 4
-
-- [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 7
-
 <!-- MyAnimeList Activity End -->
 </details>
 
