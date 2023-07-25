@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo](https://myanimelist.net/anime.php?id=50275) ep. 1
+
 - [Horimiya: Piece](https://myanimelist.net/anime.php?id=54856) ep. 2
 
 - [Horimiya: Piece](https://myanimelist.net/anime.php?id=54856) ep. 1
