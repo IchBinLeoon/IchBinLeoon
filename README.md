@@ -68,18 +68,6 @@
 
 - [Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo](https://myanimelist.net/anime.php?id=50275) ep. 1
 
-- [Horimiya: Piece](https://myanimelist.net/anime.php?id=54856) ep. 2
-
-- [Horimiya: Piece](https://myanimelist.net/anime.php?id=54856) ep. 1
-
-- [Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou](https://myanimelist.net/anime.php?id=52619) ep. 1
-
-- [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://myanimelist.net/anime.php?id=54112) ep. 1
-
-- [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 1
-
-- [Fate/strange Fake: Whispers of Dawn](https://myanimelist.net/anime.php?id=53127) ep. 1
-
 <!-- MyAnimeList Activity End -->
 </details>
 
