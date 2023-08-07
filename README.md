@@ -66,6 +66,12 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 12
+
+- [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 11
+
+- [Megami no Café Terrace](https://myanimelist.net/anime.php?id=52973) ep. 10
+
 - [Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo](https://myanimelist.net/anime.php?id=50275) ep. 1
 
 <!-- MyAnimeList Activity End -->
