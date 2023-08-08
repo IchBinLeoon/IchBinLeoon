@@ -66,6 +66,18 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 12
+
+- [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 11
+
+- [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 10
+
+- [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 9
+
+- [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 8
+
+- [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/anime.php?id=51958) ep. 12
+
 - [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://myanimelist.net/anime.php?id=52608) ep. 12
 
 - [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://myanimelist.net/anime.php?id=52608) ep. 11
