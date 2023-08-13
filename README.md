@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://myanimelist.net/anime.php?id=52830) ep. 7
+
 - [Kaminaki Sekai no Kamisama Katsudou](https://myanimelist.net/anime.php?id=51693) ep. 12
 
 - [Kaminaki Sekai no Kamisama Katsudou](https://myanimelist.net/anime.php?id=51693) ep. 11
@@ -93,8 +95,6 @@
 - [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 11
 
 - [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 10
-
-- [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 9
 
 <!-- MyAnimeList Activity End -->
 </details>
