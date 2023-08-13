@@ -66,6 +66,14 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 5
+
+- [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 4
+
+- [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 3
+
+- [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 2
+
 - [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://myanimelist.net/anime.php?id=52830) ep. 7
 
 - [Kaminaki Sekai no Kamisama Katsudou](https://myanimelist.net/anime.php?id=51693) ep. 12
@@ -87,14 +95,6 @@
 - [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 11
 
 - [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 10
-
-- [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 9
-
-- [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 12
-
-- [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 11
-
-- [Mashle](https://myanimelist.net/anime.php?id=52211) ep. 10
 
 <!-- MyAnimeList Activity End -->
 </details>
