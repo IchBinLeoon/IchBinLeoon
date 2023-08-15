@@ -66,6 +66,18 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://myanimelist.net/anime.php?id=52830) ep. 13
+
+- [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://myanimelist.net/anime.php?id=52830) ep. 12
+
+- [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://myanimelist.net/anime.php?id=52830) ep. 11
+
+- [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://myanimelist.net/anime.php?id=52830) ep. 10
+
+- [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://myanimelist.net/anime.php?id=52830) ep. 9
+
+- [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://myanimelist.net/anime.php?id=52830) ep. 8
+
 - [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 5
 
 - [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 4
@@ -83,18 +95,6 @@
 - [Kaminaki Sekai no Kamisama Katsudou](https://myanimelist.net/anime.php?id=51693) ep. 10
 
 - [Kaminaki Sekai no Kamisama Katsudou](https://myanimelist.net/anime.php?id=51693) ep. 9
-
-- [Kaminaki Sekai no Kamisama Katsudou](https://myanimelist.net/anime.php?id=51693) ep. 8
-
-- [Kaminaki Sekai no Kamisama Katsudou](https://myanimelist.net/anime.php?id=51693) ep. 7
-
-- [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 13
-
-- [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 12
-
-- [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 11
-
-- [Jigokuraku](https://myanimelist.net/anime.php?id=46569) ep. 10
 
 <!-- MyAnimeList Activity End -->
 </details>
