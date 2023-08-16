@@ -66,6 +66,20 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 12
+
+- [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 11
+
+- [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 10
+
+- [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 9
+
+- [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 8
+
+- [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 7
+
+- [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 6
+
 - [Tonikaku Kawaii: Joshikou-hen](https://myanimelist.net/anime.php?id=55651) ep. 3
 
 - [Tonikaku Kawaii: Joshikou-hen](https://myanimelist.net/anime.php?id=55651) ep. 2
@@ -81,20 +95,6 @@
 - [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 9
 
 - [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 8
-
-- [Isekai wa Smartphone to Tomo ni. 2](https://myanimelist.net/anime.php?id=51632) ep. 12
-
-- [Isekai wa Smartphone to Tomo ni. 2](https://myanimelist.net/anime.php?id=51632) ep. 11
-
-- [Isekai wa Smartphone to Tomo ni. 2](https://myanimelist.net/anime.php?id=51632) ep. 10
-
-- [Isekai wa Smartphone to Tomo ni. 2](https://myanimelist.net/anime.php?id=51632) ep. 9
-
-- [Isekai wa Smartphone to Tomo ni. 2](https://myanimelist.net/anime.php?id=51632) ep. 8
-
-- [Isekai wa Smartphone to Tomo ni. 2](https://myanimelist.net/anime.php?id=51632) ep. 7
-
-- [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://myanimelist.net/anime.php?id=52830) ep. 13
 
 <!-- MyAnimeList Activity End -->
 </details>
