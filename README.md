@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita](https://myanimelist.net/anime.php?id=51219) ep. 6
+
 - [Tonikaku Kawaii: Joshikou-hen](https://myanimelist.net/anime.php?id=55651) ep. 4
 
 - [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 12
@@ -93,8 +95,6 @@
 - [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 11
 
 - [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 10
-
-- [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 9
 
 <!-- MyAnimeList Activity End -->
 </details>
