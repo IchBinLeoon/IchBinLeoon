@@ -66,6 +66,12 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Psycho-Pass 3](https://myanimelist.net/anime.php?id=39491) ep. 4
+
+- [Psycho-Pass 3](https://myanimelist.net/anime.php?id=39491) ep. 3
+
+- [Psycho-Pass 3](https://myanimelist.net/anime.php?id=39491) ep. 2
+
 - [Psycho-Pass 3](https://myanimelist.net/anime.php?id=39491) ep. 1
 
 - [Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita](https://myanimelist.net/anime.php?id=51219) ep. 6
@@ -89,12 +95,6 @@
 - [Tonikaku Kawaii: Joshikou-hen](https://myanimelist.net/anime.php?id=55651) ep. 3
 
 - [Tonikaku Kawaii: Joshikou-hen](https://myanimelist.net/anime.php?id=55651) ep. 2
-
-- [Tonikaku Kawaii: Joshikou-hen](https://myanimelist.net/anime.php?id=55651) ep. 1
-
-- [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 12
-
-- [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime.php?id=50307) ep. 11
 
 <!-- MyAnimeList Activity End -->
 </details>
