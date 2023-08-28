@@ -66,6 +66,14 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Psycho-Pass 3](https://myanimelist.net/anime.php?id=39491) ep. 8
+
+- [Psycho-Pass 3](https://myanimelist.net/anime.php?id=39491) ep. 7
+
+- [Psycho-Pass 3](https://myanimelist.net/anime.php?id=39491) ep. 6
+
+- [Psycho-Pass 3](https://myanimelist.net/anime.php?id=39491) ep. 5
+
 - [Psycho-Pass 3](https://myanimelist.net/anime.php?id=39491) ep. 4
 
 - [Psycho-Pass 3](https://myanimelist.net/anime.php?id=39491) ep. 3
@@ -87,14 +95,6 @@
 - [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 9
 
 - [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 8
-
-- [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 7
-
-- [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 6
-
-- [Tonikaku Kawaii: Joshikou-hen](https://myanimelist.net/anime.php?id=55651) ep. 3
-
-- [Tonikaku Kawaii: Joshikou-hen](https://myanimelist.net/anime.php?id=55651) ep. 2
 
 <!-- MyAnimeList Activity End -->
 </details>
