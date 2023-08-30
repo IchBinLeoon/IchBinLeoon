@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Psycho-Pass Movie: Providence](https://myanimelist.net/anime.php?id=52747) ep. 1
+
 - [Psycho-Pass 3: First Inspector](https://myanimelist.net/anime.php?id=40858) ep. 3
 
 - [Psycho-Pass 3: First Inspector](https://myanimelist.net/anime.php?id=40858) ep. 2
@@ -93,8 +95,6 @@
 - [Tonikaku Kawaii: Joshikou-hen](https://myanimelist.net/anime.php?id=55651) ep. 4
 
 - [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 12
-
-- [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 11
 
 <!-- MyAnimeList Activity End -->
 </details>
