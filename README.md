@@ -94,8 +94,6 @@
 
 - [Tonikaku Kawaii: Joshikou-hen](https://myanimelist.net/anime.php?id=55651) ep. 4
 
-- [Mahoutsukai no Yome Season 2](https://myanimelist.net/anime.php?id=52955) ep. 12
-
 <!-- MyAnimeList Activity End -->
 </details>
 
