@@ -90,10 +90,6 @@
 
 - [Psycho-Pass 3](https://myanimelist.net/anime.php?id=39491) ep. 1
 
-- [Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita](https://myanimelist.net/anime.php?id=51219) ep. 6
-
-- [Tonikaku Kawaii: Joshikou-hen](https://myanimelist.net/anime.php?id=55651) ep. 4
-
 <!-- MyAnimeList Activity End -->
 </details>
 
