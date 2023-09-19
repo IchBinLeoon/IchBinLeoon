@@ -66,29 +66,35 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
-- [Psycho-Pass Movie: Providence](https://myanimelist.net/anime.php?id=52747) ep. 1
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1097
 
-- [Psycho-Pass 3: First Inspector](https://myanimelist.net/anime.php?id=40858) ep. 3
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1096
 
-- [Psycho-Pass 3: First Inspector](https://myanimelist.net/anime.php?id=40858) ep. 2
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1095
 
-- [Psycho-Pass 3: First Inspector](https://myanimelist.net/anime.php?id=40858) ep. 1
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1094
 
-- [Psycho-Pass 3](https://myanimelist.net/anime.php?id=39491) ep. 8
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1093
 
-- [Psycho-Pass 3](https://myanimelist.net/anime.php?id=39491) ep. 7
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1092
 
-- [Psycho-Pass 3](https://myanimelist.net/anime.php?id=39491) ep. 6
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1091
 
-- [Psycho-Pass 3](https://myanimelist.net/anime.php?id=39491) ep. 5
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1090
 
-- [Psycho-Pass 3](https://myanimelist.net/anime.php?id=39491) ep. 4
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1089
 
-- [Psycho-Pass 3](https://myanimelist.net/anime.php?id=39491) ep. 3
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1088
 
-- [Psycho-Pass 3](https://myanimelist.net/anime.php?id=39491) ep. 2
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1087
 
-- [Psycho-Pass 3](https://myanimelist.net/anime.php?id=39491) ep. 1
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1086
+
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1085
+
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1084
+
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1083
 
 <!-- MyAnimeList Activity End -->
 </details>
