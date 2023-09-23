@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Mushoku Tensei II: Isekai Ittara Honki Dasu - Shugo Jutsushi Fitz](https://myanimelist.net/anime.php?id=55818) ep. 1
+
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1097
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1096
@@ -93,8 +95,6 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1085
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1084
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1083
 
 <!-- MyAnimeList Activity End -->
 </details>
