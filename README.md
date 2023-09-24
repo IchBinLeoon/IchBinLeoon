@@ -66,6 +66,20 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=51179) ep. 8
+
+- [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=51179) ep. 7
+
+- [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=51179) ep. 6
+
+- [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=51179) ep. 5
+
+- [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=51179) ep. 4
+
+- [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=51179) ep. 3
+
+- [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=51179) ep. 2
+
 - [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=51179) ep. 1
 
 - [Mushoku Tensei II: Isekai Ittara Honki Dasu - Shugo Jutsushi Fitz](https://myanimelist.net/anime.php?id=55818) ep. 1
@@ -81,20 +95,6 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1093
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1092
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1091
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1090
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1089
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1088
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1087
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1086
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1085
 
 <!-- MyAnimeList Activity End -->
 </details>
