@@ -66,6 +66,12 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=51179) ep. 11
+
+- [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=51179) ep. 10
+
+- [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=51179) ep. 9
+
 - [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=51179) ep. 8
 
 - [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=51179) ep. 7
@@ -89,12 +95,6 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1096
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1095
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1094
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1093
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1092
 
 <!-- MyAnimeList Activity End -->
 </details>
