@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1099
+
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 4
 
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 3
@@ -93,8 +95,6 @@
 - [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=51179) ep. 5
 
 - [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=51179) ep. 4
-
-- [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=51179) ep. 3
 
 <!-- MyAnimeList Activity End -->
 </details>
