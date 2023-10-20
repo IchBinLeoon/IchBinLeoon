@@ -66,6 +66,10 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 2
+
+- [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 1
+
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 6
 
 - [Tate no Yuusha no Nariagari Season 3](https://myanimelist.net/anime.php?id=40357) ep. 2
@@ -91,10 +95,6 @@
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 2
 
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 1
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1098
-
-- [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://myanimelist.net/anime.php?id=51179) ep. 12
 
 <!-- MyAnimeList Activity End -->
 </details>
