@@ -66,6 +66,12 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Tate no Yuusha no Nariagari Season 3](https://myanimelist.net/anime.php?id=40357) ep. 3
+
+- [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 3
+
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1101
+
 - [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 2
 
 - [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 1
@@ -89,12 +95,6 @@
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1099
 
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 4
-
-- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 3
-
-- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 2
-
-- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
