@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Shingeki no Kyojin: The Final Season - Kanketsu-hen](https://myanimelist.net/anime.php?id=51535) ep. 2
+
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 9
 
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 8
@@ -93,8 +95,6 @@
 - [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 1
 
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 6
-
-- [Tate no Yuusha no Nariagari Season 3](https://myanimelist.net/anime.php?id=40357) ep. 2
 
 <!-- MyAnimeList Activity End -->
 </details>
