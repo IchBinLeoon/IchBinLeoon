@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1102
+
 - [Shingeki no Kyojin: The Final Season - Kanketsu-hen](https://myanimelist.net/anime.php?id=51535) ep. 2
 
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 9
@@ -93,8 +95,6 @@
 - [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 2
 
 - [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 1
-
-- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 6
 
 <!-- MyAnimeList Activity End -->
 </details>
