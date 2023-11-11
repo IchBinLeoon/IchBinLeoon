@@ -66,6 +66,14 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 5
+
+- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 10
+
+- [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 7
+
+- [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 6
+
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1102
 
 - [Shingeki no Kyojin: The Final Season - Kanketsu-hen](https://myanimelist.net/anime.php?id=51535) ep. 2
@@ -87,14 +95,6 @@
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 7
 
 - [Tate no Yuusha no Nariagari Season 3](https://myanimelist.net/anime.php?id=40357) ep. 3
-
-- [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 3
-
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1101
-
-- [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 2
-
-- [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
