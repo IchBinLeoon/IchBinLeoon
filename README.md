@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 5
+
 - [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 5
 
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 10
@@ -93,8 +95,6 @@
 - [Mahoutsukai no Yome Season 2 Part 2](https://myanimelist.net/anime.php?id=55742) ep. 2
 
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 7
-
-- [Tate no Yuusha no Nariagari Season 3](https://myanimelist.net/anime.php?id=40357) ep. 3
 
 <!-- MyAnimeList Activity End -->
 </details>
