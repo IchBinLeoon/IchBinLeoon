@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 11
+
 - [Meitantei Conan: Keisatsu Gakkou-hen Wild Police Story - Case. Furuya Rei](https://myanimelist.net/anime.php?id=54864) ep. 1
 
 - [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1103
@@ -93,8 +95,6 @@
 - [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 4
 
 - [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 3
-
-- [Mahoutsukai no Yome Season 2 Part 2](https://myanimelist.net/anime.php?id=55742) ep. 3
 
 <!-- MyAnimeList Activity End -->
 </details>
