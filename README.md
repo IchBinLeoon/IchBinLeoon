@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1104
+
 - [Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari](https://myanimelist.net/anime.php?id=11979) ep. 1
 
 - [Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari](https://myanimelist.net/anime.php?id=11977) ep. 1
@@ -93,8 +95,6 @@
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 9
 
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 8
-
-- [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 4
 
 <!-- MyAnimeList Activity End -->
 </details>
