@@ -66,6 +66,10 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari](https://myanimelist.net/anime.php?id=11979) ep. 1
+
+- [Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari](https://myanimelist.net/anime.php?id=11977) ep. 1
+
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 11
 
 - [Meitantei Conan: Keisatsu Gakkou-hen Wild Police Story - Case. Furuya Rei](https://myanimelist.net/anime.php?id=54864) ep. 1
@@ -91,10 +95,6 @@
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 8
 
 - [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 4
-
-- [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 4
-
-- [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 3
 
 <!-- MyAnimeList Activity End -->
 </details>
