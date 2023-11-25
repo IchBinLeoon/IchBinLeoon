@@ -66,6 +66,16 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 12
+
+- [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 11
+
+- [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 10
+
+- [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 9
+
+- [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 8
+
 - [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1104
 
 - [Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari](https://myanimelist.net/anime.php?id=11979) ep. 1
@@ -85,16 +95,6 @@
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 10
 
 - [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 7
-
-- [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 6
-
-- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1102
-
-- [Shingeki no Kyojin: The Final Season - Kanketsu-hen](https://myanimelist.net/anime.php?id=51535) ep. 2
-
-- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 9
-
-- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 8
 
 <!-- MyAnimeList Activity End -->
 </details>
