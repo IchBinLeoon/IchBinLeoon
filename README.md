@@ -66,7 +66,7 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1104
+- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1104
 
 - [Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari](https://myanimelist.net/anime.php?id=11979) ep. 1
 
@@ -76,7 +76,7 @@
 
 - [Meitantei Conan: Keisatsu Gakkou-hen Wild Police Story - Case. Furuya Rei](https://myanimelist.net/anime.php?id=54864) ep. 1
 
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1103
+- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1103
 
 - [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 5
 
@@ -88,7 +88,7 @@
 
 - [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 6
 
-- [Detective Conan](https://myanimelist.net/anime.php?id=235) ep. 1102
+- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1102
 
 - [Shingeki no Kyojin: The Final Season - Kanketsu-hen](https://myanimelist.net/anime.php?id=51535) ep. 2
 
