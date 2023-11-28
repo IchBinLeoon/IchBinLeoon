@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 12
+
 - [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 12
 
 - [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 11
@@ -93,8 +95,6 @@
 - [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 5
 
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 10
-
-- [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 7
 
 <!-- MyAnimeList Activity End -->
 </details>
