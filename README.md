@@ -66,6 +66,10 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 14
+
+- [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 13
+
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 13
 
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 12
@@ -91,10 +95,6 @@
 - [Meitantei Conan: Keisatsu Gakkou-hen Wild Police Story - Case. Furuya Rei](https://myanimelist.net/anime.php?id=54864) ep. 1
 
 - [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1103
-
-- [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 5
-
-- [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 5
 
 <!-- MyAnimeList Activity End -->
 </details>
