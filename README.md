@@ -92,10 +92,6 @@
 
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 11
 
-- [Meitantei Conan: Keisatsu Gakkou-hen Wild Police Story - Case. Furuya Rei](https://myanimelist.net/anime.php?id=54864) ep. 1
-
-- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1103
-
 <!-- MyAnimeList Activity End -->
 </details>
 
