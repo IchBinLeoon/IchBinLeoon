@@ -84,14 +84,6 @@
 
 - [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 8
 
-- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1104
-
-- [Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari](https://myanimelist.net/anime.php?id=11979) ep. 1
-
-- [Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari](https://myanimelist.net/anime.php?id=11977) ep. 1
-
-- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 11
-
 <!-- MyAnimeList Activity End -->
 </details>
 
