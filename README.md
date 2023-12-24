@@ -76,18 +76,6 @@
 
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 13
 
-- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 12
-
-- [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 12
-
-- [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 11
-
-- [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 10
-
-- [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 9
-
-- [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 8
-
 <!-- MyAnimeList Activity End -->
 </details>
 
