@@ -76,8 +76,6 @@
 
 - [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime.php?id=51009) ep. 13
 
-- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 13
-
 <!-- MyAnimeList Activity End -->
 </details>
 
