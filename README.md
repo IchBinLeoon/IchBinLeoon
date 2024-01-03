@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 16
+
 - [Kimitachi wa Dou Ikiru ka](https://myanimelist.net/anime.php?id=36699) ep. 1
 
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 15
