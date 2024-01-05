@@ -66,6 +66,22 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Tensei shitara Slime Datta Ken: Coleus no Yume](https://myanimelist.net/anime.php?id=54565) ep. 3
+
+- [Tensei shitara Slime Datta Ken: Coleus no Yume](https://myanimelist.net/anime.php?id=54565) ep. 2
+
+- [Tensei shitara Slime Datta Ken: Coleus no Yume](https://myanimelist.net/anime.php?id=54565) ep. 1
+
+- [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://myanimelist.net/anime.php?id=51096) ep. 13
+
+- [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://myanimelist.net/anime.php?id=51096) ep. 12
+
+- [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://myanimelist.net/anime.php?id=51096) ep. 11
+
+- [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://myanimelist.net/anime.php?id=51096) ep. 10
+
+- [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://myanimelist.net/anime.php?id=51096) ep. 9
+
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 16
 
 - [Kimitachi wa Dou Ikiru ka](https://myanimelist.net/anime.php?id=36699) ep. 1
