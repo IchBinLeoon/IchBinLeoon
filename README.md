@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 17
+
 - [Tensei shitara Slime Datta Ken: Coleus no Yume](https://myanimelist.net/anime.php?id=54565) ep. 3
 
 - [Tensei shitara Slime Datta Ken: Coleus no Yume](https://myanimelist.net/anime.php?id=54565) ep. 2
