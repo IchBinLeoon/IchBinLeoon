@@ -90,10 +90,6 @@
 
 - [Kimitachi wa Dou Ikiru ka](https://myanimelist.net/anime.php?id=36699) ep. 1
 
-- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 15
-
-- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 14
-
 <!-- MyAnimeList Activity End -->
 </details>
 
