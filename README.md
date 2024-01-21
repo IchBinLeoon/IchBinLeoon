@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Ore dake Level Up na Ken](https://myanimelist.net/anime.php?id=52299) ep. 3
+
 - [Tengoku Daimakyou](https://myanimelist.net/anime.php?id=53393) ep. 13
 
 - [Ao no Exorcist: Shimane Illuminati-hen](https://myanimelist.net/anime.php?id=53889) ep. 2
@@ -93,8 +95,6 @@
 - [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://myanimelist.net/anime.php?id=51096) ep. 11
 
 - [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://myanimelist.net/anime.php?id=51096) ep. 10
-
-- [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://myanimelist.net/anime.php?id=51096) ep. 9
 
 <!-- MyAnimeList Activity End -->
 </details>
