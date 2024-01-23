@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 19
+
 - [Ore dake Level Up na Ken](https://myanimelist.net/anime.php?id=52299) ep. 3
 
 - [Tengoku Daimakyou](https://myanimelist.net/anime.php?id=53393) ep. 13
@@ -93,8 +95,6 @@
 - [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://myanimelist.net/anime.php?id=51096) ep. 12
 
 - [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://myanimelist.net/anime.php?id=51096) ep. 11
-
-- [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://myanimelist.net/anime.php?id=51096) ep. 10
 
 <!-- MyAnimeList Activity End -->
 </details>
