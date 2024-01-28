@@ -86,16 +86,6 @@
 
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 17
 
-- [Tensei shitara Slime Datta Ken: Coleus no Yume](https://myanimelist.net/anime.php?id=54565) ep. 3
-
-- [Tensei shitara Slime Datta Ken: Coleus no Yume](https://myanimelist.net/anime.php?id=54565) ep. 2
-
-- [Tensei shitara Slime Datta Ken: Coleus no Yume](https://myanimelist.net/anime.php?id=54565) ep. 1
-
-- [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://myanimelist.net/anime.php?id=51096) ep. 13
-
-- [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://myanimelist.net/anime.php?id=51096) ep. 12
-
 <!-- MyAnimeList Activity End -->
 </details>
 
