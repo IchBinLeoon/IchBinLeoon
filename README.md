@@ -86,10 +86,6 @@
 
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 18
 
-- [Ore dake Level Up na Ken](https://myanimelist.net/anime.php?id=52299) ep. 1
-
-- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 17
-
 <!-- MyAnimeList Activity End -->
 </details>
 
