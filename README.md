@@ -80,14 +80,6 @@
 
 - [Tengoku Daimakyou](https://myanimelist.net/anime.php?id=53393) ep. 13
 
-- [Ao no Exorcist: Shimane Illuminati-hen](https://myanimelist.net/anime.php?id=53889) ep. 2
-
-- [Ao no Exorcist: Shimane Illuminati-hen](https://myanimelist.net/anime.php?id=53889) ep. 1
-
-- [Ore dake Level Up na Ken](https://myanimelist.net/anime.php?id=52299) ep. 2
-
-- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 18
-
 <!-- MyAnimeList Activity End -->
 </details>
 
