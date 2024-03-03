@@ -103,6 +103,11 @@
 
 <p align="center">Thanks for stopping by! 😊 Show some ❤️ by starring some of my repositories if you find them interesting.</p>
 <p align="center">
+  <a href="https://ko-fi.com/ichbinleoon">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
+  </a>
+</p>
+<p align="center">
   <a href="https://github.com/IchBinLeoon/IchBinLeoon/actions">
     <img alt="Build" src="https://img.shields.io/github/actions/workflow/status/IchBinLeoon/IchBinLeoon/update.yml?branch=main&style=flat-square">
   </a>
