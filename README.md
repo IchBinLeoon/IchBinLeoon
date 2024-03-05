@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 25
+
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 24
 
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 23
