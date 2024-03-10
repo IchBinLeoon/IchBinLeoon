@@ -66,6 +66,10 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 26
+
+- [Ore dake Level Up na Ken](https://myanimelist.net/anime.php?id=52299) ep. 8
+
 - [Ore dake Level Up na Ken](https://myanimelist.net/anime.php?id=52299) ep. 7
 
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 25
@@ -91,10 +95,6 @@
 - [Tate no Yuusha no Nariagari Season 3](https://myanimelist.net/anime.php?id=40357) ep. 5
 
 - [Tate no Yuusha no Nariagari Season 3](https://myanimelist.net/anime.php?id=40357) ep. 4
-
-- [Ore dake Level Up na Ken](https://myanimelist.net/anime.php?id=52299) ep. 6
-
-- [Ore dake Level Up na Ken](https://myanimelist.net/anime.php?id=52299) ep. 5
 
 <!-- MyAnimeList Activity End -->
 </details>
