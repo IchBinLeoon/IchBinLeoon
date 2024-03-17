@@ -76,14 +76,6 @@
 
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 24
 
-- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 23
-
-- [Tate no Yuusha no Nariagari Season 3](https://myanimelist.net/anime.php?id=40357) ep. 12
-
-- [Tate no Yuusha no Nariagari Season 3](https://myanimelist.net/anime.php?id=40357) ep. 11
-
-- [Tate no Yuusha no Nariagari Season 3](https://myanimelist.net/anime.php?id=40357) ep. 10
-
 <!-- MyAnimeList Activity End -->
 </details>
 
