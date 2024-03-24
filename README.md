@@ -82,8 +82,6 @@
 
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 25
 
-- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 24
-
 <!-- MyAnimeList Activity End -->
 </details>
 
