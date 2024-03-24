@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Ore dake Level Up na Ken](https://myanimelist.net/anime.php?id=52299) ep. 11
+
 - [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 28
 
 - [Ore dake Level Up na Ken](https://myanimelist.net/anime.php?id=52299) ep. 10
