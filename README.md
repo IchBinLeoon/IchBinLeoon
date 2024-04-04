@@ -66,6 +66,12 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 11
+
+- [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 10
+
+- [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 9
+
 - [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 8
 
 - [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 7
