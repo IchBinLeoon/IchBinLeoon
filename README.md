@@ -66,6 +66,20 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 12
+
+- [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 11
+
+- [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 10
+
+- [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 9
+
+- [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 8
+
+- [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 7
+
+- [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 6
+
 - [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 11
 
 - [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 10
@@ -81,16 +95,6 @@
 - [Ore dake Level Up na Ken](https://myanimelist.net/anime.php?id=52299) ep. 12
 
 - [Ore dake Level Up na Ken](https://myanimelist.net/anime.php?id=52299) ep. 11
-
-- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 28
-
-- [Ore dake Level Up na Ken](https://myanimelist.net/anime.php?id=52299) ep. 10
-
-- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 27
-
-- [Sousou no Frieren](https://myanimelist.net/anime.php?id=52991) ep. 26
-
-- [Ore dake Level Up na Ken](https://myanimelist.net/anime.php?id=52299) ep. 8
 
 <!-- MyAnimeList Activity End -->
 </details>
