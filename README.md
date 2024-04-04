@@ -66,6 +66,12 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 8
+
+- [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 7
+
+- [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 6
+
 - [Ore dake Level Up na Ken](https://myanimelist.net/anime.php?id=52299) ep. 12
 
 - [Ore dake Level Up na Ken](https://myanimelist.net/anime.php?id=52299) ep. 11
