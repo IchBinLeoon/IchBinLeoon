@@ -66,6 +66,24 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Mahoutsukai no Yome Season 2 Part 2](https://myanimelist.net/anime.php?id=55742) ep. 12
+
+- [Mahoutsukai no Yome Season 2 Part 2](https://myanimelist.net/anime.php?id=55742) ep. 11
+
+- [Mahoutsukai no Yome Season 2 Part 2](https://myanimelist.net/anime.php?id=55742) ep. 10
+
+- [Mahoutsukai no Yome Season 2 Part 2](https://myanimelist.net/anime.php?id=55742) ep. 9
+
+- [Mahoutsukai no Yome Season 2 Part 2](https://myanimelist.net/anime.php?id=55742) ep. 8
+
+- [Mahoutsukai no Yome Season 2 Part 2](https://myanimelist.net/anime.php?id=55742) ep. 7
+
+- [Mahoutsukai no Yome Season 2 Part 2](https://myanimelist.net/anime.php?id=55742) ep. 6
+
+- [Mahoutsukai no Yome Season 2 Part 2](https://myanimelist.net/anime.php?id=55742) ep. 5
+
+- [Mahoutsukai no Yome Season 2 Part 2](https://myanimelist.net/anime.php?id=55742) ep. 4
+
 - [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 12
 
 - [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 11
@@ -77,24 +95,6 @@
 - [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 8
 
 - [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 7
-
-- [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 6
-
-- [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 11
-
-- [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 10
-
-- [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 9
-
-- [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 8
-
-- [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 7
-
-- [Dr. Stone: New World Part 2](https://myanimelist.net/anime.php?id=55644) ep. 6
-
-- [Ore dake Level Up na Ken](https://myanimelist.net/anime.php?id=52299) ep. 12
-
-- [Ore dake Level Up na Ken](https://myanimelist.net/anime.php?id=52299) ep. 11
 
 <!-- MyAnimeList Activity End -->
 </details>
