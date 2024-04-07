@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://myanimelist.net/anime.php?id=55888) ep. 1
+
 - [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 1
 
 - [Mahoutsukai no Yome Season 2 Part 2](https://myanimelist.net/anime.php?id=55742) ep. 12
@@ -93,8 +95,6 @@
 - [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 10
 
 - [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 9
-
-- [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 8
 
 <!-- MyAnimeList Activity End -->
 </details>
