@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Spy x Family Movie: Code: White](https://myanimelist.net/anime.php?id=53888) ep. 1
+
 - [Ookami to Koushinryou: Merchant Meets the Wise Wolf](https://myanimelist.net/anime.php?id=51122) ep. 1
 
 - [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://myanimelist.net/anime.php?id=55888) ep. 1
@@ -93,8 +95,6 @@
 - [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 12
 
 - [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 11
-
-- [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 10
 
 <!-- MyAnimeList Activity End -->
 </details>
