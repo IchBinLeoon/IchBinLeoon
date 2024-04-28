@@ -74,28 +74,6 @@
 
 - [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 1
 
-- [Mahoutsukai no Yome Season 2 Part 2](https://myanimelist.net/anime.php?id=55742) ep. 12
-
-- [Mahoutsukai no Yome Season 2 Part 2](https://myanimelist.net/anime.php?id=55742) ep. 11
-
-- [Mahoutsukai no Yome Season 2 Part 2](https://myanimelist.net/anime.php?id=55742) ep. 10
-
-- [Mahoutsukai no Yome Season 2 Part 2](https://myanimelist.net/anime.php?id=55742) ep. 9
-
-- [Mahoutsukai no Yome Season 2 Part 2](https://myanimelist.net/anime.php?id=55742) ep. 8
-
-- [Mahoutsukai no Yome Season 2 Part 2](https://myanimelist.net/anime.php?id=55742) ep. 7
-
-- [Mahoutsukai no Yome Season 2 Part 2](https://myanimelist.net/anime.php?id=55742) ep. 6
-
-- [Mahoutsukai no Yome Season 2 Part 2](https://myanimelist.net/anime.php?id=55742) ep. 5
-
-- [Mahoutsukai no Yome Season 2 Part 2](https://myanimelist.net/anime.php?id=55742) ep. 4
-
-- [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 12
-
-- [Spy x Family Season 2](https://myanimelist.net/anime.php?id=53887) ep. 11
-
 <!-- MyAnimeList Activity End -->
 </details>
 
