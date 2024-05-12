@@ -70,8 +70,6 @@
 
 - [Spy x Family Movie: Code: White](https://myanimelist.net/anime.php?id=53888) ep. 1
 
-- [Ookami to Koushinryou: Merchant Meets the Wise Wolf](https://myanimelist.net/anime.php?id=51122) ep. 1
-
 <!-- MyAnimeList Activity End -->
 </details>
 
