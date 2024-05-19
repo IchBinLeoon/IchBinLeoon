@@ -70,8 +70,6 @@
 
 - [Golden Kamuy](https://myanimelist.net/anime.php?id=36028) ep. 12
 
-- [Spy x Family Movie: Code: White](https://myanimelist.net/anime.php?id=53888) ep. 1
-
 <!-- MyAnimeList Activity End -->
 </details>
 
