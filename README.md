@@ -70,8 +70,6 @@
 
 - [Kimetsu no Yaiba: Hashira Geiko-hen](https://myanimelist.net/anime.php?id=55701) ep. 1
 
-- [Golden Kamuy](https://myanimelist.net/anime.php?id=36028) ep. 12
-
 <!-- MyAnimeList Activity End -->
 </details>
 
