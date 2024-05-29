@@ -66,6 +66,10 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai](https://myanimelist.net/anime.php?id=54870) ep. 1
+
+- [Seishun Buta Yarou wa Odekake Sister no Yume wo Minai](https://myanimelist.net/anime.php?id=53129) ep. 1
+
 - [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://myanimelist.net/anime.php?id=55888) ep. 7
 
 - [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://myanimelist.net/anime.php?id=55888) ep. 6
