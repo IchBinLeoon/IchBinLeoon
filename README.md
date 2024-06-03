@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Kono Subarashii Sekai ni Shukufuku wo! 3](https://myanimelist.net/anime.php?id=49458) ep. 1
+
 - [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1125
 
 - [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1124
@@ -93,8 +95,6 @@
 - [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1113
 
 - [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1112
-
-- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1111
 
 <!-- MyAnimeList Activity End -->
 </details>
