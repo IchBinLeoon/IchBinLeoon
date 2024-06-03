@@ -66,6 +66,10 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://myanimelist.net/anime.php?id=55888) ep. 8
+
+- [Kimetsu no Yaiba: Hashira Geiko-hen](https://myanimelist.net/anime.php?id=55701) ep. 4
+
 - [Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai](https://myanimelist.net/anime.php?id=54870) ep. 1
 
 - [Seishun Buta Yarou wa Odekake Sister no Yume wo Minai](https://myanimelist.net/anime.php?id=53129) ep. 1
