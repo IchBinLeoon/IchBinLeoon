@@ -66,31 +66,35 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
-- [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://myanimelist.net/anime.php?id=55888) ep. 8
+- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1125
 
-- [Kimetsu no Yaiba: Hashira Geiko-hen](https://myanimelist.net/anime.php?id=55701) ep. 4
+- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1124
 
-- [Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai](https://myanimelist.net/anime.php?id=54870) ep. 1
+- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1123
 
-- [Seishun Buta Yarou wa Odekake Sister no Yume wo Minai](https://myanimelist.net/anime.php?id=53129) ep. 1
+- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1122
 
-- [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://myanimelist.net/anime.php?id=55888) ep. 7
+- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1121
 
-- [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://myanimelist.net/anime.php?id=55888) ep. 6
+- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1120
 
-- [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://myanimelist.net/anime.php?id=55888) ep. 5
+- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1119
 
-- [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://myanimelist.net/anime.php?id=55888) ep. 4
+- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1118
 
-- [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://myanimelist.net/anime.php?id=55888) ep. 3
+- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1117
 
-- [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://myanimelist.net/anime.php?id=55888) ep. 2
+- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1116
 
-- [Kimetsu no Yaiba: Hashira Geiko-hen](https://myanimelist.net/anime.php?id=55701) ep. 3
+- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1115
 
-- [Kimetsu no Yaiba: Hashira Geiko-hen](https://myanimelist.net/anime.php?id=55701) ep. 2
+- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1114
 
-- [Kimetsu no Yaiba: Hashira Geiko-hen](https://myanimelist.net/anime.php?id=55701) ep. 1
+- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1113
+
+- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1112
+
+- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1111
 
 <!-- MyAnimeList Activity End -->
 </details>
