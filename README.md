@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 2
+
 - [Kono Subarashii Sekai ni Shukufuku wo! 3](https://myanimelist.net/anime.php?id=49458) ep. 8
 
 - [Kono Subarashii Sekai ni Shukufuku wo! 3](https://myanimelist.net/anime.php?id=49458) ep. 7
@@ -93,8 +95,6 @@
 - [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1121
 
 - [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1120
-
-- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1119
 
 <!-- MyAnimeList Activity End -->
 </details>
