@@ -66,6 +66,14 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Kimetsu no Yaiba: Hashira Geiko-hen](https://myanimelist.net/anime.php?id=55701) ep. 6
+
+- [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://myanimelist.net/anime.php?id=55888) ep. 10
+
+- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1127
+
+- [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 11
+
 - [Kimetsu no Yaiba: Hashira Geiko-hen](https://myanimelist.net/anime.php?id=55701) ep. 5
 
 - [Kono Subarashii Sekai ni Shukufuku wo! 3](https://myanimelist.net/anime.php?id=49458) ep. 10
@@ -87,14 +95,6 @@
 - [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 7
 
 - [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 6
-
-- [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 5
-
-- [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 4
-
-- [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 3
-
-- [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 2
 
 <!-- MyAnimeList Activity End -->
 </details>
