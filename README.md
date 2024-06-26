@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Haikyuu!! Movie: Gomisuteba no Kessen](https://myanimelist.net/anime.php?id=52742) ep. 1
+
 - [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 12
 
 - [Kono Subarashii Sekai ni Shukufuku wo! 3](https://myanimelist.net/anime.php?id=49458) ep. 11
@@ -93,8 +95,6 @@
 - [Kono Subarashii Sekai ni Shukufuku wo! 3](https://myanimelist.net/anime.php?id=49458) ep. 9
 
 - [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 9
-
-- [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 8
 
 <!-- MyAnimeList Activity End -->
 </details>
