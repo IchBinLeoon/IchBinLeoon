@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1128
+
 - [Haikyuu!! Movie: Gomisuteba no Kessen](https://myanimelist.net/anime.php?id=52742) ep. 1
 
 - [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 12
@@ -93,8 +95,6 @@
 - [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1126
 
 - [Kono Subarashii Sekai ni Shukufuku wo! 3](https://myanimelist.net/anime.php?id=49458) ep. 9
-
-- [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 9
 
 <!-- MyAnimeList Activity End -->
 </details>
