@@ -94,8 +94,6 @@
 
 - [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1126
 
-- [Kono Subarashii Sekai ni Shukufuku wo! 3](https://myanimelist.net/anime.php?id=49458) ep. 9
-
 <!-- MyAnimeList Activity End -->
 </details>
 
