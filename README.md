@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1129
+
 - [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1128
 
 - [Haikyuu!! Movie: Gomisuteba no Kessen](https://myanimelist.net/anime.php?id=52742) ep. 1
