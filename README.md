@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Shikanoko Nokonoko Koshitantan](https://myanimelist.net/anime.php?id=58426) ep. 1
+
 - [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1129
 
 - [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1128
