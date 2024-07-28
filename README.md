@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Koukaku Kidoutai](https://myanimelist.net/anime.php?id=43) ep. 1
+
 - [Blue Lock: Episode Nagi](https://myanimelist.net/anime.php?id=54866) ep. 1
 
 - [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://myanimelist.net/anime.php?id=55888) ep. 12
