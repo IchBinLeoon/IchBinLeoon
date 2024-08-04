@@ -84,10 +84,6 @@
 
 - [Summertime Render](https://myanimelist.net/anime.php?id=47194) ep. 21
 
-- [Shikanoko Nokonoko Koshitantan](https://myanimelist.net/anime.php?id=58426) ep. 1
-
-- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1129
-
 <!-- MyAnimeList Activity End -->
 </details>
 
