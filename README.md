@@ -74,16 +74,6 @@
 
 - [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://myanimelist.net/anime.php?id=55888) ep. 11
 
-- [Summertime Render](https://myanimelist.net/anime.php?id=47194) ep. 25
-
-- [Summertime Render](https://myanimelist.net/anime.php?id=47194) ep. 24
-
-- [Summertime Render](https://myanimelist.net/anime.php?id=47194) ep. 23
-
-- [Summertime Render](https://myanimelist.net/anime.php?id=47194) ep. 22
-
-- [Summertime Render](https://myanimelist.net/anime.php?id=47194) ep. 21
-
 <!-- MyAnimeList Activity End -->
 </details>
 
