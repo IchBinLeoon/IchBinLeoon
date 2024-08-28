@@ -66,7 +66,7 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
-- [Koukaku Kidoutai](https://myanimelist.net/anime.php?id=43) ep. 1
+- [Meitantei Conan Movie 27: 100-man Dollar no Michishirube](https://myanimelist.net/anime.php?id=56785) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
