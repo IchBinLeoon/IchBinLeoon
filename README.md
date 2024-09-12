@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen](https://myanimelist.net/anime.php?id=47164) ep. 6
+
 - [Kimetsu no Yaiba: Hashira Geiko-hen](https://myanimelist.net/anime.php?id=55701) ep. 8
 
 - [Kimetsu no Yaiba: Hashira Geiko-hen](https://myanimelist.net/anime.php?id=55701) ep. 7
@@ -93,8 +95,6 @@
 - [Ookami to Koushinryou: Merchant Meets the Wise Wolf](https://myanimelist.net/anime.php?id=51122) ep. 18
 
 - [Ookami to Koushinryou: Merchant Meets the Wise Wolf](https://myanimelist.net/anime.php?id=51122) ep. 17
-
-- [Ookami to Koushinryou: Merchant Meets the Wise Wolf](https://myanimelist.net/anime.php?id=51122) ep. 16
 
 <!-- MyAnimeList Activity End -->
 </details>
