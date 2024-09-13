@@ -66,6 +66,10 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen](https://myanimelist.net/anime.php?id=53111) ep. 5
+
+- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen](https://myanimelist.net/anime.php?id=53111) ep. 4
+
 - [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen](https://myanimelist.net/anime.php?id=53111) ep. 3
 
 - [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen](https://myanimelist.net/anime.php?id=53111) ep. 2
@@ -91,10 +95,6 @@
 - [Tensei shitara Slime Datta Ken 3rd Season: Kanwa - Diablo Nikki](https://myanimelist.net/anime.php?id=58592) ep. 1
 
 - [Tensei shitara Slime Datta Ken: Kanwa - Luminous Memories](https://myanimelist.net/anime.php?id=59493) ep. 1
-
-- [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 18
-
-- [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 17
 
 <!-- MyAnimeList Activity End -->
 </details>
