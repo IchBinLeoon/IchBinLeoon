@@ -66,6 +66,22 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen](https://myanimelist.net/anime.php?id=53111) ep. 3
+
+- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen](https://myanimelist.net/anime.php?id=53111) ep. 2
+
+- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen](https://myanimelist.net/anime.php?id=53111) ep. 1
+
+- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen](https://myanimelist.net/anime.php?id=47164) ep. 11
+
+- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen](https://myanimelist.net/anime.php?id=47164) ep. 10
+
+- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen](https://myanimelist.net/anime.php?id=47164) ep. 9
+
+- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen](https://myanimelist.net/anime.php?id=47164) ep. 8
+
+- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen](https://myanimelist.net/anime.php?id=47164) ep. 7
+
 - [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen](https://myanimelist.net/anime.php?id=47164) ep. 6
 
 - [Kimetsu no Yaiba: Hashira Geiko-hen](https://myanimelist.net/anime.php?id=55701) ep. 8
@@ -79,22 +95,6 @@
 - [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 18
 
 - [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 17
-
-- [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 16
-
-- [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 14
-
-- [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 15
-
-- [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 13
-
-- [Ookami to Koushinryou: Merchant Meets the Wise Wolf](https://myanimelist.net/anime.php?id=51122) ep. 20
-
-- [Ookami to Koushinryou: Merchant Meets the Wise Wolf](https://myanimelist.net/anime.php?id=51122) ep. 19
-
-- [Ookami to Koushinryou: Merchant Meets the Wise Wolf](https://myanimelist.net/anime.php?id=51122) ep. 18
-
-- [Ookami to Koushinryou: Merchant Meets the Wise Wolf](https://myanimelist.net/anime.php?id=51122) ep. 17
 
 <!-- MyAnimeList Activity End -->
 </details>
