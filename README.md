@@ -66,6 +66,10 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 10
+
+- [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 9
+
 - [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 8
 
 - [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 7
@@ -91,10 +95,6 @@
 - [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen](https://myanimelist.net/anime.php?id=53111) ep. 4
 
 - [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen](https://myanimelist.net/anime.php?id=53111) ep. 3
-
-- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen](https://myanimelist.net/anime.php?id=53111) ep. 2
-
-- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen](https://myanimelist.net/anime.php?id=53111) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
