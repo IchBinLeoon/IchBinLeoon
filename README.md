@@ -66,6 +66,20 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 8
+
+- [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 7
+
+- [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 6
+
+- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1134
+
+- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen](https://myanimelist.net/anime.php?id=53111) ep. 11
+
+- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen](https://myanimelist.net/anime.php?id=53111) ep. 10
+
+- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen](https://myanimelist.net/anime.php?id=53111) ep. 9
+
 - [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen](https://myanimelist.net/anime.php?id=53111) ep. 8
 
 - [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen](https://myanimelist.net/anime.php?id=53111) ep. 7
@@ -81,20 +95,6 @@
 - [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen](https://myanimelist.net/anime.php?id=53111) ep. 2
 
 - [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen](https://myanimelist.net/anime.php?id=53111) ep. 1
-
-- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen](https://myanimelist.net/anime.php?id=47164) ep. 11
-
-- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen](https://myanimelist.net/anime.php?id=47164) ep. 10
-
-- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen](https://myanimelist.net/anime.php?id=47164) ep. 9
-
-- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen](https://myanimelist.net/anime.php?id=47164) ep. 8
-
-- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen](https://myanimelist.net/anime.php?id=47164) ep. 7
-
-- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen](https://myanimelist.net/anime.php?id=47164) ep. 6
-
-- [Kimetsu no Yaiba: Hashira Geiko-hen](https://myanimelist.net/anime.php?id=55701) ep. 8
 
 <!-- MyAnimeList Activity End -->
 </details>
