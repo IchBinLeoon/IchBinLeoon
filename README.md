@@ -66,6 +66,18 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://myanimelist.net/anime.php?id=54595) ep. 2
+
+- [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://myanimelist.net/anime.php?id=54595) ep. 1
+
+- [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 20
+
+- [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 19
+
+- [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 18
+
+- [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 17
+
 - [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 16
 
 - [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 15
@@ -83,18 +95,6 @@
 - [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 9
 
 - [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 8
-
-- [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 7
-
-- [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 6
-
-- [Meitantei Conan](https://myanimelist.net/anime.php?id=235) ep. 1134
-
-- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen](https://myanimelist.net/anime.php?id=53111) ep. 11
-
-- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen](https://myanimelist.net/anime.php?id=53111) ep. 10
-
-- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen](https://myanimelist.net/anime.php?id=53111) ep. 9
 
 <!-- MyAnimeList Activity End -->
 </details>
