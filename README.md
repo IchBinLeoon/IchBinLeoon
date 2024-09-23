@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Ookami to Koushinryou: Merchant Meets the Wise Wolf](https://myanimelist.net/anime.php?id=51122) ep. 21
+
 - [Isekai Meikyuu de Harem wo Specials](https://myanimelist.net/anime.php?id=52281) ep. 2
 
 - [Isekai Meikyuu de Harem wo Specials](https://myanimelist.net/anime.php?id=52281) ep. 1
@@ -93,8 +95,6 @@
 - [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 15
 
 - [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 14
-
-- [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 13
 
 <!-- MyAnimeList Activity End -->
 </details>
