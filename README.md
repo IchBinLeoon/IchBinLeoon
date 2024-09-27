@@ -66,6 +66,14 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://myanimelist.net/anime.php?id=54595) ep. 6
+
+- [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://myanimelist.net/anime.php?id=54595) ep. 5
+
+- [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://myanimelist.net/anime.php?id=54595) ep. 4
+
+- [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 20
+
 - [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 19
 
 - [Ookami to Koushinryou: Merchant Meets the Wise Wolf](https://myanimelist.net/anime.php?id=51122) ep. 22
@@ -87,14 +95,6 @@
 - [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://myanimelist.net/anime.php?id=54595) ep. 1
 
 - [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 20
-
-- [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 19
-
-- [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 18
-
-- [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 17
-
-- [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 16
 
 <!-- MyAnimeList Activity End -->
 </details>
