@@ -66,6 +66,14 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 21
+
+- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 20
+
+- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 19
+
+- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 18
+
 - [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 17
 
 - [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 16
@@ -87,14 +95,6 @@
 - [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 8
 
 - [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 7
-
-- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 6
-
-- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 5
-
-- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 4
-
-- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 3
 
 <!-- MyAnimeList Activity End -->
 </details>
