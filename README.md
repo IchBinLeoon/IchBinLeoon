@@ -66,6 +66,28 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 11
+
+- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 10
+
+- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 9
+
+- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 8
+
+- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 7
+
+- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 6
+
+- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 5
+
+- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 4
+
+- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 3
+
+- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 2
+
+- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 1
+
 - [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://myanimelist.net/anime.php?id=54595) ep. 6
 
 - [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://myanimelist.net/anime.php?id=54595) ep. 5
@@ -73,28 +95,6 @@
 - [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://myanimelist.net/anime.php?id=54595) ep. 4
 
 - [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 20
-
-- [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 19
-
-- [Ookami to Koushinryou: Merchant Meets the Wise Wolf](https://myanimelist.net/anime.php?id=51122) ep. 22
-
-- [Ookami to Koushinryou: Merchant Meets the Wise Wolf](https://myanimelist.net/anime.php?id=51122) ep. 21
-
-- [Isekai Meikyuu de Harem wo Specials](https://myanimelist.net/anime.php?id=52281) ep. 2
-
-- [Isekai Meikyuu de Harem wo Specials](https://myanimelist.net/anime.php?id=52281) ep. 1
-
-- [Isekai Meikyuu de Harem wo](https://myanimelist.net/anime.php?id=44524) ep. 9
-
-- [Overlord Movie 3: Sei Oukoku-hen](https://myanimelist.net/anime.php?id=48896) ep. 1
-
-- [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://myanimelist.net/anime.php?id=54595) ep. 3
-
-- [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://myanimelist.net/anime.php?id=54595) ep. 2
-
-- [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://myanimelist.net/anime.php?id=54595) ep. 1
-
-- [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime.php?id=48316) ep. 20
 
 <!-- MyAnimeList Activity End -->
 </details>
