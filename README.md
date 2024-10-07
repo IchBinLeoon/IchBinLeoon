@@ -66,6 +66,12 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Ookami to Koushinryou: Merchant Meets the Wise Wolf](https://myanimelist.net/anime.php?id=51122) ep. 23
+
+- [Free! Movie 5: The Final Stroke - Kouhen](https://myanimelist.net/anime.php?id=48830) ep. 1
+
+- [Free! Movie 4: The Final Stroke - Zenpen](https://myanimelist.net/anime.php?id=38400) ep. 1
+
 - [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 23
 
 - [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 22
@@ -89,12 +95,6 @@
 - [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 13
 
 - [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 12
-
-- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 11
-
-- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 10
-
-- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 9
 
 <!-- MyAnimeList Activity End -->
 </details>
