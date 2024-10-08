@@ -66,6 +66,10 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 22
+
+- [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 21
+
 - [Ookami to Koushinryou: Merchant Meets the Wise Wolf](https://myanimelist.net/anime.php?id=51122) ep. 23
 
 - [Free! Movie 5: The Final Stroke - Kouhen](https://myanimelist.net/anime.php?id=48830) ep. 1
@@ -91,10 +95,6 @@
 - [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 15
 
 - [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 14
-
-- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 13
-
-- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 12
 
 <!-- MyAnimeList Activity End -->
 </details>
