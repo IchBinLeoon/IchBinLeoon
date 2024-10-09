@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Ookami to Koushinryou: Merchant Meets the Wise Wolf](https://myanimelist.net/anime.php?id=51122) ep. 24
+
 - [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 22
 
 - [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 21
@@ -93,8 +95,6 @@
 - [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 16
 
 - [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 15
-
-- [Ousama Ranking](https://myanimelist.net/anime.php?id=40834) ep. 14
 
 <!-- MyAnimeList Activity End -->
 </details>
