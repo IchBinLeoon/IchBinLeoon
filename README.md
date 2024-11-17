@@ -68,8 +68,6 @@
 
 - [Boku no Hero Academia the Movie 4: You're Next](https://myanimelist.net/anime.php?id=56196) ep. 1
 
-- [Tensei shitara Slime Datta Ken 3rd Season](https://myanimelist.net/anime.php?id=53580) ep. 24
-
 <!-- MyAnimeList Activity End -->
 </details>
 
