@@ -66,7 +66,7 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
-- [Boku no Hero Academia the Movie 4: You're Next](https://myanimelist.net/anime.php?id=56196) ep. 1
+- [Ore dake Level Up na Ken: ReAwakening](https://myanimelist.net/anime.php?id=59841) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
