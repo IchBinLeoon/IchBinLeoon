@@ -78,8 +78,6 @@
 
 - [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://myanimelist.net/anime.php?id=54595) ep. 7
 
-- [Ore dake Level Up na Ken: ReAwakening](https://myanimelist.net/anime.php?id=59841) ep. 1
-
 <!-- MyAnimeList Activity End -->
 </details>
 
