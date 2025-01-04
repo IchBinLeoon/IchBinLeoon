@@ -66,6 +66,10 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://myanimelist.net/anime.php?id=58567) ep. 2
+
+- [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://myanimelist.net/anime.php?id=58567) ep. 1
+
 - [Isekai Meikyuu de Harem wo](https://myanimelist.net/anime.php?id=44524) ep. 10
 
 - [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://myanimelist.net/anime.php?id=54595) ep. 12
