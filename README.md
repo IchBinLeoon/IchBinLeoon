@@ -72,18 +72,6 @@
 
 - [Isekai Meikyuu de Harem wo](https://myanimelist.net/anime.php?id=44524) ep. 10
 
-- [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://myanimelist.net/anime.php?id=54595) ep. 12
-
-- [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://myanimelist.net/anime.php?id=54595) ep. 11
-
-- [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://myanimelist.net/anime.php?id=54595) ep. 10
-
-- [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://myanimelist.net/anime.php?id=54595) ep. 9
-
-- [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://myanimelist.net/anime.php?id=54595) ep. 8
-
-- [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://myanimelist.net/anime.php?id=54595) ep. 7
-
 <!-- MyAnimeList Activity End -->
 </details>
 
