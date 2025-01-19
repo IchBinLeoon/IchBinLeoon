@@ -66,6 +66,12 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Dandadan](https://myanimelist.net/anime.php?id=57334) ep. 4
+
+- [Dandadan](https://myanimelist.net/anime.php?id=57334) ep. 3
+
+- [Dandadan](https://myanimelist.net/anime.php?id=57334) ep. 2
+
 - [Dandadan](https://myanimelist.net/anime.php?id=57334) ep. 1
 
 - [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://myanimelist.net/anime.php?id=58567) ep. 3
