@@ -66,6 +66,8 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://myanimelist.net/anime.php?id=58567) ep. 3
+
 - [Dr. Stone: Science Future](https://myanimelist.net/anime.php?id=57592) ep. 2
 
 - [Dr. Stone: Science Future](https://myanimelist.net/anime.php?id=57592) ep. 1
