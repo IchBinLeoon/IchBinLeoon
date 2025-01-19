@@ -66,6 +66,16 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Dandadan](https://myanimelist.net/anime.php?id=57334) ep. 9
+
+- [Dandadan](https://myanimelist.net/anime.php?id=57334) ep. 8
+
+- [Dandadan](https://myanimelist.net/anime.php?id=57334) ep. 7
+
+- [Dandadan](https://myanimelist.net/anime.php?id=57334) ep. 6
+
+- [Dandadan](https://myanimelist.net/anime.php?id=57334) ep. 5
+
 - [Dandadan](https://myanimelist.net/anime.php?id=57334) ep. 4
 
 - [Dandadan](https://myanimelist.net/anime.php?id=57334) ep. 3
