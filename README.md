@@ -66,35 +66,35 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 13
+
+- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 12
+
+- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 11
+
+- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 10
+
+- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 9
+
+- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 8
+
+- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 7
+
+- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 6
+
+- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 5
+
+- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 4
+
+- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 3
+
+- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 2
+
+- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 1
+
 - [Dandadan](https://myanimelist.net/anime.php?id=57334) ep. 12
 
 - [Dandadan](https://myanimelist.net/anime.php?id=57334) ep. 11
-
-- [Dandadan](https://myanimelist.net/anime.php?id=57334) ep. 10
-
-- [Dandadan](https://myanimelist.net/anime.php?id=57334) ep. 9
-
-- [Dandadan](https://myanimelist.net/anime.php?id=57334) ep. 8
-
-- [Dandadan](https://myanimelist.net/anime.php?id=57334) ep. 7
-
-- [Dandadan](https://myanimelist.net/anime.php?id=57334) ep. 6
-
-- [Dandadan](https://myanimelist.net/anime.php?id=57334) ep. 5
-
-- [Dandadan](https://myanimelist.net/anime.php?id=57334) ep. 4
-
-- [Dandadan](https://myanimelist.net/anime.php?id=57334) ep. 3
-
-- [Dandadan](https://myanimelist.net/anime.php?id=57334) ep. 2
-
-- [Dandadan](https://myanimelist.net/anime.php?id=57334) ep. 1
-
-- [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://myanimelist.net/anime.php?id=58567) ep. 3
-
-- [Dr. Stone: Science Future](https://myanimelist.net/anime.php?id=57592) ep. 2
-
-- [Dr. Stone: Science Future](https://myanimelist.net/anime.php?id=57592) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
