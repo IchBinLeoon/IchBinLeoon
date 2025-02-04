@@ -66,6 +66,10 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Dr. Stone: Science Future](https://myanimelist.net/anime.php?id=57592) ep. 4
+
+- [Dr. Stone: Science Future](https://myanimelist.net/anime.php?id=57592) ep. 3
+
 - [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://myanimelist.net/anime.php?id=58567) ep. 5
 
 - [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://myanimelist.net/anime.php?id=58567) ep. 4
@@ -91,10 +95,6 @@
 - [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 4
 
 - [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 3
-
-- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 2
-
-- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 1
 
 <!-- MyAnimeList Activity End -->
 </details>
