@@ -14,11 +14,6 @@ class MyAnimeListError(Exception):
         super().__init__(status)
 
 
-class NotFoundError(Exception):
-    def __init__(self) -> None:
-        super().__init__()
-
-
 def request_mal() -> str:
     r = requests.get(f'{MYANIMELIST_BASE_URL}/history/{MYANIMELIST_USERNAME}')
     if r.status_code != 200:
@@ -41,25 +36,23 @@ def scrape_mal(data: str, length: int) -> list:
                 action = 'chap.' if 'manga.php?' in link else 'ep.'
                 activity = entry.strong.text.replace('\n', '')
                 media.append(f'[{title}]({link}) {action} {activity}')
-    else:
-        raise NotFoundError
 
     return [f'- {x}' for x in media]
 
 
 def main() -> None:
     history = '\n\n'.join(scrape_mal(data=request_mal(), length=15))
-    print(history)
 
-    with io.open('README.md', 'r', encoding='utf8') as f:
-        content = f.read()
+    if history:
+        with io.open('README.md', 'r', encoding='utf8') as f:
+            content = f.read()
 
-    c = re.compile(r'<!\-\- MyAnimeList Activity Start \-\->.*<!\-\- MyAnimeList Activity End \-\->', re.DOTALL)
-    chunk = f'<!-- MyAnimeList Activity Start -->\n\n{history}\n\n<!-- MyAnimeList Activity End -->'
-    content = c.sub(chunk, content)
+        c = re.compile(r'<!\-\- MyAnimeList Activity Start \-\->.*<!\-\- MyAnimeList Activity End \-\->', re.DOTALL)
+        chunk = f'<!-- MyAnimeList Activity Start -->\n\n{history}\n\n<!-- MyAnimeList Activity End -->'
+        content = c.sub(chunk, content)
 
-    with io.open('README.md', 'w', encoding='utf8') as f:
-        f.write(content)
+        with io.open('README.md', 'w', encoding='utf8') as f:
+            f.write(content)
 
 
 if __name__ == '__main__':

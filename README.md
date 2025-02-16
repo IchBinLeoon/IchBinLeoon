@@ -24,8 +24,8 @@
   <a href="https://discordapp.com/users/223871059068321793">
     <img align="left" alt="Discord" title="Discord" width="30px" src="assets/discord.png">
   </a>
-  <a href="https://twitter.com/IchBinLeoon">
-    <img align="left" alt="Twitter" title="Twitter" width="30px" src="assets/twitter.png">
+  <a href="https://x.com/IchBinLeoon">
+    <img align="left" alt="X" title="Twitter" width="30px" src="assets/x.png">
   </a>
   <a href="https://www.reddit.com/user/IchBinLeoon">
     <img align="left" alt="Reddit" title="Reddit" width="30px" src="assets/reddit.png">
@@ -46,8 +46,8 @@
 <br>
 <p>
   <a href="https://github.com/IchBinLeoon" width="100%">
-    <img alt="GitHub Stats" height="165px" src="https://github-readme-stats-ichbinleoon.vercel.app/api?username=IchBinLeoon&count_private=true&show_icons=true&theme=dark&hide_border=true&hide_title=true&include_all_commits=true">
-    <img alt="Top Langs" height="165px" src="https://github-readme-stats-ichbinleoon.vercel.app/api/top-langs?username=IchBinLeoon&langs_count=10&layout=compact&hide_border=true&theme=dark">
+    <img alt="GitHub Stats" height="165px" src="https://github-readme-stats-ichbinleoons-projects.vercel.app/api?username=IchBinLeoon&count_private=true&show_icons=true&theme=dark&hide_border=true&hide_title=true&include_all_commits=true">
+    <img alt="Top Langs" height="165px" src="https://github-readme-stats-ichbinleoons-projects.vercel.app/api/top-langs?username=IchBinLeoon&layout=compact&hide_border=true&theme=dark">
   </a>
 </p>
 </details>
@@ -57,7 +57,7 @@
 <br>
 <p>
   <a href="https://open.spotify.com/user/v7ttuai8eqcoqdseoztwk31os">
-    <img alt="Spotify" height="200px" src="https://spotify-readme-ichbinleoon.vercel.app/api/spotify">
+    <img alt="Spotify" height="200px" src="https://spotify-readme-ichbinleoons-projects.vercel.app/api/spotify">
   </a>
 </p>
 </details>
@@ -65,37 +65,6 @@
 <details close>
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
-
-- [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://myanimelist.net/anime.php?id=58567) ep. 7
-
-- [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://myanimelist.net/anime.php?id=58567) ep. 6
-
-- [Dr. Stone: Science Future](https://myanimelist.net/anime.php?id=57592) ep. 6
-
-- [Dr. Stone: Science Future](https://myanimelist.net/anime.php?id=57592) ep. 5
-
-- [Dr. Stone: Science Future](https://myanimelist.net/anime.php?id=57592) ep. 4
-
-- [Dr. Stone: Science Future](https://myanimelist.net/anime.php?id=57592) ep. 3
-
-- [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://myanimelist.net/anime.php?id=58567) ep. 5
-
-- [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://myanimelist.net/anime.php?id=58567) ep. 4
-
-- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 13
-
-- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 12
-
-- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 11
-
-- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 10
-
-- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 9
-
-- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 8
-
-- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 7
-
 <!-- MyAnimeList Activity End -->
 </details>
 
