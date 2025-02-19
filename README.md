@@ -66,6 +66,10 @@
 <summary>MyAnimeList History 📈</summary>
 <!-- MyAnimeList Activity Start -->
 
+- [Isekai Meikyuu de Harem wo](https://myanimelist.net/anime.php?id=44524) ep. 12
+
+- [Isekai Meikyuu de Harem wo](https://myanimelist.net/anime.php?id=44524) ep. 11
+
 - [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://myanimelist.net/anime.php?id=58567) ep. 7
 
 - [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://myanimelist.net/anime.php?id=58567) ep. 6
@@ -91,10 +95,6 @@
 - [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 10
 
 - [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 9
-
-- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 8
-
-- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 7
 
 <!-- MyAnimeList Activity End -->
 </details>
