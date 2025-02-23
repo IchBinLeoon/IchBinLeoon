@@ -90,12 +90,6 @@
 
 - [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://myanimelist.net/anime.php?id=58567) ep. 4
 
-- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 13
-
-- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 12
-
-- [Serial Experiments Lain](https://myanimelist.net/anime.php?id=339) ep. 11
-
 <!-- MyAnimeList Activity End -->
 </details>
 
