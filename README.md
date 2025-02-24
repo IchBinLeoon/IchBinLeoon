@@ -63,34 +63,13 @@
 </details>
 
 <details close>
-<summary>MyAnimeList History 📈</summary>
-<!-- MyAnimeList Activity Start -->
-
-- [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://myanimelist.net/anime.php?id=58567) ep. 8
-
-- [Dr. Stone: Science Future](https://myanimelist.net/anime.php?id=57592) ep. 7
-
-- [Isekai Meikyuu de Harem wo](https://myanimelist.net/anime.php?id=44524) ep. 12
-
-- [Isekai Meikyuu de Harem wo](https://myanimelist.net/anime.php?id=44524) ep. 11
-
-- [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://myanimelist.net/anime.php?id=58567) ep. 7
-
-- [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://myanimelist.net/anime.php?id=58567) ep. 6
-
-- [Dr. Stone: Science Future](https://myanimelist.net/anime.php?id=57592) ep. 6
-
-- [Dr. Stone: Science Future](https://myanimelist.net/anime.php?id=57592) ep. 5
-
-- [Dr. Stone: Science Future](https://myanimelist.net/anime.php?id=57592) ep. 4
-
-- [Dr. Stone: Science Future](https://myanimelist.net/anime.php?id=57592) ep. 3
-
-- [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://myanimelist.net/anime.php?id=58567) ep. 5
-
-- [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://myanimelist.net/anime.php?id=58567) ep. 4
-
-<!-- MyAnimeList Activity End -->
+<summary>MyAnimeList Activity 📈</summary>
+<br>
+<p>
+  <a href="https://github.com/IchBinLeoon/mal-readme-stats">
+    <img alt="Anime Activity" src="https://mal-readme-stats.vercel.app/api/activity/anime/IchBinLeoon">
+  </a>
+</p>
 </details>
 
 ---
@@ -99,10 +78,5 @@
 <p align="center">
   <a href="https://ko-fi.com/ichbinleoon">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/IchBinLeoon/IchBinLeoon/actions">
-    <img alt="Build" src="https://img.shields.io/github/actions/workflow/status/IchBinLeoon/IchBinLeoon/update.yml?branch=main&style=flat-square">
   </a>
 </p>
