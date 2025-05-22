@@ -1,40 +1,41 @@
-## Hello there, I am Leon! <img alt="Wave" height="25px" src="https://raw.githubusercontent.com/IchBinLeoon/IchBinLeoon/main/assets/wave.gif">
+## Hello there, I am Leon! <img src="assets/wave.gif" alt="Wave" height="25px">
 
 ---
 
-<img align="right" alt="Nadeshiko" title="<3" height="215px" src="assets/nadeshiko.gif">
+<img align="right" src="assets/nadeshiko.gif" title="<3" alt="Nadeshiko" height="215px">
 
 ### Languages, Technologies & Tools I've used 🚀💻
 
+[![Rust](https://img.shields.io/static/v1?style=for-the-badge&logo=Rust&logoColor=FFFFFF&message=Rust&color=F74C00&label=)](https://www.rust-lang.org/)
 [![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=Python&logoColor=FFFFFF&message=Python&color=3776AB&label=)](https://www.python.org/)
-[![Rust](https://img.shields.io/static/v1?style=for-the-badge&logo=Rust&logoColor=FFFFFF&message=Rust&color=F46623&label=)](https://www.rust-lang.org/)
 [![Go](https://img.shields.io/static/v1?style=for-the-badge&logo=Go&logoColor=FFFFFF&message=Go&color=00ADD8&label=)](https://golang.org/)
 [![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF&message=TypeScript&color=3178C6&label=)](https://www.typescriptlang.org/)
+[![Astro](https://img.shields.io/static/v1?style=for-the-badge&logo=Astro&logoColor=FFFFFF&message=Astro&color=BC52EE&label=)](https://astro.build/)
 [![Svelte](https://img.shields.io/static/v1?style=for-the-badge&logo=Svelte&logoColor=FFFFFF&message=Svelte&color=FF3E00&label=)](https://svelte.dev/)
-[![Vue](https://img.shields.io/static/v1?style=for-the-badge&logo=Vue.js&logoColor=FFFFFF&message=Vue&color=4FC08D&label=)](https://vuejs.org/)
 [![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=Docker&logoColor=FFFFFF&message=Docker&color=2496ED&label=)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&logo=Kubernetes&logoColor=FFFFFF&message=Kubernetes&color=326CE5&label=)](https://kubernetes.io/)
+[![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&message=PostgreSQL&color=4169E1&label=)](https://www.postgresql.org/)
 [![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=Git&message=Git&logoColor=FFFFFF&color=F05032&label=)](https://git-scm.com/)
-[![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&message=PostgreSQL&color=336791&label=)](https://www.postgresql.org/)
-[![JetBrains](https://img.shields.io/static/v1?style=for-the-badge&logo=JetBrains&logoColor=FFFFFF&message=JetBrains&color=000000&label=)](https://www.jetbrains.com/)
-[![Arch](https://img.shields.io/static/v1?style=for-the-badge&logo=Arch+Linux&logoColor=FFFFFF&message=Arch&nbsp;Linux&color=1793D1&label=)](https://archlinux.org/)
+[![JetBrains](https://img.shields.io/static/v1?style=for-the-badge&logo=JetBrains&logoColor=FFFFFF&message=JetBrains&color=E627F8&label=)](https://www.jetbrains.com/)
+[![Arch Linux](https://img.shields.io/static/v1?style=for-the-badge&logo=Arch+Linux&logoColor=FFFFFF&message=Arch&nbsp;Linux&color=1793D1&label=)](https://archlinux.org/)
 
-### Connect with Me 🤝🏻📫
+### Connect with Me 🤝📬
 
 <p>
   <a href="https://discordapp.com/users/223871059068321793">
-    <img align="left" alt="Discord" title="Discord" width="30px" src="assets/discord.png">
+    <img align="left" src="assets/discord.png" title="Discord" alt="Discord" width="30px">
   </a>
   <a href="https://x.com/IchBinLeoon">
-    <img align="left" alt="X" title="Twitter" width="30px" src="assets/x.png">
+    <img align="left" src="assets/x.png" title="X" alt="X" width="30px">
   </a>
   <a href="https://www.reddit.com/user/IchBinLeoon">
-    <img align="left" alt="Reddit" title="Reddit" width="30px" src="assets/reddit.png">
+    <img align="left" src="assets/reddit.png" title="Reddit" alt="Reddit" width="30px">
   </a>
   <a href="https://myanimelist.net/profile/IchBinLeoon">
-    <img align="left" alt="MyAnimeList" title="MyAnimeList" width="30px" src="assets/myanimelist.png">
+    <img align="left" src="assets/myanimelist.png" title="MyAnimeList" alt="MyAnimeList" width="30px">
   </a>
   <a href="https://myfigurecollection.net/profile/IchBinLeoon">
-    <img align="left" alt="MyFigureCollection" title="MyFigureCollection" width="30px" src="assets/myfigurecollection.png">
+    <img align="left" src="assets/myfigurecollection.png" title="MyFigureCollection" alt="MyFigureCollection" width="30px">
   </a>
 </p>
 <br>
@@ -45,9 +46,9 @@
 <summary>GitHub Statistics 📊</summary>
 <br>
 <p>
-  <a href="https://github.com/IchBinLeoon" width="100%">
-    <img alt="GitHub Stats" height="165px" src="https://github-readme-stats-ichbinleoons-projects.vercel.app/api?username=IchBinLeoon&count_private=true&show_icons=true&theme=dark&hide_border=true&hide_title=true&include_all_commits=true">
-    <img alt="Top Langs" height="165px" src="https://github-readme-stats-ichbinleoons-projects.vercel.app/api/top-langs?username=IchBinLeoon&layout=compact&hide_border=true&theme=dark">
+  <a href="https://github.com/IchBinLeoon">
+    <img src="https://github-readme-stats-ichbinleoons-projects.vercel.app/api?username=IchBinLeoon&include_all_commits=true&show_icons=true&theme=dark&hide_border=true&hide_title=true" alt="Statistics" height="165px">
+    <img src="https://github-readme-stats-ichbinleoons-projects.vercel.app/api/top-langs?username=IchBinLeoon&layout=compact&theme=dark&hide_border=true" alt="Languages" height="165px">
   </a>
 </p>
 </details>
@@ -57,7 +58,7 @@
 <br>
 <p>
   <a href="https://open.spotify.com/user/v7ttuai8eqcoqdseoztwk31os">
-    <img alt="Spotify" height="200px" src="https://spotify-readme-ichbinleoons-projects.vercel.app/api/spotify">
+    <img src="https://spotify-readme-ichbinleoons-projects.vercel.app/api/spotify" alt="Spotify" height="200px">
   </a>
 </p>
 </details>
@@ -67,14 +68,15 @@
 <br>
 <p>
   <a href="https://github.com/IchBinLeoon/mal-readme-stats">
-    <img alt="Anime Activity" src="https://mal-readme-stats.vercel.app/api/activity/anime/IchBinLeoon">
+    <img src="https://mal-readme-stats.vercel.app/api/activity/anime/IchBinLeoon" alt="MyAnimeList" height="600px">
   </a>
 </p>
 </details>
 
 ---
 
-<p align="center">Thanks for stopping by! 😊 Show some ❤️ by starring some of my repositories if you find them interesting.</p>
+<p align="center">Thanks for stopping by! 😊</p>
+<p align="center">Show some ❤️ by starring some of my repositories if you find them interesting!</p>
 <p align="center">
   <a href="https://ko-fi.com/ichbinleoon">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
